@@ -15,10 +15,11 @@ Working repository for compiling, editing and producing the book. Drafting still
 
 ## Current state (25 October 2026)
 
-- Consolidated from Google Drive: Foreword, How to Use, Create Your Plan, Chapters 4–11, Appendix E — about 30,400 words.
+- Consolidated from Google Drive: about 30,400 words, organised in three parts — Part One (Foreword, How to Use, Create Your Plan), Part Two (Chapters 1–7, one per Flow7 step), Part Three (Know the Business) — plus Appendix E.
+- File names give reading order: `1-` Part One, `2-` Part Two, `3-` Part Three, `9-` appendices.
 - Not yet in the manuscript: Introduction, Appendices A–D, front matter (see `editorial/edit-log.md`).
-- Style sheet v0.1 drafted with seven open decisions for Stuart.
-- No editorial changes made yet — the text is word-for-word from Drive.
+- Style sheet v0.1: four decisions settled (references, numbering, handbook, product count); three still open.
+- Structural pass 1 (part structure, renumbering, cross-references, handbook wording, Know the Business signposts) is on branch `structural-pass-1`, awaiting approval. No copy-edits yet.
 
 ## Working rules
 

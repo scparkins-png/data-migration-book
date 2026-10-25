@@ -1,4 +1,4 @@
-**CHAPTER 6**
+**CHAPTER 3**
 
 # One Version of the Truth
 
@@ -8,7 +8,7 @@
 
 ## Where You Are in Flow7
 
-You have done the groundwork. In **Chapter 4** you found every data source, including the ones nobody mentioned at first. In **Chapter 5** you took an honest look at the state of that data — the duplicates, the blanks, the formatting that drifts from record to record.
+You have done the groundwork. In **Chapter 1** you found every data source, including the ones nobody mentioned at first. In **Chapter 2** you took an honest look at the state of that data — the duplicates, the blanks, the formatting that drifts from record to record.
 
 Now comes the decision that holds the rest of the migration together: out of everything you have found, **what is the real, authoritative version you are going to move?** This is Step 3 — defining your Data Master, or as Flow7 calls it, your **"one source of the truth."**
 
@@ -22,8 +22,8 @@ Now comes the decision that holds the rest of the migration together: out of eve
 
 ## What you'll need from earlier chapters
 
-- Your Step 1 source inventory (Chapter 4)
-- Your Step 2 quality assessment findings — including which source wins where they disagree (Chapter 5)
+- Your Step 1 source inventory (Chapter 1)
+- Your Step 2 quality assessment findings — including which source wins where they disagree (Chapter 2)
 - A drawing tool of your choice (PowerPoint, Miro or Lucid) for the Master Map
 - A working tool for the master set — Excel for most teams; SQL or low-cost cloud tools (Skyvia, Zoho DataPrep) for larger jobs
 
@@ -33,7 +33,7 @@ When the same information lives in more than one place, those places disagree. T
 
 You cannot move all of those versions into a new system and hope it sorts itself out. It will not. As the Flow7 Step 3 guidance puts it, without a defined master you end up with a migration that imports everything and leaves the business to untangle the conflicts afterwards — and that untangling never actually happens. The duplicates and contradictions simply become permanent features of the new system.
 
-Defining the master **before** you move anything is how you stop that happening. You decide, on purpose and in advance, which source wins when two sources disagree, which records are coming and which are being left behind, and where the authoritative copy of each thing actually lives. Every later step — knowing your destination (Chapter 7), mapping (Chapter 8), testing (Chapter 9) — builds directly on this decision.
+Defining the master **before** you move anything is how you stop that happening. You decide, on purpose and in advance, which source wins when two sources disagree, which records are coming and which are being left behind, and where the authoritative copy of each thing actually lives. Every later step — knowing your destination (Chapter 4), mapping (Chapter 5), testing (Chapter 6) — builds directly on this decision.
 
 ## What You Are Actually Doing
 
@@ -56,7 +56,7 @@ Two ideas sit underneath all four parts:
 
 If you have just read part C and quietly panicked at the word "database" — stop. **A master set is defined by structure and process, not by software.** What makes something a master is not the tool it lives in; it is that it has a clear structure (one row per record, consistent columns, and a reliable unique identifier you have created yourself), and a process around it (one named owner, change control, version control and backups). An Excel file with all of that is a far better master than a database without it.
 
-For a non-technical business doing the migration itself, **Excel is the right place to start, and this workbook recommends it as your starter tool.** It is the thing you already know how to use, and it is entirely capable of holding your master set while you make the decisions that actually matter.
+For a non-technical business doing the migration itself, **Excel is the right place to start, and this handbook recommends it as your starter tool.** It is the thing you already know how to use, and it is entirely capable of holding your master set while you make the decisions that actually matter.
 
 On the Sage 50 → X3 project I reached for a combination of Excel and SQL, not because Excel cannot be a master, but because of the *job* in front of us — the volume of records, the number of sources being linked, and the number of people touching the data at once. The database was simply my tool of choice; low-cost tools such as Skyvia or Zoho DataPrep would have done the work too.
 
@@ -127,9 +127,9 @@ These items are taken directly from Step 3 of the Flow7 Data Migration Project C
 >
 > *The full Master Map page from the Step 3 template, drawn from the case study. Four agreed data sources feed the central Master Set through SQL views; the red boxes are sources identified but not yet defined or agreed.*
 
-{{figure: fig-06-02 | Figure 6.2 — Sage 50 to Sage X3 Master Map, showing four agreed data sources combining into the central Master Set via SQL views}}
+{{figure: fig-c3-01 | Figure 3.1 — Sage 50 to Sage X3 Master Map, showing four agreed data sources combining into the central Master Set via SQL views}}
 
-*Figure 6.2 — Sage 50 to Sage X3 Master Map, showing four agreed data sources combining into the central Master Set via SQL views*
+*Figure 3.1 — Sage 50 to Sage X3 Master Map, showing four agreed data sources combining into the central Master Set via SQL views*
 
 *Source: Flow7 Step 3 — Define Your Data Master, Help Notes Part B (SP Data Consultancy Ltd, V1.0).*
 
@@ -155,7 +155,7 @@ You do not need a SQL database or special software to make the core Step 3 decis
 
 Pick **one** important data entity for your migration — your customers, your products, your suppliers, whichever matters most. For that one entity, write down:
 
-1. **Which sources hold it?** List every place this entity currently lives (pull these from your Chapter 4 inventory).
+1. **Which sources hold it?** List every place this entity currently lives (pull these from your Chapter 1 inventory).
    {{write-in}}
 2. **Which source wins?** If two sources disagree about the same record, which one is the authoritative version — and why?
    {{write-in}}
@@ -178,7 +178,7 @@ You have one defined, controlled, owned source of the truth. Every record that w
 
 ## You're Ready to Move On When…
 
-Step 3 is genuinely complete — and you are ready for Chapter 7, Know Your Destination — when **all** of these are true:
+Step 3 is genuinely complete — and you are ready for Chapter 4, Know Your Destination — when **all** of these are true:
 
 - Your **Master List** names every source, with its location and a named owner.
 - A **change-control process** is written down and the team knows the rule: nothing enters or changes in the master set without sign-off.
@@ -188,3 +188,5 @@ Step 3 is genuinely complete — and you are ready for Chapter 7, Know Your Dest
 - The sources and master set are **backed up and under version control**.
 
 When those boxes are ticked, you have your one source of the truth. In the next chapter you turn to the other end of the journey — the system you are moving *into* — and find out what it will actually accept.
+
+> ▶ **Know the business.** Before you move on, note what this step taught you about the business: what it considers true when forced to choose, and the rules that now decide the authoritative version. You will pull these notes together in the closing chapter, *Know the Business*.

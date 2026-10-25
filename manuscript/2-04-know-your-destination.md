@@ -1,4 +1,4 @@
-**CHAPTER 7**
+**CHAPTER 4**
 
 # Know Your Destination
 
@@ -8,7 +8,7 @@
 
 ## Where You Are in Flow7
 
-You have spent three chapters working on the data you already have. In **Chapter 4** you found every source. In **Chapter 5** you took an honest look at its quality. In **Chapter 6** you pulled the right parts together into one controlled master set — your single source of the truth.
+You have spent three chapters working on the data you already have. In **Chapter 1** you found every source. In **Chapter 2** you took an honest look at its quality. In **Chapter 3** you pulled the right parts together into one controlled master set — your single source of the truth.
 
 Now you turn around and look the other way. Step 4 is about the system you are moving *into* — what it expects, what it will refuse, and how the people who use it will actually work once the data lands.
 
@@ -21,20 +21,20 @@ You need to be aware of your data,  processes and terminology first. Armed with 
 - Get verified admin and user access to every system that will receive migrated data
 - Document the destination, area by area — fields, formats, validation rules, limits
 - Run sample imports and measure how long they take
-- Export each area with field titles, ready for mapping in Chapter 8
-- Document the user processes that will be tested in Chapter 9
+- Export each area with field titles, ready for mapping in Chapter 5
+- Document the user processes that will be tested in Chapter 6
 
 ## What you'll need from earlier chapters
 
-- Your Master Data Set from Chapter 6
+- Your Master Data Set from Chapter 3
 - Your Step 1C Business Process List — used as the starting point for the user-process side
 - Working admin and user accounts in the target system
 
 ## Why This Matters
 
-Knowing your destination as well as you know your source is what makes the migration import cleanly the first time. Every new system has rules the old one never had — fields it insists on, formats it expects, validation it applies, loading orders it requires. None of that is a fault; it is simply how the new system works. Discover it now, on purpose and in advance, and each of those rules becomes a documented requirement your mapping in Chapter 8 will satisfy. Discover it during the migration window, and each one becomes an emergency.
+Knowing your destination as well as you know your source is what makes the migration import cleanly the first time. Every new system has rules the old one never had — fields it insists on, formats it expects, validation it applies, loading orders it requires. None of that is a fault; it is simply how the new system works. Discover it now, on purpose and in advance, and each of those rules becomes a documented requirement your mapping in Chapter 5 will satisfy. Discover it during the migration window, and each one becomes an emergency.
 
-There is a second reason this step matters, and it is easy to underrate. A migration is not only about data arriving in the right boxes. It is about people being able to do their jobs in the new system the morning after. Step 4 therefore has two halves: knowing what the system will *accept* (the data side), and knowing how users will *work* in it (the process side). Get both, and your testing in Chapter 9 has something solid to test against. Get only the first, and clean data ends up sitting in a system nobody knows how to operate.
+There is a second reason this step matters, and it is easy to underrate. A migration is not only about data arriving in the right boxes. It is about people being able to do their jobs in the new system the morning after. Step 4 therefore has two halves: knowing what the system will *accept* (the data side), and knowing how users will *work* in it (the process side). Get both, and your testing in Chapter 6 has something solid to test against. Get only the first, and clean data ends up sitting in a system nobody knows how to operate.
 
 ## What You Are Actually Doing
 
@@ -48,13 +48,13 @@ Flow7 splits Step 4 into two sheets, and they answer two different questions.
 - **User Process Docs?** — is there documentation for how users work in this area? (Yes / No, with the file.)
 - **Reports** — what reporting will this area need, with any notes.
 
-Underneath those columns sit the activities that fill them in. Get proper access to the system. Check each area against the real business processes. Look for sample data. Load those samples to test the import and gauge its complexity. Export data out *with its field and column titles* — this becomes the raw material for your mapping in Chapter 8. And identify how you will report on day one.
+Underneath those columns sit the activities that fill them in. Get proper access to the system. Check each area against the real business processes. Look for sample data. Load those samples to test the import and gauge its complexity. Export data out *with its field and column titles* — this becomes the raw material for your mapping in Chapter 5. And identify how you will report on day one.
 
 **4B — The User Target Processing List (the people side).** This sheet is about high-level process mapping: how a user will actually carry out their job in the new system. For each target area or module you record the process and department, write a short note on the user process, describe the **process that needs testing and user-experience (how-to) documenting**, and mark whether it has been documented and checked yet (Yes/Yes, Yes/No, and so on).
 
 The activities here are deliberately simple: create a list of the processes that are needed — and you do not start from a blank page, because you already built a Business Process List back in Step 1; identify the user experience for each of those processes in the new system; and document the processes *with your team*, not in isolation.
 
-This second sheet does quiet but important work. It is, in effect, where your **User Acceptance Testing (UAT) scripts begin**. A documented process — "this is how a sales clerk raises an order in the new system" — becomes a test you can hand to a real user in Chapter 9. The checklist makes the link explicit: the documented processes turn into UAT test scripts used at Step 6.
+This second sheet does quiet but important work. It is, in effect, where your **User Acceptance Testing (UAT) scripts begin**. A documented process — "this is how a sales clerk raises an order in the new system" — becomes a test you can hand to a real user in Chapter 6. The checklist makes the link explicit: the documented processes turn into UAT test scripts used at Step 6.
 
 > **Plain-English box — what is UAT?** **UAT** stands for *User Acceptance Testing*. It simply means letting the actual users — not the technical team — try to do their real jobs with the migrated data, and confirm it works for them. A "UAT script" is just a written set of steps for them to follow, so the test is consistent and nothing important gets skipped. You are writing the first drafts of those scripts now, in Step 4, while the processes are fresh in your mind.
 
@@ -138,7 +138,7 @@ The thinking happens on the page; the production work happens in the proper tool
 - The **Summary Target Sheet (4A)** — for the data side: one row per target area, recording sample data, import checks (with timings), process docs and reporting needs, plus the system's name, version, access and schema at the top.
 - The **User Target Processing List (4B)** — for the people side: one row per process, with a note on the user experience and a record of whether it has been documented into a UAT script yet.
 
-When you export data out of each target area for these sheets, **keep the field and column titles** — that export is the raw material you will map against in Chapter 8.
+When you export data out of each target area for these sheets, **keep the field and column titles** — that export is the raw material you will map against in Chapter 5.
 
 ## What you have achieved in this chapter
 
@@ -146,7 +146,7 @@ You know your destination as well as you know your source. You have working acce
 
 ## You're Ready to Move On When…
 
-Step 4 is genuinely complete — and you are ready for Chapter 8, The Preparation Work (Mapping) — when **all** of these are true:
+Step 4 is genuinely complete — and you are ready for Chapter 5, The Preparation Work (Mapping) — when **all** of these are true:
 
 - You have **verified access** (admin and user, as needed) to every system that will receive migrated data.
 - You have **checked the samples** in each target area and understand its mandatory fields, validation rules and limits.
@@ -155,4 +155,6 @@ Step 4 is genuinely complete — and you are ready for Chapter 8, The Preparatio
 - Your **User Target Processing List** captures the processes that matter (built from your Step 1 Business Process List), with the user experience identified and the key ones documented into draft **UAT scripts** for Step 6.
 - You know **how you will report on day one** from the new system.
 
-When those boxes are ticked, you know your destination as well as you know your source. You have one controlled set of data (Chapter 6) and a clear picture of exactly what the new system will accept and how people will use it (this chapter). In the next chapter you bring the two ends together — mapping, cleaning and transforming your master set so it fits the target you have just got to know.
+When those boxes are ticked, you know your destination as well as you know your source. You have one controlled set of data (Chapter 3) and a clear picture of exactly what the new system will accept and how people will use it (this chapter). In the next chapter you bring the two ends together — mapping, cleaning and transforming your master set so it fits the target you have just got to know.
+
+> ▶ **Know the business.** Before you move on, note what this step taught you about the business: where the way people work today does not fit the way the new system expects them to work. You will pull these notes together in the closing chapter, *Know the Business*.

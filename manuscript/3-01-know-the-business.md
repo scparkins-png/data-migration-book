@@ -1,5 +1,3 @@
-**CHAPTER 11**
-
 # Know the Business
 
 ### *The way they work, and the words they use — the thread, pulled together*

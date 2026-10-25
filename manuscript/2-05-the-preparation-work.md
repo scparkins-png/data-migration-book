@@ -1,4 +1,4 @@
-**CHAPTER 8**
+**CHAPTER 5**
 
 # The Preparation Work
 
@@ -8,7 +8,7 @@
 
 ## Where You Are in Flow7
 
-You have found your data (Chapter 4), assessed its quality honestly (Chapter 5), consolidated it into one authoritative master set (Chapter 6), and learned exactly what your target system expects (Chapter 7).
+You have found your data (Chapter 1), assessed its quality honestly (Chapter 2), consolidated it into one authoritative master set (Chapter 3), and learned exactly what your target system expects (Chapter 4).
 
 Now you connect those two ends of the journey together.
 
@@ -22,12 +22,12 @@ If the earlier chapters were all about understanding, this one is about **doing*
 - Write clear cleaning and transformation rules for every mismatch
 - Resolve picklist mismatches with the system owner
 - Load a cleaned sample to the target and check it visually
-- Define the sample test data set for Chapter 9 testing
+- Define the sample test data set for Chapter 6 testing
 
 ## What you'll need from earlier chapters
 
-- Your Master Data Set from Chapter 6 (the source side of the mapping)
-- Your target export with field and column titles from Chapter 7 (the target side)
+- Your Master Data Set from Chapter 3 (the source side of the mapping)
+- Your target export with field and column titles from Chapter 4 (the target side)
 - A mapping tool — Excel for most teams; Skyvia, Zoho DataPrep or SSMS for larger jobs
 - Real sample data from both source and target (not invented examples)
 
@@ -37,7 +37,7 @@ A clean mapping document is what turns a Master Data Set and a target system int
 
 Most first-attempt imports fail because that bridge does not exist. The data is there; the target is there; what is missing is the rule. A "Country" field holding the value GB will not import into a target that expects United Kingdom — and the fix takes ten minutes once you know about it. Pricing stored as 10 for ten per cent will land wrongly in a target that stores 0.1. Free text sitting in a product code field stops imports entirely. Each of these is a mismatch — and each one, once identified, becomes a transformation rule a colleague can follow.
 
-Step 5 is how you find them all, write the fix, and confirm the fix works on real sample data before any live record is touched. Done well, the mapping document is also the most reused artefact in the whole project: Chapter 9 testing references it, Chapter 10 go-live runs against it, and post-migration audit work picks it up unchanged.
+Step 5 is how you find them all, write the fix, and confirm the fix works on real sample data before any live record is touched. Done well, the mapping document is also the most reused artefact in the whole project: Chapter 6 testing references it, Chapter 7 go-live runs against it, and post-migration audit work picks it up unchanged.
 
 ## What You Are Actually Doing
 
@@ -256,7 +256,7 @@ Every source field has a target. Every mismatch has a written rule. Every pickli
 
 ## You're Ready to Move On When…
 
-Step 5 is genuinely complete — and you are ready for Chapter 9, Test Before You Trust — when **all** of these are true:
+Step 5 is genuinely complete — and you are ready for Chapter 6, Test Before You Trust — when **all** of these are true:
 
 - Every source field has been listed and assessed against the target.
 - Every mismatch has a written cleaning or transformation rule.
@@ -270,3 +270,5 @@ Step 5 is genuinely complete — and you are ready for Chapter 9, Test Before Yo
 If any of these is unresolved, do not proceed. Step 6 tests what you have built here. If the mapping is incomplete, the testing will be too — and the gaps will surface in production rather than in a controlled environment.
 
 When those boxes are ticked, your data is cleaned, mapped, and sample-confirmed. In the next chapter you put it through structured testing — deliberately, methodically, and with a clear pass/fail criterion for every check.
+
+> ▶ **Know the business.** Before you move on, note what this step taught you about the business: the words it uses for things, and where they collide with the new system. Add every mismatch to your Terminology Translator. You will pull these notes together in the closing chapter, *Know the Business*.

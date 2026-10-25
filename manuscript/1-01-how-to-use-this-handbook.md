@@ -40,7 +40,7 @@ One real migration threads through the whole book — a **Sage 50 to Sage X3** m
 
 If you take nothing else from this page, take this:
 
-- **Write in it.** Underline, argue in the margins, fill the boxes in pen. A blank workbook helped no one.
+- **Write in it.** Underline, argue in the margins, fill the boxes in pen. A blank handbook helped no one.
 - **Go in order, but don't be a slave to it.** Forward by default; back when the work tells you to.
 - **Be honest at the STOP/GO gates.** They only protect you if you tell them the truth.
 - **Don't rush the early steps.** The temptation is always to start moving data. The discipline is to understand it first. That discipline is the whole game.
