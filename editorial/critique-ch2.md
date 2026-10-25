@@ -14,7 +14,7 @@ The problem is that **the case study is told three times**:
 2. in From the Field, as three bullet lists
 3. in the worked example table
 
-On top of that, the checklist has 14 items under three intro paragraphs, and there are three separate closings after the gate. Words: 3,450 → about 2,450.
+On top of that, the checklist has 14 items under three intro paragraphs, and there are three separate closings after the gate. Words: 3,450 → about 2,370.
 
 ## Proposals
 
