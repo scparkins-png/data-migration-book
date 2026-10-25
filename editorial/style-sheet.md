@@ -95,7 +95,7 @@ Note: *How to Use This Handbook* lists "In this chapter you will…" **before** 
 - Case-study extracts are attributed with the full URL on first citation in the book.
 - Checklist items are verbatim from the Flow7 Data Migration Project Plan Checklist.
 - Forbes/McKinsey migration statistics appear in the Introduction only, with a transparent editorial footnote; the McKinsey attribution is removed. Primary source still to be verified.
-- How references are presented is an open decision (D1).
+- **References (decided 25 Oct 2026):** Stuart's own material (the Sage 50 → Sage X3 case study, Flow7 templates, checklists and workbooks) is covered once, in a single "About the sources" note in the front matter — no footnotes. External sources (e.g. the Forbes/McKinsey statistics) get a numbered note in the text and a full entry in a References appendix at the back.
 
 ---
 
@@ -103,10 +103,10 @@ Note: *How to Use This Handbook* lists "In this chapter you will…" **before** 
 
 | # | Decision | Options | Recommendation |
 |:-|:-|:-|:-|
-| D1 | **References.** Pass 2 replaced per-chapter References with one "About the sources" note. Chapter 11 and Appendix E (written later) have their own references again. | (a) single "About the sources" note; (b) per-chapter references | (a) — it's what you chose in Pass 2 and keeps chapters clean; fold Ch 11 and App E citations into it |
+| D1 | **References.** | **Decided:** own sources → one "About the sources" note; external sources → numbered note + References appendix | Done — see §7 |
 | D2 | **Workbook or handbook?** The text uses "workbook" 16 times and "handbook" 7 times. | handbook / workbook | "handbook" for the book (it's in the How to Use title); "workbook" only for the Excel checklist |
 | D3 | **Chapter numbering.** Front matter is numbered as Chapters 1–3, so Step 1 is Chapter 4. Create Your Plan says "Chapters 1 to 7" meaning the steps; Ch 4 says data quality "comes in Chapter 2". | (a) number only the step chapters 1–7 and leave front matter unnumbered; (b) keep 1–11 and fix the cross-references | (a) — chapter number = step number is far easier for readers |
 | D4 | **Cooking analogy.** Chapters 5, 9 and 10 refer to "the cooking analogy that runs through Flow7", but it is never introduced. | introduce it in Create Your Plan or How to Use / remove the references | Introduce it briefly in How to Use (two or three sentences) |
-| D5 | **Case-study product count.** 7,000 in Chapters 5–6, 7,500+ in Chapter 9. | which is right? | Your call — check against the case study |
+| D5 | **Case-study product count.** | **Decided:** 7,500+ everywhere | Done — apply in copy-edit pass |
 | D6 | **Section order.** See §5 above. | Fix How to Use / fix every chapter | Fix How to Use (one edit instead of seven) |
 | D7 | **Third-person self-references.** Chapters 8, 9 and 11 open From the Field with "documented by Stuart Parkins", and Chapter 8's opening quote is signed "— Stuart Parkins". | keep as source attribution / rewrite in first person | First person in the text; keep the formal attribution in the source note |
