@@ -85,6 +85,8 @@ Note: *How to Use This Handbook* lists "In this chapter you will…" **before** 
 
 **Checklist and gate format**: *Proposed* — every checklist as a three-column table (Ref · Task · ☐) and every gate as a two-column table (Gate · ☐), so the printed book has boxes to tick. Currently Chapters 6–9 use bullet lists.
 
+**Exercises and the worksheet pack (decided 25 Oct 2026 — option 3, hybrid):** each *Your Turn* in the book is a few short questions. All answer space (tables, boxes, lines) lives in the downloadable worksheet pack, numbered to match the exercise (see `editorial/worksheet-pack.md`). There is no write-in space in the book itself.
+
 **Exercises**: numbered by chapter in Part Two — Exercise 1.1, 1.2…; in *Create Your Plan*, Planning Exercise 1–4. Chapters 3–6 currently have single unnumbered exercises — fine as they are.
 
 **Figures**: numbered by chapter in Part Two (Figure 3.1); unnumbered in named chapters.
@@ -101,6 +103,7 @@ Note: *How to Use This Handbook* lists "In this chapter you will…" **before** 
 | `> 💡`, `> 📋`, `> ⚠️` | Tip, worked-example placeholder and caution callouts |
 | `> ↩ **Tracking back.**` | Go back to an earlier step |
 | `> 📄 **Your template.**` | Which template to open and where to download it |
+| `{{worksheet: N \| title}}` | Pointer to Worksheet N in the worksheet pack (replaces write-in space) |
 | `{{progress: N}}` | The seven-step "you are here" strip in the chapter opener |
 
 ## 7. Sources and citation

@@ -123,24 +123,15 @@ The essentials for Step 1. The full task list, with status, owner and date colum
 
 ## Your Turn
 
-Two quick exercises to start on the page. Your real inventory goes in the template.
+Two quick exercises to get you thinking. Jot your answers on Worksheets 1.1 and 1.2 in your worksheet pack, then build the real inventory in the template.
 
-### Exercise 1.1 — Run a Five-Minute Source Brainstorm
+### Exercise 1.1 — Five-Minute Source Brainstorm
 
-Before you organise anything, simply list every place data might live. Do not filter — write down everything, including the unofficial spreadsheets and the "we don't really use that any more" systems. Your readiness assessment will have given you a few to start with; you will find more when you talk to your team.
+Before you organise anything, simply list every place data might live, and who uses it. Do not filter — write down everything, including the unofficial spreadsheets and the "we don't really use that any more" systems. Your readiness assessment will have given you a few to start with; you will find more when you talk to your team.
 
-| # | Where data might live | Department / who uses it |
-|:-:|:-:|:-:|
-| 1 |   |   |
-| 2 |   |   |
-| 3 |   |   |
-| 4 |   |   |
-| 5 |   |   |
-| 6 |   |   |
-| 7 |   |   |
-| 8 |   |   |
+**Push past the obvious:** ask each department — Sales, Finance, Operations, HR, Warehouse, Customer Service — *"What do you keep that isn't in the main system?"*
 
-**Push past the obvious:** for each department — Sales, Finance, Operations, HR, Warehouse, Customer Service — ask *"what do you keep that isn't in the main system?"* The honest answers go in the table above.
+{{worksheet: 1.1 | Source brainstorm}}
 
 ### Exercise 1.2 — One-Line Export Reality Check
 
@@ -148,11 +139,11 @@ For your single most important source, answer one question honestly:
 
 **"If I had to export everything from this source today, how would I do it, how long would it take, and who has the login?"**
 
-{{write-in}}
-
 If you cannot answer all three parts, you have just found the first job for your Export Assessment.
 
-> 📄 **Your template.** Flow7 Step 1 — *Data Sources Inventory* (1A), *Export Assessment* (1B) and *Business Process List* (1C), with progress tracked in the *Flow7 Data Migration Project Plan Checklist*. Download at **stuartparkins.com**.
+{{worksheet: 1.2 | Export reality check}}
+
+> 📄 **Your template.** Flow7 Step 1 — *Data Sources Inventory* (1A), *Export Assessment* (1B) and *Business Process List* (1C), with progress tracked in the *Flow7 Data Migration Project Plan Checklist*. Worksheets 1.1 and 1.2 are in the worksheet pack. Download at **stuartparkins.com**.
 
 ## What you have achieved in this chapter
 

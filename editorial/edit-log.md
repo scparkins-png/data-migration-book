@@ -17,6 +17,8 @@ Chapter numbers below use the new structure (Part Two: Chapters 1–7 = Steps 1�
 | M5 | Ch 1 | "See Chapter XXX" — placeholder cross-reference (should point to Create Your Plan's *Know the Business* section and/or Chapter 11). | Done (pass 1) — now points to Create Your Plan's *Know the Business — and Its Language* and the closing chapter |
 | M6 | Ch 4 | Sentence ends "Remember" with nothing after it. | Open |
 | M7 | Ch 6 | Exercise: Description, Test Steps, Test Data and Expected Result have no answer space in the Drive text (boxes probably lost). `{{write-in-box}}` markers added as placeholders. | Open |
+| M9 | How to Use, Foreword | "Write in it… fill the boxes in pen", "A blank handbook helped no one" and "on the page" — rewrite around the worksheet pack (option 3). | Open |
+| M10 | Book | Build the worksheet pack (15 worksheets — see `editorial/worksheet-pack.md`). | Open |
 | M8 | Book | Front matter not yet written: title page, copyright page (ISBN, edition, disclaimer, trademark note for Flow7 Migration System™), contents, About the Author, About the sources (if D1 = a). | Open |
 
 ## Cross-references and consistency
