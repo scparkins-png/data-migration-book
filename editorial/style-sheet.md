@@ -99,6 +99,9 @@ Note: *How to Use This Handbook* lists "In this chapter you will…" **before** 
 | `{{figure: id \| caption}}` | Where a figure goes; the id matches `editorial/figure-list.md` |
 | `> ▶ **…**` | A callout box (worked example, key idea) |
 | `> 💡`, `> 📋`, `> ⚠️` | Tip, worked-example placeholder and caution callouts |
+| `> ↩ **Tracking back.**` | Go back to an earlier step |
+| `> 📄 **Your template.**` | Which template to open and where to download it |
+| `{{progress: N}}` | The seven-step "you are here" strip in the chapter opener |
 
 ## 7. Sources and citation
 
