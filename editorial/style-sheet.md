@@ -79,7 +79,11 @@ Note: *How to Use This Handbook* lists "In this chapter you will…" **before** 
 
 **Headings**: one H1 per chapter (the title). Section headings in Title Case as above. *Proposed: standardise "Why This Matters" etc. — current chapters mix "Why this matters" and "Why This Matters".*
 
-**Checklists and gates**: *Proposed* — every checklist as a three-column table (Ref · Task · ☐) and every gate as a two-column table (Gate · ☐), so the printed book has boxes to tick. Currently Chapters 6–9 use bullet lists.
+**Lists — keep them light (decided 25 Oct 2026):** the reader should never face a massive checklist on the page. The full task list lives in the Excel Project Plan Checklist; the book shows only what helps the reader act now. Each step chapter has three clearly different lists — *Your Checklist* (the essential tasks, short, pointing to the Excel file for the rest), *Your Turn* (practice on the page) and the *STOP/GO gate* (no more than six items). The critical edit trims each chapter to this.
+
+**Signposting system (approved 25 Oct 2026):** see `editorial/reader-flow-and-critical-edit.md` §4 — fixed chapter opener, running heads, recurring box types, distinct list styles.
+
+**Checklist and gate format**: *Proposed* — every checklist as a three-column table (Ref · Task · ☐) and every gate as a two-column table (Gate · ☐), so the printed book has boxes to tick. Currently Chapters 6–9 use bullet lists.
 
 **Exercises**: numbered by chapter in Part Two — Exercise 1.1, 1.2…; in *Create Your Plan*, Planning Exercise 1–4. Chapters 3–6 currently have single unnumbered exercises — fine as they are.
 

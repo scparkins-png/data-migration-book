@@ -19,7 +19,8 @@ Working repository for compiling, editing and producing the book. Drafting still
 - File names give reading order: `1-` Part One, `2-` Part Two, `3-` Part Three, `9-` appendices.
 - Not yet in the manuscript: Introduction, Appendices A–D, front matter (see `editorial/edit-log.md`).
 - Style sheet v0.1: four decisions settled (references, numbering, handbook, product count); three still open.
-- Structural pass 1 (part structure, renumbering, cross-references, handbook wording, Know the Business signposts) is on branch `structural-pass-1`, awaiting approval. No copy-edits yet.
+- Structural pass 1 approved and merged. Signposting system approved.
+- Next: critical edit (chapter by chapter, together), starting with Chapter 1 as the pilot. Copy-edit follows.
 
 ## Working rules
 
