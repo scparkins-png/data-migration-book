@@ -1,0 +1,95 @@
+# Edit Log
+
+Everything found during consolidation, waiting for an editorial pass. Nothing below has been changed in the manuscript yet. The consolidation copied the Drive text word for word and only fixed conversion debris (see "Markup-only changes" at the end).
+
+Status key: **Open** · **Decision** (needs Stuart) · **Done**
+
+## Missing content
+
+| # | Where | Item | Status |
+|:-|:-|:-|:-|
+| M1 | Book | **Introduction** (Pass 3) is not in Drive. May exist only in chats inside the Flow7 project, which can't be searched from outside that project. | Open |
+| M2 | Book | **Appendices A–D** are not in Drive. Appendix E refers to "Appendix C" as the full glossary. Planned set from Pass 3: full checklist, template index, glossary. | Open |
+| M3 | Book | **Flow7 Beyond Migration** closing chapter. A short "Looking Further" section already ends Chapter 10 — decide whether it grows into its own chapter or stays there. | Decision |
+| M4 | Ch 4, 7, 10 | Three **worked-example placeholders** await real (anonymised) client data. | Open |
+| M5 | Ch 4 | "See Chapter XXX" — placeholder cross-reference (should point to Create Your Plan's *Know the Business* section and/or Chapter 11). | Open |
+| M6 | Ch 7 | Sentence ends "Remember" with nothing after it. | Open |
+| M7 | Ch 9 | Exercise: Description, Test Steps, Test Data and Expected Result have no answer space in the Drive text (boxes probably lost). `{{write-in-box}}` markers added as placeholders. | Open |
+| M8 | Book | Front matter not yet written: title page, copyright page (ISBN, edition, disclaimer, trademark note for Flow7 Migration System™), contents, About the Author, About the sources (if D1 = a). | Open |
+
+## Cross-references and consistency
+
+| # | Where | Item | Status |
+|:-|:-|:-|:-|
+| X1 | Ch 4, 5 | "Before You Start" — old name for **Create Your Plan**. | Open |
+| X2 | Ch 3 | "Everything in Chapters 1 to 7 builds directly on this foundation" — means Steps 1–7 (Chapters 4–10). Depends on D3. | Decision |
+| X3 | Ch 4 | "those come in Chapter 2" — should be Chapter 5 (or Step 2). Depends on D3. | Decision |
+| X4 | Ch 9 | "not skimping on Chapters 1 and 4" — probably Chapters 4 and 7 (Steps 1 and 4). | Open |
+| X5 | Ch 3, 4 | Exercise numbering clash: both chapters use 1.1–1.3. | Open |
+| X6 | Ch 5, 9, 10 | Cooking analogy referred to but never introduced (D4). | Decision |
+| X7 | Ch 5, 6 vs Ch 9 | 7,000 vs 7,500+ product records (D5). | Decision |
+| X8 | Ch 8 | Templates "available to download at spdata.co.uk" — every other chapter says stuartparkins.com. | Open |
+| X9 | Ch 9 | "the eight standard fields" — the list that follows has nine (twice in the chapter). | Open |
+| X10 | Ch 9 | Checklist 6A has one item and 6B one item — check against the source checklist; looks thin compared with other steps. | Open |
+| X11 | Ch 10 | "Step 7 covers all five phases in detail" — the chapter describes four phases (the checklist has 7A–7E, five sections). Align the wording. | Open |
+| X12 | Ch 7 | Checklist order 4A4, 4A1, 4A2, 4A3 with an explanatory note — consider renumbering in the source checklist instead. | Decision |
+| X13 | Ch 2 | Section order in "Every chapter follows the same rhythm" differs from the chapters (D6). | Decision |
+| X14 | Ch 1 | Heading in Drive file title is "Forward" — the chapter heading is correctly "Foreword"; just rename the Drive file. | Open |
+| X15 | Ch 11 | References 1 and 2 cite the same case study — merge (or fold into About the sources, D1). | Open |
+| X16 | Book | Old long Chapter 11 asked for a one-line signpost at the end of every step chapter pointing forward to Chapter 11. Not yet done in Chapters 4–10. | Open |
+| X17 | Book | Heading case and checklist/gate formats vary between chapters (style sheet §5). | Decision |
+
+## Copy-edit candidates (typos and grammar)
+
+For the copy-edit pass. Listed now so nothing is lost; each will be shown in context before changing.
+
+| # | Where | Text | Suggested |
+|:-|:-|:-|:-|
+| C1 | Ch 1 | "I've both run the migrations and been a part of a team where they went smoothly and, more usefully for you, I've seen the ones that didn't and my experience has saved a few." | Restructure — long and the "both… and" doesn't resolve |
+| C2 | Ch 1 | "Because here is what I've learned, data migrations…" | colon after "learned" |
+| C3 | Ch 1 | "Making sure those three factors are key, means the technical migration becomes much easier" | e.g. "Get those three right, and the technical migration becomes much easier" |
+| C4 | Ch 1 | "you may get kick back" | "push-back" |
+| C5 | Ch 1 | "A migration can feel daunting, is worrying, but is more comfortable when managed systematically." | Rework |
+| C6 | Ch 1 | "smaller( it may be a huge migration!)" | "smaller (it may still be a huge migration!)" |
+| C7 | Ch 1 | "from small one to one system migrations to huge multi business, multi system migrations" | "one-to-one", "multi-business, multi-system" |
+| C8 | Ch 2 | "tests 50,000 thousand records" | "50,000 records" |
+| C9 | Ch 2 | "a clear STOP or GO  gate" | double space |
+| C10 | Ch 3 | "whether in the business already or a new data specialist the involvement in the project will increase…" | comma after "specialist" |
+| C11 | Ch 3 | "different people's  heads" | double space |
+| C12 | Ch 3 | "Think through what could go wrong for your business and divert your resources" | unclear — "and could divert your resources"? |
+| C13 | Ch 3 | "**Know the Business — and Its Language**" is bold text, not a heading | make it a heading |
+| C14 | Ch 4 | "three layers of information:" followed by four items | "four layers" |
+| C15 | Ch 4 | "Now if later extra sources materialise and this can occur, then update the Data Source Inventory." | "If extra sources turn up later — and they can — update the Data Source Inventory." |
+| C16 | Ch 4 | "your own version— see" | space before dash |
+| C17 | Ch 4 | "budgeted for so we needed to replicate live data" | comma before "so" |
+| C18 | Ch 4 | "re-plan ." / "that data.In the next chapter" | spacing |
+| C19 | Ch 4 | 💡 box items run together with " - " | make it a proper list |
+| C20 | Ch 5 | "nothing was lost. NB.This is very likely a moving target requiring recounts at  key stages" | "lost. Note that this is…"; double space |
+| C21 | Ch 5 | "business.E.g you cannot email" | "business. For example, you cannot email" |
+| C22 | Ch 5 | "a large percentageof the 7000" / "No product assembly instructions required for…" | "percentage of the 7,000"; reword sentence |
+| C23 | Ch 5 | "not linked to any Boms." | "Bills of Materials (BOMs)" |
+| C24 | Ch 5 | "wrong or  incomplete, e.g. missing a leading '0' ," | spacing |
+| C25 | Ch 6 | "*B*y the time" | italics artefact on the B |
+| C26 | Ch 6 | "discovered it.This often happens" / "complete task.This in my experience" / "process,  only" | spacing; "complete the task" |
+| C27 | Ch 6 | "Flow 7 is the path" | Flow7 |
+| C28 | Ch 7 | "the new shinny system at the start, it's demo data sets will work a charm, it's workflows" | "shiny", "its", "its" |
+| C29 | Ch 7 | "data,  processes" | double space |
+| C30 | Ch 7 | "I suggest, always tests the import templates first" | "Always test the import templates first" |
+| C31 | Ch 7 | "A CLASSIC EXAMPLE OF TRACKING BACK!!" | style as a callout, sentence case |
+| C32 | Ch 7 | "Get access to the front end." bullet quotes the same sentence as the heading | trim |
+| C33 | Ch 7 | "rather than being discovered on migration" | "during the migration" |
+
+## Markup-only changes made during consolidation
+
+Not editorial changes — just turning Google Docs export debris into clean Markdown:
+
+- Escaped asterisks inside tables (`\*\*bold\*\*`) turned back into bold; nested list debris in the Chapter 3 gate table removed.
+- Long runs of underscores for write-in lines replaced with `{{write-in}}` markers.
+- `[insert highlighted F7 FLOW]` (Ch 3) replaced with a figure marker; "Figure 6.2" and "Figure 9.1" captions given figure markers.
+- Broken characters restored: 💡 (Ch 4 tip box), 📋 (Ch 4 worked-example box).
+- An auto-link artefact in Chapter 5 (`[lost. NB](http://lost.nb)`) restored to plain text.
+- The last three characters of Chapter 4 ("is?") were cut off by the Drive reader and restored from a plain-text export.
+- Empty ✓ columns in gate and checklist tables given ☐ boxes so they print as tick boxes.
+- UAT-001 Test Steps (Ch 9) split back onto separate lines.
+- Curly quotes stored as straight quotes; the build will convert them back.
+- Chapter label lines ("CHAPTER 4") kept as bold text so each chapter has a single H1.
