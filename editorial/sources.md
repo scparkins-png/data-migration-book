@@ -1,5 +1,7 @@
 # Source Register
 
+> **Rule (Stuart, 25 Oct 2026):** the Google Drive folder `1O1bBzfNh1AAwoR90PgjcJ_Ng34s14pGS` is the only source of current text. The Pass 2 master and older chats are not sources; anything not in the folder (Introduction, Flow7 Beyond Migration, Appendices A–D) is treated as not yet written.
+
 Where each manuscript file came from. Drive folder: `1O1bBzfNh1AAwoR90PgjcJ_Ng34s14pGS`. Consolidated on 25 October 2026.
 
 | Manuscript file | Google Doc | Doc ID | Last edited in Drive |
