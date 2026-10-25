@@ -61,3 +61,7 @@ The long quote from the official Flow7 description is cut. The principle quote (
 ## Added after the worksheet decision (option 3)
 
 **P11 — Your Turn moves to questions.** In Chapters 1 and 2, the exercises are now short questions. The tables and answer lines have moved to Worksheets 1.1, 1.2, 2.1 and 2.2 in the worksheet pack. In Chapter 2, the spot-check table becomes a five-item list of what to count. Each *Your template* box names the chapter's worksheets.
+
+## Outcome (25 Oct 2026)
+
+Approved by Stuart on first check, including P11 (worksheet change for Chapters 1 and 2). Merged. The consistency example stays unless Stuart swaps it later.
