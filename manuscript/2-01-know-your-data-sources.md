@@ -100,9 +100,26 @@ The essentials for Step 1. The full task list, with status, owner and date colum
 | 1B | For each source, record how to export it, how long that takes, how big the file is and who has the login | ☐ |
 | 1C | List the business processes behind each source, including any workarounds *(recommended)* | ☐ |
 
-> 📋 **Worked example — to be added**
+> 📋 **Worked example — illustrative scenario**
 >
-> *A populated example of a Step 1 Data Sources Inventory (1A) and Export Assessment (1B) will be added here from a real client engagement (anonymised). It will show how to capture system name, version, category, owner and export details for half a dozen sources of mixed type — main ERP, departmental spreadsheets, a legacy database, and a paper record.*
+> *A 25-person kitchenware wholesaler is moving its accounts, customers and stock into a new cloud ERP. This is a first-pass inventory after a morning of asking around — six sources, not every column. The business is invented; the kinds of findings are typical.*
+
+| Source | Type · version | What it holds | Owner (validated?) | Priority | How to get data out |
+|:-|:-|:-|:-|:-:|:-|
+| Sage 50 Accounts | Accounting · Professional, version to confirm | Customers, suppliers, products, invoices | Finance Manager (Y) | High | CSV from built-in reports · Easy · about 20 min · 40 MB |
+| Desktop CRM on the sales office PC | CRM · **version unknown** | Contacts, call notes, quotes | Sales Manager (N) | High | **Unknown — first job: find out** |
+| "PRICES 2026 FINAL v3.xlsx" | Spreadsheet | Customer-specific prices | Sales Manager (Y) | High | Copy the file · Easy · minutes · 2 MB |
+| Warehouse stock notebook | Paper | Bin locations, stock counts | Warehouse Supervisor (Y) | Medium | Typed up by hand · Hard · about 3 days |
+| orders@ shared mailbox | Email | Order history, customer correspondence | Office Manager (Y) | Low | **Excluded:** archived, not migrated (reason recorded) |
+| Old web-shop order database (closed 2021) | Legacy database | Historic web orders | **No owner** | Low | **Unknown** |
+
+*Three findings from one morning:*
+
+- the CRM version is unknown;
+- the old web-shop database has no owner;
+- the bin locations exist only on paper.
+
+*Each one is now an action with a name against it. The mailbox shows what a documented exclusion looks like: a decision with a reason, not a gap.*
 
 ## Your Turn
 

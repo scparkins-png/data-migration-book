@@ -13,7 +13,7 @@ Chapter numbers below use the new structure (Part Two: Chapters 1–7 = Steps 1�
 | M1 | Book | **Introduction** (Pass 3) is not in Drive. May exist only in chats inside the Flow7 project, which can't be searched from outside that project. | Open |
 | M2 | Book | **Appendices A–D** are not in Drive. Appendix E refers to "Appendix C" as the full glossary. Planned set from Pass 3: full checklist, template index, glossary. | Open |
 | M3 | Book | **Flow7 Beyond Migration** closing chapter. A short "Looking Further" section already ends Chapter 10 — decide whether it grows into its own chapter or stays there. | Decision |
-| M4 | Ch 1, Ch 4, Ch 7 | Three **worked-example placeholders** await real (anonymised) client data. | Open |
+| M4 | Ch 1, Ch 4, Ch 7 | Three **worked-example placeholders** await real (anonymised) client data. | Ch 1 done (illustrative scenario, critical edit). Ch 4 and Ch 7 still open. |
 | M5 | Ch 1 | "See Chapter XXX" — placeholder cross-reference (should point to Create Your Plan's *Know the Business* section and/or Chapter 11). | Done (pass 1) — now points to Create Your Plan's *Know the Business — and Its Language* and the closing chapter |
 | M6 | Ch 4 | Sentence ends "Remember" with nothing after it. | Open |
 | M7 | Ch 6 | Exercise: Description, Test Steps, Test Data and Expected Result have no answer space in the Drive text (boxes probably lost). `{{write-in-box}}` markers added as placeholders. | Open |
@@ -60,12 +60,12 @@ For the copy-edit pass. Listed now so nothing is lost; each will be shown in con
 | C11 | Create Your Plan | "different people's  heads" | double space |
 | C12 | Create Your Plan | "Think through what could go wrong for your business and divert your resources" | unclear — "and could divert your resources"? |
 | C13 | Create Your Plan | "**Know the Business — and Its Language**" is bold text, not a heading | make it a heading |
-| C14 | Ch 1 | "three layers of information:" followed by four items | "four layers" |
-| C15 | Ch 1 | "Now if later extra sources materialise and this can occur, then update the Data Source Inventory." | "If extra sources turn up later — and they can — update the Data Source Inventory." |
-| C16 | Ch 1 | "your own version— see" | space before dash |
-| C17 | Ch 1 | "budgeted for so we needed to replicate live data" | comma before "so" |
-| C18 | Ch 1 | "re-plan ." / "that data.In the next chapter" | spacing |
-| C19 | Ch 1 | 💡 box items run together with " - " | make it a proper list |
+| C14 | Ch 1 | "three layers of information:" followed by four items | "four layers" — *resolved in Ch 1 critical edit* |
+| C15 | Ch 1 | "Now if later extra sources materialise and this can occur, then update the Data Source Inventory." | "If extra sources turn up later — and they can — update the Data Source Inventory." — *resolved in Ch 1 critical edit* |
+| C16 | Ch 1 | "your own version— see" | space before dash — *resolved in Ch 1 critical edit* |
+| C17 | Ch 1 | "budgeted for so we needed to replicate live data" | comma before "so" — *resolved in Ch 1 critical edit* |
+| C18 | Ch 1 | "re-plan ." / "that data.In the next chapter" | spacing — *resolved in Ch 1 critical edit* |
+| C19 | Ch 1 | 💡 box items run together with " - " | make it a proper list — *resolved in Ch 1 critical edit* |
 | C20 | Ch 2 | "nothing was lost. NB.This is very likely a moving target requiring recounts at  key stages" | "lost. Note that this is…"; double space |
 | C21 | Ch 2 | "business.E.g you cannot email" | "business. For example, you cannot email" |
 | C22 | Ch 2 | "a large percentageof the 7000" / "No product assembly instructions required for…" | "percentage of the 7,000"; reword sentence |

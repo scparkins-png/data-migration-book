@@ -72,6 +72,10 @@ Each one: what changes, and why. The branch has the chapter with all of them app
 - **From the Field:** the story and your voice ("Wrong on all counts", "have a look") are kept.
 - **The worked-example placeholder:** still waiting for real data (see Q3).
 
+## Outcome (25 Oct 2026)
+
+All proposals accepted. Q1 yes — summarise and refer to Stuart's resources. Q2 yes — mini-inventory dropped. Q3 illustrative scenario drafted (kitchenware wholesaler, six sources). Q4 the step templates are separate files; exact file names to be confirmed once they are uploaded. Approved and merged.
+
 ## Questions for you
 
 1. **P6:** is it OK for the book to summarise the checklist rather than copy it word for word?
