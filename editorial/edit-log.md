@@ -10,7 +10,7 @@ Chapter numbers below use the new structure (Part Two: Chapters 1–7 = Steps 1�
 
 | # | Where | Item | Status |
 |:-|:-|:-|:-|
-| M1 | Book | **Introduction** (Pass 3) is not in Drive. May exist only in chats inside the Flow7 project, which can't be searched from outside that project. | Open |
+| M1 | Book | **Introduction** (Pass 3) is not in Drive — confirmed 25 Oct: the Pass 2 master lists it as "to be added". May exist as a draft in Flow7-project chats; otherwise to be written (after the step chapters). Planned content: the Forbes/McKinsey overrun statistics (source still to verify). | Open |
 | M2 | Book | **Appendices A–D** are not in Drive. Appendix E refers to "Appendix C" as the full glossary. Planned set from Pass 3: full checklist, template index, glossary. | Open |
 | M3 | Book | **Flow7 Beyond Migration** closing chapter. A short "Looking Further" section already ends Chapter 10 — decide whether it grows into its own chapter or stays there. | Decision |
 | M4 | Ch 1, Ch 4, Ch 7 | Three **worked-example placeholders** await real (anonymised) client data. | Ch 1 done (illustrative scenario, critical edit). Ch 4 and Ch 7 still open. |
