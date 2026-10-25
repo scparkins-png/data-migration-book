@@ -128,39 +128,34 @@ The essentials for Step 2, for **every** priority source — not just one. The f
 
 ## Your Turn
 
-You do not assess every record by hand — nobody does. The practical technique is **sampling**: pull a small set of records, check them carefully, and use what you find as an indicator of the whole.
+You do not assess every record by hand — nobody does. The practical technique is **sampling**: pull a small set of records, check them carefully, and use what you find as an indicator of the whole. Record your findings on Worksheets 2.1 and 2.2 in your worksheet pack.
 
 ### Exercise 2.1 — The 20-Record Spot-Check
 
-Pick **one** important source from your Step 1 inventory — start with your highest priority. Pull a sample of **10 to 20 records**: a *random* spread, not the first twenty and not your best customers. Then complete the table.
+Pick **one** important source from your Step 1 inventory — start with your highest priority. Pull a sample of **10 to 20 records**: a *random* spread, not the first twenty and not your best customers. For that sample, count and note:
 
-**Source being assessed:** {{write-in}}
+- **Blanks** — key fields left empty
+- **Duplicates** — the same record appearing more than once
+- **Formatting** — the same data written different ways ("St." vs "Street", dates as DD/MM vs MM/DD)
+- **Accuracy** — values that are filled in but wrong, out of date, or implausible
+- **Stale records** — entries clearly no longer current
 
-**Number of records sampled:** {{write-in-short}}
+A rough percentage for each is enough at this stage.
 
-| Check | What you found | Rough % |
-|:-|:-:|:-:|
-| **Blanks** — key fields left empty |   |   |
-| **Duplicates** — the same record appearing more than once |   |   |
-| **Formatting** — same data written different ways (e.g. "St." vs "Street", dates as DD/MM vs MM/DD) |   |   |
-| **Accuracy** — values that are filled in but wrong, out of date, or implausible |   |   |
-| **Stale records** — entries clearly no longer current |   |   |
+{{worksheet: 2.1 | 20-record spot-check}}
 
 ### Exercise 2.2 — The "Whose Head Is It In?" Test
 
-For your priority source, answer these two questions honestly:
+For your priority source, answer two questions honestly:
 
-**1. If the one person who understands this data best left tomorrow, what knowledge would walk out of the door with them?**
+1. If the one person who understands this data best left tomorrow, what knowledge would walk out of the door with them?
+2. Is there a written process document for how this data is created and maintained?
 
-{{write-in}}
+If the answer to the second is "no" and the first produced a long list, you have found one of the most common — and most dangerous — findings in any migration: **critical knowledge that exists only in people's heads.** Flag it now. In the case study, exactly this gap is what turned a three-month estimate into a five-month project.
 
-**2. Is there a written process document for how this data is created and maintained? (Y / N)**
+{{worksheet: 2.2 | Whose head is it in?}}
 
-{{write-in-short}}
-
-If the answer to question 2 is "No" and question 1 produced a long list, you have found one of the most common — and most dangerous — findings in any migration: **critical knowledge that exists only in people's heads.** Flag it now. In the case study, exactly this gap is what turned a three-month estimate into a five-month project.
-
-> 📄 **Your template.** Flow7 Step 2 — *Data Quality Assessment* sheet (one row per process, the seven dimensions across the columns), with progress tracked in the *Flow7 Data Migration Project Plan Checklist*. Download at **stuartparkins.com**.
+> 📄 **Your template.** Flow7 Step 2 — *Data Quality Assessment* sheet (one row per process, the seven dimensions across the columns), with progress tracked in the *Flow7 Data Migration Project Plan Checklist*. Worksheets 2.1 and 2.2 are in the worksheet pack. Download at **stuartparkins.com**.
 
 ## What you have achieved in this chapter
 

@@ -57,3 +57,7 @@ The long quote from the official Flow7 description is cut. The principle quote (
 ## One thing to check
 
 **The consistency example is new.** The original had no example for dimension 6, so I've added "a customer's address differs between the CRM and the accounts system". It illustrates what the dimension means; it doesn't claim anything about a real case. Keep it or swap it for one from your own work.
+
+## Added after the worksheet decision (option 3)
+
+**P11 — Your Turn moves to questions.** In Chapters 1 and 2, the exercises are now short questions. The tables and answer lines have moved to Worksheets 1.1, 1.2, 2.1 and 2.2 in the worksheet pack. In Chapter 2, the spot-check table becomes a five-item list of what to count. Each *Your template* box names the chapter's worksheets.
