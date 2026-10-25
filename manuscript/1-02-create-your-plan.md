@@ -8,7 +8,7 @@
 
 ## Where You Are in Flow7 — Foundation
 
-{{figure: fig-03-01 | Flow7 flow diagram with Foundation highlighted}}
+{{figure: fig-plan-01 | Flow7 flow diagram with Foundation highlighted}}
 
 This is the start. It sits ***before*** the seven numbered steps of the Flow7 Migration System. It is where you sense-check and outline the project at a high level.
 
@@ -50,7 +50,7 @@ The worst version is inverted logic. In a real Flow7 mapping, a source field OPT
 
 So from Step 1 onward, keep a running note — your Terminology Translator: our word / the system's word / what it really is. Start it early, add a row every time a name does not obviously match, and hand it to whoever runs the system next. The full three-language reference — across sales, purchasing, manufacturing, logistics, finance, eCommerce and CRM, plus the "false friends" (Order, Account, CoA, Invoice) that cause the most trouble — is in Appendix E: The Terminology Translator. Keep it open beside you from planning through to go-live.
 
-Carry this as a lens, not a step. You will not learn the business in one sitting. Step 1 shows you where knowledge really lives; Step 2 shows what the business has tolerated; Step 3 forces it to decide what is true; Steps 4 and 5 expose where its language collides with the new system. Note what each step teaches you — Chapter 11 is where you consolidate it.
+Carry this as a lens, not a step. You will not learn the business in one sitting. Step 1 shows you where knowledge really lives; Step 2 shows what the business has tolerated; Step 3 forces it to decide what is true; Steps 4 and 5 expose where its language collides with the new system. Note what each step teaches you — the closing chapter, *Know the Business*, is where you consolidate it.
 
 ## What You Are Actually Doing
 
@@ -92,11 +92,11 @@ On the Sage 50 to Sage X3 migration that runs through this book, the original pl
 
 ## Your Turn
 
-### Exercise 1.1 — Conduct your readiness assessment
+### Planning Exercise 1 — Conduct your readiness assessment
 
 Try the *Are You Ready?* Data Migration Checker. Keep the result — you will use it as a reference for your Outline Migration Statement, and it flags the high-level factors (reasons, timeline, budget, data quality) that shape your project.
 
-### Exercise 1.2 — Write your Outline Migration Statement
+### Planning Exercise 2 — Write your Outline Migration Statement
 
 **This is a five-minute exercise. Do it now, before you move on.**
 
@@ -140,7 +140,7 @@ Try the *Are You Ready?* Data Migration Checker. Keep the result — you will us
 
 ---
 
-### Exercise 1.3 — Note your first three risks
+### Planning Exercise 3 — Note your first three risks
 
 **Using what the readiness assessment surfaced, write down the first three things that could go wrong. Don't overthink it — write whatever comes to mind first.**
 
@@ -150,7 +150,7 @@ Try the *Are You Ready?* Data Migration Checker. Keep the result — you will us
 | **2** |   |   |   |   |
 | **3** |   |   |   |   |
 
-### Exercise 1.4 — Get to know the full Project Plan Checklist
+### Planning Exercise 4 — Get to know the full Project Plan Checklist
 
 The full project plan tasks live in the Flow7 Data Migration Project Plan Checklist — an Excel workbook that accompanies this handbook. It contains all the task rows, status tracking, date columns and owner fields for every step.
 

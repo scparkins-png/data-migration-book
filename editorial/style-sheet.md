@@ -25,14 +25,15 @@ Version 0.1 · 25 October 2026
 | Flow7 | Flow7 (one word, no space). "the Flow7 Migration System" on first use in a chapter. | Flow 7, FLOW7, F7 (except in figure labels) |
 | Sage products | Sage 50, Sage X3 (X3 alone after first use in a section) | Sage50, SageX3 |
 | Arrow in case-study name | Sage 50 → Sage X3 in headings and captions; "Sage 50 to Sage X3" in running text | mixing both in one sentence |
-| The planning chapter | **Create Your Plan** | Before You Start (old name, still in Ch 4 and Ch 5) |
+| The planning chapter | **Create Your Plan** | Before You Start (old name) |
 | Master data | master set / Master Data Set (when it's the named artefact) | master data source, data master (except Step 3's title) |
 | go-live | "go-live" as a noun or adjective ("the go-live window"); "go live" as a verb ("when you go live") | Go Live mid-sentence (keep capitals only for the Step 7 name) |
 | Step references | Step 1 … Step 7; sub-steps 1A, 4B, 5C3 etc. | step one, Step One |
-| Chapter references | Chapter 4, Chapter 11 (numerals) | chapter four, Ch. 4 |
+| Chapter references | Numbered chapters: Chapter 1 … Chapter 7 (= Step 1 … Step 7). Named chapters by title in italics: *Create Your Plan*, *Know the Business*. | chapter four, Ch. 4, "Chapter 11" |
+| The book | handbook | workbook (reserved for Excel files) |
 | UAT, ETL, BOM, SKU, GRN | Spell out on first use in each chapter, then abbreviation | plural with apostrophe (BOM's) |
 | Bills of Materials | Bill of Materials (singular), Bills of Materials (plural) | Boms, BOMS |
-| Websites | stuartparkins.com | spdata.co.uk (still in Ch 8), www. prefix |
+| Websites | stuartparkins.com | spdata.co.uk (still in Ch 5), www. prefix |
 | Company | SP Data Consultancy Ltd | SPDATA (except when citing the original publication) |
 
 ## 3. Numbers, dates and units
@@ -54,7 +55,9 @@ Version 0.1 · 25 October 2026
 
 ## 5. Chapter structure
 
-**Settled pattern for step chapters (Chapters 4–10)**, in this order:
+**Book structure (settled):** Part One — Getting Started · Part Two — The Flow7 Migration System (Chapters 1–7) · Part Three — After the Move · Appendices.
+
+**Settled pattern for step chapters (Chapters 1–7)**, in this order:
 
 1. Chapter label and title, with "Step N — …" subtitle
 2. Hook line (bold)
@@ -70,6 +73,7 @@ Version 0.1 · 25 October 2026
 12. Your Turn (exercise, then "Now go to the full template")
 13. What you have achieved in this chapter
 14. You're Ready to Move On When… (the STOP/GO gate)
+15. "Know the business" signpost (one line, pointing forward to *Know the Business*)
 
 Note: *How to Use This Handbook* lists "In this chapter you will…" **before** "Where you are in Flow7"; every chapter does the reverse. One of them needs to change (open decision D6).
 
@@ -77,7 +81,9 @@ Note: *How to Use This Handbook* lists "In this chapter you will…" **before** 
 
 **Checklists and gates**: *Proposed* — every checklist as a three-column table (Ref · Task · ☐) and every gate as a two-column table (Gate · ☐), so the printed book has boxes to tick. Currently Chapters 6–9 use bullet lists.
 
-**Exercises**: numbered by chapter — Exercise 4.1, 4.2… (*Proposed*; Chapter 3 and Chapter 4 currently both use 1.1–1.3).
+**Exercises**: numbered by chapter in Part Two — Exercise 1.1, 1.2…; in *Create Your Plan*, Planning Exercise 1–4. Chapters 3–6 currently have single unnumbered exercises — fine as they are.
+
+**Figures**: numbered by chapter in Part Two (Figure 3.1); unnumbered in named chapters.
 
 ## 6. Markup conventions in the Markdown files
 
@@ -104,9 +110,9 @@ Note: *How to Use This Handbook* lists "In this chapter you will…" **before** 
 | # | Decision | Options | Recommendation |
 |:-|:-|:-|:-|
 | D1 | **References.** | **Decided:** own sources → one "About the sources" note; external sources → numbered note + References appendix | Done — see §7 |
-| D2 | **Workbook or handbook?** The text uses "workbook" 16 times and "handbook" 7 times. | handbook / workbook | "handbook" for the book (it's in the How to Use title); "workbook" only for the Excel checklist |
-| D3 | **Chapter numbering.** Front matter is numbered as Chapters 1–3, so Step 1 is Chapter 4. Create Your Plan says "Chapters 1 to 7" meaning the steps; Ch 4 says data quality "comes in Chapter 2". | (a) number only the step chapters 1–7 and leave front matter unnumbered; (b) keep 1–11 and fix the cross-references | (a) — chapter number = step number is far easier for readers |
-| D4 | **Cooking analogy.** Chapters 5, 9 and 10 refer to "the cooking analogy that runs through Flow7", but it is never introduced. | introduce it in Create Your Plan or How to Use / remove the references | Introduce it briefly in How to Use (two or three sentences) |
+| D2 | **Workbook or handbook?** | **Decided:** "handbook" for the book; "workbook" only for Excel files (the Project Plan Checklist, the Data Mapping workbook) | Done — structural pass 1 |
+| D3 | **Chapter numbering.** | **Decided:** three parts. Part One — Getting Started (Foreword, How to Use, Create Your Plan: named, not numbered). Part Two — The Flow7 Migration System (Chapters 1–7, chapter = step). Part Three — After the Move (Know the Business: named). Then appendices. | Done — structural pass 1 |
+| D4 | **Cooking analogy.** | **Decided:** dropped — the three references removed | Done (pass 1) |
 | D5 | **Case-study product count.** | **Decided:** 7,500+ everywhere | Done — apply in copy-edit pass |
 | D6 | **Section order.** See §5 above. | Fix How to Use / fix every chapter | Fix How to Use (one edit instead of seven) |
-| D7 | **Third-person self-references.** Chapters 8, 9 and 11 open From the Field with "documented by Stuart Parkins", and Chapter 8's opening quote is signed "— Stuart Parkins". | keep as source attribution / rewrite in first person | First person in the text; keep the formal attribution in the source note |
+| D7 | **Third-person self-references.** Chapters 5 and 6 and *Know the Business* open From the Field with "documented by Stuart Parkins", and Chapter 5's opening quote is signed "— Stuart Parkins". | keep as source attribution / rewrite in first person | First person in the text; keep the formal attribution in the source note |

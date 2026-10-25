@@ -1,25 +1,23 @@
-**CHAPTER 5**
+**CHAPTER 2**
 
 # Is Your Data Ready?
 
 ### *Step 2 of the Flow7 Migration System — Assess Source Data Quality*
 
-*You now know where your data lives (Chapter 4). This chapter is about finding out what condition it is actually in — honestly, and before you move a single record.*
+*You now know where your data lives (Chapter 1). This chapter is about finding out what condition it is actually in — honestly, and before you move a single record.*
 
 **A proper data quality assessment turns a guess into a measured picture you can plan against — and that measured picture is what makes the next four chapters move forward with confidence.**
 
 ## Where You Are in Flow7
 
-You found your data in Chapter 4 — every system, every spreadsheet, every paper record. Step 2 of the Flow7 Migration System is where you take an honest look at the *condition* of that data, before you move any of it.
-
-In the cooking analogy, this is **checking what you are working with** — looking at each ingredient and deciding whether it is still good.
+You found your data in Chapter 1 — every system, every spreadsheet, every paper record. Step 2 of the Flow7 Migration System is where you take an honest look at the *condition* of that data, before you move any of it.
 
 ## In this chapter you will…
 
 - Assess each priority source across the seven Flow7 data-quality dimensions
 - Record real counts, growth rates, gaps and accuracy figures (not estimates)
 - Identify duplicates, blanks and inconsistent formatting that need cleaning
-- Decide which source holds the version of the truth where two disagree (this feeds straight into Chapter 6)
+- Decide which source holds the version of the truth where two disagree (this feeds straight into Chapter 3)
 - Identify any critical knowledge that lives only in people's heads
 
 ## What you'll need from earlier chapters
@@ -33,7 +31,7 @@ In the cooking analogy, this is **checking what you are working with** — looki
 
 A measured, honest picture of your data is one of the most useful things you can carry into the rest of the migration. With it, every later step works against known quantities: the master set knows what to consolidate, the mapping knows what needs cleaning, the testing knows what to test against, and the go-live counts have something firm to reconcile to. Without it, every later step has to keep stopping to find out what the data is *actually* like — and that is where time and budget disappear.
 
-There is a second, quieter benefit. Most businesses are in better shape than they fear *and* worse shape than they assume. The point of Step 2 is not to pass judgement on the data; it is to replace assumption with measurement. On the case study running through this workbook — Sage 50 to Sage X3 for a manufacturer — the initial assumption was that the data must be fine because the business was doing well. The assessment found more than 7,000 product records needing clean-up, stock that did not match the warehouse, and sales orders containing free text where product codes should have been. None of that was a disaster; all of it was *useful* — because once it was measured, it could be planned for.
+There is a second, quieter benefit. Most businesses are in better shape than they fear *and* worse shape than they assume. The point of Step 2 is not to pass judgement on the data; it is to replace assumption with measurement. On the case study running through this handbook — Sage 50 to Sage X3 for a manufacturer — the initial assumption was that the data must be fine because the business was doing well. The assessment found more than 7,000 product records needing clean-up, stock that did not match the warehouse, and sales orders containing free text where product codes should have been. None of that was a disaster; all of it was *useful* — because once it was measured, it could be planned for.
 
 This chapter — Step 2 of Flow7 — is the structured way to take that measurement.
 
@@ -43,7 +41,7 @@ Step 2 has a deliberately plain name: **Assess Source Data Quality.** The offici
 
 Read that twice, because it contains the part people miss. Step 2 is not only about the data. It is about the **data and the processes that create it.** The Flow7 sheet states the principle directly: *"Data quality is inseparable from the business processes that create and maintain that data. Without understanding these processes, you risk migrating data without the context needed to use it effectively."*
 
-So this stage builds directly on Chapter 4. You have your list of sources. Now, for each important one, you assess it across seven dimensions. These are the exact dimensions from the Flow7 Data Quality Assessment sheet:
+So this stage builds directly on Chapter 1. You have your list of sources. Now, for each important one, you assess it across seven dimensions. These are the exact dimensions from the Flow7 Data Quality Assessment sheet:
 
 **1. Process Name.** The business process the data belongs to — described in plain terms. *(For example: Sales Order Creation, Invoice Raising, Raise Customer Ticket.)* You assess data by process, not just by system, because that is how the business actually uses it.
 
@@ -78,13 +76,13 @@ Four disciplines turn an assessment from "we looked at it" into a useful, measur
 
 **2. Sample randomly, not selectively.** Twenty records from the top of a list are twenty records that someone has curated, or that happen to be the most recent and best-maintained. A random sample tells you the truth about the whole dataset. If you cannot pull a truly random sample, take small samples from different points in the data.
 
-**3. Get the record counts now.** Counts taken at this point — customers, products, orders, suppliers, transactions — become your reference figure for testing in Chapter 9 and for go-live reconciliation in Chapter 10. Capture them now, even if some of the data will be cleaned or excluded later. You will use these numbers again and update them in live systems.
+**3. Get the record counts now.** Counts taken at this point — customers, products, orders, suppliers, transactions — become your reference figure for testing in Chapter 6 and for go-live reconciliation in Chapter 7. Capture them now, even if some of the data will be cleaned or excluded later. You will use these numbers again and update them in live systems.
 
 **4. Document what lives in people's heads.** If a process only works because one or two long-serving staff know how it works, that is a finding worth recording — not because it is a problem, but because it is data that will need to be turned into structured records before migration. The Step 2 Process Documents column captures this directly.
 
 > ⚠️ **A note before you assess personal data**
 >
-> If the data you are about to examine includes personal data (customer details, employee records, contact information), confirm your UK GDPR position before you start digging through records and pulling samples. You should already have addressed this in your project plan (see *Before You Start*). If you have not, do so now — assessing data quality means looking at real records, and that is processing.
+> If the data you are about to examine includes personal data (customer details, employee records, contact information), confirm your UK GDPR position before you start digging through records and pulling samples. You should already have addressed this in your project plan (see *Create Your Plan*). If you have not, do so now — assessing data quality means looking at real records, and that is processing.
 
 ## From the Field
 
@@ -125,7 +123,7 @@ That is Step 2 working as intended: not a one-off audit, but evidence that turns
 
 The items below are the **Data Quality Assessment** tasks, taken directly from the *Flow7 Data Migration Project Plan Checklist* (SP Data Consultancy Ltd, V1.0) and the *7 Steps for Any Data Project* framework checklist. They map exactly to the columns on the Step 2 Data Quality Assessment sheet.
 
-Work through each item **for every priority source** you identified in Chapter 4 — not just one. Mark an item complete only when it is genuinely done, with a number or a note recorded against it, not when you intend to do it.
+Work through each item **for every priority source** you identified in Chapter 1 — not just one. Mark an item complete only when it is genuinely done, with a number or a note recorded against it, not when you intend to do it.
 
 The three columns on the right match the format of the downloadable Flow7 project checklist: **Status**, **Due/Done date**, and **Owner**.
 
@@ -181,9 +179,9 @@ The three columns on the right match the format of the downloadable Flow7 projec
 
 You do not assess every record by hand — nobody does, and you do not need to. The practical technique is **sampling**: pull a small set of records, check them carefully, and use what you find as an indicator of the whole.
 
-### Exercise 5.1 — The 20-Record Spot-Check
+### Exercise 2.1 — The 20-Record Spot-Check
 
-Pick **one** important data source from your Chapter 4 inventory (start with your highest-priority one). Pull a sample of **10 to 20 records** from it — ideally a *random* spread, not the first twenty and not your best customers. Then complete the table below.
+Pick **one** important data source from your Chapter 1 inventory (start with your highest-priority one). Pull a sample of **10 to 20 records** from it — ideally a *random* spread, not the first twenty and not your best customers. Then complete the table below.
 
 **Why random matters:** if you check only the records you know well, you will check the ones most likely to be clean. A random sample tells you the truth about the whole dataset.
 
@@ -199,7 +197,7 @@ Pick **one** important data source from your Chapter 4 inventory (start with you
 | **Accuracy** — values that are filled in but wrong, outdated, or implausible |   |   |
 | **Stale records** — entries clearly no longer current |   |   |
 
-### Exercise 5.2 — The "Whose Head Is It In?" Test
+### Exercise 2.2 — The "Whose Head Is It In?" Test
 
 For your priority source, answer these two questions honestly:
 
@@ -227,7 +225,7 @@ You have a measured, honest picture of your data — process by process, source 
 
 ## You're Ready to Move On When…
 
-You are ready to move from assessing your data to Chapter 6 — defining your single version of the truth — when all of the following are true. Do not proceed until every item can be ticked honestly.
+You are ready to move from assessing your data to Chapter 3 — defining your single version of the truth — when all of the following are true. Do not proceed until every item can be ticked honestly.
 
 | Gate | ✓ |
 |:-|:-:|
@@ -246,3 +244,5 @@ You are ready to move from assessing your data to Chapter 6 — defining your si
 Remember the central lesson of this step: a migration does not improve data, it relocates it. The work you do here — the honest, sometimes uncomfortable look at what you actually have — is what stops you paying to install your old problems in an expensive new system.
 
 As the case study proves, the businesses that succeed are the ones that invest the time upfront to understand the true data picture, *before* committing to timelines and budgets.
+
+> ▶ **Know the business.** Before you move on, note what this step taught you about the business: what it has quietly tolerated — the records the team already distrusts, and why. You will pull these notes together in the closing chapter, *Know the Business*.

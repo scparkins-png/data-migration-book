@@ -1,4 +1,4 @@
-**CHAPTER 10**
+**CHAPTER 7**
 
 # Go Live
 
@@ -8,13 +8,11 @@
 
 ## Where You Are in Flow7
 
-You have done all seven steps. You found your data sources in **Chapter 4**. You assessed their condition honestly in **Chapter 5**. You defined your single master set in **Chapter 6**, understood the structure of your new system in **Chapter 7**, mapped everything across in **Chapter 8**, and put it all through rigorous testing in **Chapter 9**.
+You have done all seven steps. You found your data sources in **Chapter 1**. You assessed their condition honestly in **Chapter 2**. You defined your single master set in **Chapter 3**, understood the structure of your new system in **Chapter 4**, mapped everything across in **Chapter 5**, and put it all through rigorous testing in **Chapter 6**.
 
 The gate into Step 7 is the confirmed go-live readiness sign-off you earned in Step 6. If you have that, you are ready. If you do not have it — if there are outstanding issues from testing that have not been resolved — you are not. Go back. The cost of fixing a problem in testing is a fraction of the cost of finding it in the live system.
 
 What you are doing now is the final move: taking your cleaned, mapped, tested, signed-off data and loading it into the production system. Then — immediately and methodically — verifying that what went in matches what should have gone in.
-
-In the cooking analogy that runs through Flow7: you have checked the recipe, sourced the ingredients, prepared your mise en place, and done a trial run. **This is the service.**
 
 ## In this chapter you will…
 
@@ -26,10 +24,10 @@ In the cooking analogy that runs through Flow7: you have checked the recipe, sou
 
 ## What you'll need from earlier chapters
 
-- The signed-off go-live readiness from Chapter 9
-- Your loading order from Chapter 7, refined through Chapter 8 mapping and Chapter 9 testing
+- The signed-off go-live readiness from Chapter 6
+- Your loading order from Chapter 4, refined through Chapter 5 mapping and Chapter 6 testing
 - A rollback plan documented and accessible to everyone in the migration window
-- Final record counts from Chapter 9 testing — these are what you reconcile against
+- Final record counts from Chapter 6 testing — these are what you reconcile against
 
 ## Why This Matters
 
@@ -84,7 +82,7 @@ Five disciplines turn the go-live from an anxious event into a managed one.
 
 **1. Lock the source system before the window opens.** No new data entry, no processing in the source system from the moment loading begins. The error log, the counts, the timing all depend on a source that has stopped moving.
 
-**2. Compare record counts at every stage.** Counts at the start (from your Chapter 9 sign-off), counts after each load, counts after the final cutover. A discrepancy at any stage signals something to investigate *before* the next load begins, not after the whole sequence has run.
+**2. Compare record counts at every stage.** Counts at the start (from your Chapter 6 sign-off), counts after each load, counts after the final cutover. A discrepancy at any stage signals something to investigate *before* the next load begins, not after the whole sequence has run.
 
 **3. Watch the front end, not just the database.** Records that look right in a table can look wrong on the user's screen — formatting, layout, the field that did not quite map. Reserve time during validation to look at the system the way a user will.
 
@@ -92,7 +90,7 @@ Five disciplines turn the go-live from an anxious event into a managed one.
 
 **5. Treat stabilisation as a structured phase with a defined end.** Not "we'll see how it goes" — a named start, a named end, monitoring and spot-checks running throughout, an issue log that is open and owned. When the end date arrives, outstanding items become post-migration support items with named owners — not floating problems.
 
-There is one technical discipline worth naming alongside these: in systems with dependencies (ERPs especially), respect the loading order. Records that depend on other records being present must be loaded after their dependencies. The order was worked out in Chapter 7, refined in Chapter 8 and proven in Chapter 9 — at go-live, you run the order, you do not improvise it.
+There is one technical discipline worth naming alongside these: in systems with dependencies (ERPs especially), respect the loading order. Records that depend on other records being present must be loaded after their dependencies. The order was worked out in Chapter 4, refined in Chapter 5 and proven in Chapter 6 — at go-live, you run the order, you do not improvise it.
 
 ## From the Field
 
@@ -117,7 +115,7 @@ The go live was not a single action. It was a structured sequence, and the data 
 13. Stock receipts
 14. Financial data
 
-Each load fed into the next. Some exported values from Sage X3 — such as the new Supplier IDs assigned by the target system — had to be written back into the master data set before the next dependent load could proceed. This is the kind of iteration that only becomes clear during testing; it is why the testing phase in Chapter 9 matters so much.
+Each load fed into the next. Some exported values from Sage X3 — such as the new Supplier IDs assigned by the target system — had to be written back into the master data set before the next dependent load could proceed. This is the kind of iteration that only becomes clear during testing; it is why the testing phase in Chapter 6 matters so much.
 
 As soon as the Sage 50 team downed tools, the data loading plan was to hand and execution began. Key lessons from that go live are directly applicable to any migration:
 
@@ -257,7 +255,7 @@ Work through each section in sequence. Do not proceed to Phase 2 until every Pha
 
 ## Your Turn
 
-### Exercise 10.1 — Write Your Loading Plan
+### Exercise 7.1 — Write Your Loading Plan
 
 Before your migration window opens, write out the sequence in which data will be loaded into the target system. Even a simple migration with one or two data types needs this documented. For systems with dependencies — where one record must exist before another can be created — the order is not optional.
 
@@ -271,7 +269,7 @@ Use the table below. Add rows as needed.
 | 4 |   |   |   |   |
 | 5 |   |   |   |   |
 
-### Exercise 10.2 — Define Your Rollback Trigger
+### Exercise 7.2 — Define Your Rollback Trigger
 
 Before the migration window opens, agree and document the answer to this question: *at what point would we stop and roll back?*
 
@@ -289,7 +287,7 @@ Write it here so that the decision is made calmly in advance, not under pressure
 
 {{write-in}}
 
-### Exercise 10.3 — Set Up Your Issue Log
+### Exercise 7.3 — Set Up Your Issue Log
 
 Create a simple issue log before users access the new system. This does not need to be complex — a shared spreadsheet works. The minimum columns are:
 
@@ -297,7 +295,7 @@ Create a simple issue log before users access the new system. This does not need
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |   |   |   |   |   |   |   |   |
 
-**➔ Your full go-live execution is supported by the** ***Flow7 Data Migration Project Plan Checklist*** **— the Excel workbook that accompanies this workbook. Step 7 covers all five phases in detail, with status, date, and owner columns for every task. Download it at: stuartparkins.com**
+**➔ Your full go-live execution is supported by the** ***Flow7 Data Migration Project Plan Checklist*** **— the Excel workbook that accompanies this handbook. Step 7 covers all five phases in detail, with status, date, and owner columns for every task. Download it at: stuartparkins.com**
 
 ## What you have achieved in this chapter
 
@@ -322,6 +320,8 @@ Step 7 is complete — and your migration project is formally closed — when al
 **When you can tick all of these, the migration is done.**
 
 If there are issues still open when the stabilisation period ends, they do not disappear — they become post-migration support items with named owners. Document them, assign them, and track them to resolution. Do not leave them floating.
+
+> ▶ **Know the business.** Before you move on, note what this step taught you about the business: the knowledge that now lives in documents and data rather than in one person's head. You will pull all of these notes together in the next chapter, *Know the Business*.
 
 ## Looking Further
 

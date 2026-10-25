@@ -1,4 +1,4 @@
-**CHAPTER 4**
+**CHAPTER 1**
 
 # Know Your Data Sources
 
@@ -14,7 +14,7 @@
 
 ## Where You Are in Flow7
 
-Your project plan is in place (*Before You Start*), so you have agreed *what* you are migrating and *why*. Step 1 is the first numbered step of the Flow7 Migration System — it answers the next question: *do you actually know where all that data lives?*
+Your project plan is in place (*Create Your Plan*), so you have agreed *what* you are migrating and *why*. Step 1 is the first numbered step of the Flow7 Migration System — it answers the next question: *do you actually know where all that data lives?*
 
 ---
 
@@ -56,7 +56,7 @@ That last point matters. "Knowing your sources" is not only a list of system nam
 
 The Flow7 Step 1 tool splits this into two working sheets for exactly this reason: an **Inventory** sheet (the *what* and *who*) and an **Export Assessment** sheet (the *how*). A third sheet, the **Business Process List**, captures how data is added and any workarounds the team has built up over time.
 
-Understanding business process, and both business and system terminology and how they match is crucial in a migration. See Chapter XXX
+Understanding business process, and both business and system terminology and how they match is crucial in a migration. See *Know the Business — and Its Language* in Create Your Plan, and the closing chapter, *Know the Business*.
 
 > 💡 **What counts as a "data source"?** More than you think. A data source is anywhere business information is stored or maintained, including: - Main business systems — CRM, ERP, accounting software - Departmental spreadsheets - Legacy systems you rarely use - Personal data stores on individual computers - Paper records that might need digitising, Emails - Backup files holding historical data
 
@@ -80,7 +80,7 @@ Four disciplines turn a good data source inventory into a complete one.
 
 ### *Sage 50 → Sage X3: what Step 1 actually surfaced*
 
-The case study running through this workbook follows a successful manufacturer that had been bought out and needed to move from **Sage 50 to Sage X3**. Everyone assumed it would be straightforward — two to three months at most. Same software family, healthy business, so the data must be fine. *Wrong on all counts.*
+The case study running through this handbook follows a successful manufacturer that had been bought out and needed to move from **Sage 50 to Sage X3**. Everyone assumed it would be straightforward — two to three months at most. Same software family, healthy business, so the data must be fine. *Wrong on all counts.*
 
 I was brought in as the ETL consultant — *Extract, Transform, Load*: the work of taking messy data out of old systems and making it work properly in new ones. Rather than take the "it'll be simple" assumption at face value, I applied the Flow7 method, starting with a proper look at the sources.
 
@@ -211,7 +211,7 @@ You have a complete, named, prioritised inventory of every data source that matt
 
 ## You're Ready to Move On When…
 
-You are ready to move from finding your sources to assessing their quality (Chapter 5) when all of the following are true. Be honest — a missed source here costs far more later.
+You are ready to move from finding your sources to assessing their quality (Chapter 2) when all of the following are true. Be honest — a missed source here costs far more later.
 
 | Gate | ✓ |
 |:-|:-:|
@@ -227,3 +227,5 @@ You are ready to move from finding your sources to assessing their quality (Chap
 **If you cannot tick every box, do not start assessing or moving data yet.** An undiscovered source does not become less of a problem once the migration is under way — it becomes a more expensive one. Proper source investigation can feel like delay, but in practice it reduces overall project time, because it stops the surprises that force you to re-plan .
 
 You know where the data lives and what makes up that data.In the next chapter, you check how good that data is?
+
+> ▶ **Know the business.** Before you move on, note what this step taught you about the business: the shadow systems, the undocumented processes, and the people who really hold the knowledge. You will pull these notes together in the closing chapter, *Know the Business*.

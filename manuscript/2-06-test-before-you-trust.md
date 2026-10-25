@@ -1,4 +1,4 @@
-**CHAPTER 9**
+**CHAPTER 6**
 
 # Test Before You Trust
 
@@ -8,11 +8,9 @@
 
 ## Where You Are in Flow7
 
-You have come a long way. In **Chapter 4** you found every data source. In **Chapter 5** you faced what condition the data was actually in. In **Chapter 6** you built your one source of the truth. In **Chapter 7** you learned what your destination system will actually accept — and you wrote down, in the User Target Processing List, every business process that will need to work in the new system. In **Chapter 8** you mapped the master to the target, cleaned what needed cleaning, and produced sample data ready for the next step.
+You have come a long way. In **Chapter 1** you found every data source. In **Chapter 2** you faced what condition the data was actually in. In **Chapter 3** you built your one source of the truth. In **Chapter 4** you learned what your destination system will actually accept — and you wrote down, in the User Target Processing List, every business process that will need to work in the new system. In **Chapter 5** you mapped the master to the target, cleaned what needed cleaning, and produced sample data ready for the next step.
 
 That next step is this one. Step 6 is where you **prove the migration works — in a safe place, with real people, before anyone has to depend on it.**
-
-In the cooking analogy that runs through Flow7, Steps 1–5 were about ingredients, prep and recipe. **Step 6 is the tasting.** You make a small batch first. You let the people who actually eat it tell you whether it is right. You fix what is wrong. *Then* you serve it to the guests.
 
 ## In this chapter you will…
 
@@ -77,7 +75,7 @@ The status and severity columns do most of the work. Status tells you whether th
 
 ### ▶ Where the UAT Scripts Come From
 
-You do not write the UAT scripts from scratch in Chapter 9. You wrote the *list of processes* back in **Chapter 7**, in the **User Target Processing List (Step 4B)** — every target-system process that needs testing and a "how to" documenting.
+You do not write the UAT scripts from scratch in Chapter 6. You wrote the *list of processes* back in **Chapter 4**, in the **User Target Processing List (Step 4B)** — every target-system process that needs testing and a "how to" documenting.
 
 Step 6 instructs you, in its own help notes, to **have that completed Step 4B list to hand**, and to **cross-check it against the Business Process List you built in Step 1 (1C)**, "*just to cross check nothing has been missed that is important*."
 
@@ -117,7 +115,7 @@ By the time this project reached Step 6, the assessment had already exposed the 
 
 **Front-end access was non-negotiable.** Get access to the front-end system. You need to see what users see. It is one thing to confirm a record exists in the database; it is another thing entirely to see how it renders on the screen the user actually uses. Testing without front-end access is testing a story, not a system.
 
-One more practical lesson from the same project that lands squarely in Step 6: **map the new IDs back to the old ones.** Once records are loaded into Sage X3 they receive new internal IDs. Part of the testing was confirming that those new IDs could be tied back to the **self-created unique identifiers from the source system** that had been built into the master set in Step 3 — *not* to SKUs or customer numbers, which appear unique but often are not. That mapping became essential at go-live in Chapter 10; testing was where it was proven.
+One more practical lesson from the same project that lands squarely in Step 6: **map the new IDs back to the old ones.** Once records are loaded into Sage X3 they receive new internal IDs. Part of the testing was confirming that those new IDs could be tied back to the **self-created unique identifiers from the source system** that had been built into the master set in Step 3 — *not* to SKUs or customer numbers, which appear unique but often are not. That mapping became essential at go-live in Chapter 7; testing was where it was proven.
 
 ## Your Checklist
 
@@ -146,9 +144,9 @@ In practice — drawing on the Step 6 help notes that sit behind these line item
 >
 > *The full UAT Test Sheet page from the Step 6 template, drawn from a real test run. The fields are the same eight every UAT script uses — Test ID, Test Case Name, Description, Test Steps, Test Data, Expected, Actual, Pass/Fail, User Comments — so every result is comparable across scripts and across testers.*
 
-{{figure: fig-09-01 | Figure 9.1 — UAT-001 Login Functionality, the worked example from the Step 6 UAT Test Sheet template}}
+{{figure: fig-c6-01 | Figure 6.1 — UAT-001 Login Functionality, the worked example from the Step 6 UAT Test Sheet template}}
 
-*Figure 9.1 — UAT-001 Login Functionality, the worked example from the Step 6 UAT Test Sheet template*
+*Figure 6.1 — UAT-001 Login Functionality, the worked example from the Step 6 UAT Test Sheet template*
 
 *Source: Flow7 Step 6 — Testing in the Target System(s), Help Notes Part A (SP Data Consultancy Ltd, V1.0).*
 
@@ -166,7 +164,7 @@ The same test restated in table form:
 | Pass / Fail | PASS |
 | User Comments | Dashboard was very slow to load and the user details were not formatted — a data issue but successful business process |
 
-*Note the User Comment. The script passed: the user logged in and reached the dashboard. But the tester also recorded two issues worth following up — slow dashboard performance and unformatted user details. That is exactly what the User Comments field is for. The PASS goes on the issue list at a low severity; the migration is not blocked, but the issues are recorded, owned and tracked through Chapter 10 stabilisation.*
+*Note the User Comment. The script passed: the user logged in and reached the dashboard. But the tester also recorded two issues worth following up — slow dashboard performance and unformatted user details. That is exactly what the User Comments field is for. The PASS goes on the issue list at a low severity; the migration is not blocked, but the issues are recorded, owned and tracked through Chapter 7 stabilisation.*
 
 ## Your Turn
 
@@ -210,11 +208,11 @@ Move this draft script into the **Flow7 Step 6 — UAT Test Sheet** template, an
 
 ## What you have achieved in this chapter
 
-Every business process that must work in the new system has a UAT script, and every script has been run by a real user. Issues are owned, dated and severity-rated. Critical and serious issues are closed or have an accepted plan with a date. A recorded user-acceptance sign-off exists — a decision, not an assumption — that the business is ready to go live with the data and the processes as tested. Chapter 10 takes that sign-off and runs the migration for real.
+Every business process that must work in the new system has a UAT script, and every script has been run by a real user. Issues are owned, dated and severity-rated. Critical and serious issues are closed or have an accepted plan with a date. A recorded user-acceptance sign-off exists — a decision, not an assumption — that the business is ready to go live with the data and the processes as tested. Chapter 7 takes that sign-off and runs the migration for real.
 
 ## You're Ready to Move On When…
 
-Step 6 is genuinely complete — and you are ready for **Chapter 10, Go Live** — when **all** of these are true:
+Step 6 is genuinely complete — and you are ready for **Chapter 7, Go Live** — when **all** of these are true:
 
 - Every process on your **Step 4B User Target Processing List** has a matching **UAT Test Sheet** that has been executed in a non-live environment, with **Actual Result** and **Pass/Fail** filled in.
 - Your **UAT Testing List** is up to date, with every issue carrying a Status, Due Date, Resolution/Escalation and Severity.
@@ -224,3 +222,5 @@ Step 6 is genuinely complete — and you are ready for **Chapter 10, Go Live** �
 - A **user acceptance sign-off** exists — a recorded decision, not an assumption — that the business is ready to go live with the data and the processes as tested.
 
 When those boxes are ticked, Step 6 has done its job: every important risk has been measured, and the ones that remain are known, owned and accepted. The next chapter takes that prepared, tested, signed-off migration and runs it for real.
+
+> ▶ **Know the business.** Before you move on, note what this step taught you about the business: where your understanding of a process differed from the way users actually run it. You will pull these notes together in the closing chapter, *Know the Business*.
