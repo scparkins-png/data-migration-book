@@ -4,19 +4,13 @@
 
 ### *Step 1 of the Flow7 Migration System*
 
-*You have your plan. Now the real work begins — and it begins not by moving data, but by finding all of it. This chapter aligns to Step 1 of the Flow7 Migration System. Do not skip it because you think you already know where your data lives. That assumption is precisely the one this chapter exists to challenge.*
-
----
-
 **"The migrations that succeed are the ones where the team knows exactly what they have, where it lives, and who owns it — before they touch a single record."**
-
----
 
 ## Where You Are in Flow7
 
-Your project plan is in place (*Create Your Plan*), so you have agreed *what* you are migrating and *why*. Step 1 is the first numbered step of the Flow7 Migration System — it answers the next question: *do you actually know where all that data lives?*
+{{progress: 1}}
 
----
+Your plan is agreed, so you know *what* you are migrating and *why*. Step 1 asks the next question: do you actually know where all your data lives? Do not skip it because you think you already know — that assumption is exactly what this step tests.
 
 ## In this chapter you will…
 
@@ -26,41 +20,42 @@ Your project plan is in place (*Create Your Plan*), so you have agreed *what* yo
 - Assess how easy or hard each export will be, and how long it will take
 - Validate every source entry with the person who actually uses it
 
----
+## What you'll need
 
-## What you'll need from earlier chapters
-
+- Your Outline Migration Statement and readiness assessment results (from *Create Your Plan*)
 - A list of the people you can ask in each department
-- Time on the diary to walk around (or video-call) the people who use the data each day
-
----
+- Time in the diary to walk round (or video-call) the people who use the data each day
 
 ## Why This Matters
 
-In the planning chapter you agreed *what* you are migrating to and *why*. This step answers the next question: **where does all that data actually live?**
+A complete list of your data sources is the foundation for everything that follows. With it, you know what to check for quality (Step 2), what to combine into your master set (Step 3) and what to map into the new system (Step 5). A source you find now is a line on a list; a source you find halfway through the migration is a re-plan.
 
-With the plan set, **your first real task is a full inventory of your data sources** — every one named and owned. Get it right and you carry something solid into every step that follows: you know what to assess for quality, what to consolidate into the master set, what to map against the new system(s). By accounting for every source up front it helps align the business processes to the rest of the project and not miss anything. Now if later extra sources materialise and this can occur, then update the Data Source Inventory.
-
----
+> ↩ **Tracking back.** If an extra source turns up later — and it can — come back to your inventory, add it, and carry on. That is the method working, not failing.
 
 ## What You Are Actually Doing
 
-Step 1 — *Know Your Data Sources* — is the work of researching and recording **every place your business data currently lives**, in a simple inventory, alongside the supporting information that makes each source usable: who owns it, what version it is, how critical it is, and how hard it will be to get the data out.
+Step 1 is the work of finding and recording **every place your business data currently lives**, in one simple inventory.
 
-That last point matters. "Knowing your sources" is not only a list of system names. For each source you are capturing three layers of information:
+> 💡 **What counts as a "data source"?** More than you think. A data source is anywhere business information is stored or kept, including:
+>
+> - main business systems — CRM, ERP, accounting software
+> - departmental spreadsheets
+> - legacy systems you rarely use
+> - personal data stores on individual computers
+> - emails
+> - paper records that might need digitising
+> - backup files holding historical data
 
-1. **What it is** — the system name, type, version, the category of data it holds, and the business process it serves.
+For each source you capture four things:
+
+1. **What it is** — the system name, type and version, and the kind of data it holds.
 2. **Who owns it** — the named person responsible for that data, and the person who actually understands its quirks day to day. These are often not the same person.
 3. **How you get data out of it** — the export method, how easy that is, how long it takes, and how large the resulting file is.
-4. **What business processes** create or work with that data
+4. **Which business processes use it** — how data gets added, and any workarounds the team has built up over time.
 
-The Flow7 Step 1 tool splits this into two working sheets for exactly this reason: an **Inventory** sheet (the *what* and *who*) and an **Export Assessment** sheet (the *how*). A third sheet, the **Business Process List**, captures how data is added and any workarounds the team has built up over time.
+The Flow7 Step 1 templates give each of these a home: the **Inventory** sheet (what and who), the **Export Assessment** sheet (how) and the **Business Process List** (the processes).
 
-Understanding business process, and both business and system terminology and how they match is crucial in a migration. See *Know the Business — and Its Language* in Create Your Plan, and the closing chapter, *Know the Business*.
-
-> 💡 **What counts as a "data source"?** More than you think. A data source is anywhere business information is stored or maintained, including: - Main business systems — CRM, ERP, accounting software - Departmental spreadsheets - Legacy systems you rarely use - Personal data stores on individual computers - Paper records that might need digitising, Emails - Backup files holding historical data
-
----
+The processes and the words your business uses matter as much as the data itself — see *Know the Business — and Its Language* in Create Your Plan.
 
 ## Key things to get right
 
@@ -74,8 +69,6 @@ Four disciplines turn a good data source inventory into a complete one.
 
 **4. Validate every entry with the named owner.** A source nobody owns is a source nobody is responsible for. The Inventory sheet has a "validated with owner" column for this reason — once that column is ticked, both you and the owner have agreed what the source is, what it holds, and what the priority is.
 
----
-
 ## From the Field
 
 ### *Sage 50 → Sage X3: what Step 1 actually surfaced*
@@ -88,68 +81,53 @@ Here is what knowing the sources actually revealed:
 
 - **Critical knowledge lived in people, not systems.** Product recipes and assembly instructions existed only in one or two long-term employees' heads — not in any system that could be exported.
 - **Processes had grown organically with zero documentation.** New products were added daily with the bare minimum of information, following habits nobody had ever written down.
-- **Getting the data out was potentially slow.** Working remotely over the company's VPN was painfully slow, but was required geographically for the team and costs, which made every export a longer job than anyone had budgeted for so we needed to replicate live data.
+- **Getting the data out was slow.** The team had to work remotely over the company's VPN, and it was painfully slow. Every export took longer than anyone had budgeted for, so we set up a local copy of the data to work from.
 
 None of these are *data quality* problems in the narrow sense — those come in Chapter 2. They are *source* problems: things you can only plan around if you find them first. A migration plan built on "the data's in Sage 50, we'll just export it" would have hit every one of these as a nasty surprise.
 
 **The lesson I keep coming back to:** *never accept data assumptions — have a look.* The businesses that succeed are the ones that invest the time upfront in understanding what they are working with, rather than assuming.
 
----
-
 ## Your Checklist
 
-These items are taken directly from the **Sources — Know Your Data Sources** section of the Flow7 Data Migration Project Plan Checklist and the Step 1 source sheets. Work through them for your own project. The full versions, with status, owner and date columns, live in the downloadable Excel checklist.
+The essentials for Step 1. The full task list, with status, owner and date columns, is in the Flow7 Data Migration Project Plan Checklist.
 
-**1A — Create your Data Source Inventory**
+| Ref | Task | ✓ |
+|:-:|:-|:-:|
+| 1A | List every source — systems, spreadsheets, paper records, backups — including the unofficial ones | ☐ |
+| 1A | Record the exact name and version of each source | ☐ |
+| 1A | Give each source a named owner and a priority (High / Medium / Low) | ☐ |
+| 1A | Check each entry with its owner and mark it validated | ☐ |
+| 1B | For each source, record how to export it, how long that takes, how big the file is and who has the login | ☐ |
+| 1C | List the business processes behind each source, including any workarounds *(recommended)* | ☐ |
 
-| ✓ | Task |
-|:-:|:-|
-| ☐ | Record the **System Name** for each source (internal or software name — e.g. NetSuite, Sage X3, document archive, Xero, HubSpot) |
-| ☐ | Record the **System Type** (e.g. ERP, CRM, Excel, database, SQL database, accounting) |
-| ☐ | Record the **Version** — the specific software version or build, to narrow things down (e.g. Enterprise, V1.13, Build 132.32.21) |
-| ☐ | Record the **Category** of data (e.g. customer information, products, historical archive, financial) |
-| ☐ | Record the **Process / department** the source serves (e.g. Sales, HR, Warehouse, Marketing, Invoices, Warranties) |
-| ☐ | Set a **Business Priority** for each source — High / Medium / Low |
-| ☐ | Assign a named **Owner / expert** for each system or process |
-| ☐ | **Validate** each source entry *with its owner* — confirm it is agreed and correct |
-
-**1B — Perform and document your Data Export Assessment**
-
-| ✓ | Task |
-|:-:|:-|
-| ☐ | Carry the **System Name** forward and collate any **credentials** needed to access it |
-| ☐ | Record the **Export Type** — manual (Excel / CSV / TXT) or automated (API / reports / database process) |
-| ☐ | Add **Notes** to help the export (e.g. "use Sage X3 ZEXPORT1 template") |
-| ☐ | Record the **Speed or duration** of export in general terms — Slow / Moderate / Fast |
-| ☐ | Record **how easy** it is to export — Easy / Moderate / Hard |
-| ☐ | Record the **time** a full export of each data set takes |
-| ☐ | Record the **data size** of each export (TB / GB / MB) |
-
-**1C — Create a Business Process List** *(optional but recommended)*
-
-| ✓ | Task |
-|:-:|:-|
-| ☐ | Name each **Process** and the **Department** it belongs to |
-| ☐ | Describe the process and any **workarounds** the team uses |
-| ☐ | Record **how data is added** to the source |
-| ☐ | Note any **special tags, filters, labels or notations** in use |
-| ☐ | Set a **Business Priority** and name the **owner / expert** for the process |
-
----
-
-> 📋 **Worked example — to be added**
+> 📋 **Worked example — illustrative scenario**
 >
-> *A populated example of a Step 1 Data Sources Inventory (1A) and Export Assessment (1B) will be added here from a real client engagement (anonymised). It will show how to capture system name, version, category, owner and export details for half a dozen sources of mixed type — main ERP, departmental spreadsheets, a legacy database, and a paper record.*
+> *A 25-person kitchenware wholesaler is moving its accounts, customers and stock into a new cloud ERP. This is a first-pass inventory after a morning of asking around — six sources, not every column. The business is invented; the kinds of findings are typical.*
 
----
+| Source | Type · version | What it holds | Owner (validated?) | Priority | How to get data out |
+|:-|:-|:-|:-|:-:|:-|
+| Sage 50 Accounts | Accounting · Professional, version to confirm | Customers, suppliers, products, invoices | Finance Manager (Y) | High | CSV from built-in reports · Easy · about 20 min · 40 MB |
+| Desktop CRM on the sales office PC | CRM · **version unknown** | Contacts, call notes, quotes | Sales Manager (N) | High | **Unknown — first job: find out** |
+| "PRICES 2026 FINAL v3.xlsx" | Spreadsheet | Customer-specific prices | Sales Manager (Y) | High | Copy the file · Easy · minutes · 2 MB |
+| Warehouse stock notebook | Paper | Bin locations, stock counts | Warehouse Supervisor (Y) | Medium | Typed up by hand · Hard · about 3 days |
+| orders@ shared mailbox | Email | Order history, customer correspondence | Office Manager (Y) | Low | **Excluded:** archived, not migrated (reason recorded) |
+| Old web-shop order database (closed 2021) | Legacy database | Historic web orders | **No owner** | Low | **Unknown** |
+
+*Three findings from one morning:*
+
+- the CRM version is unknown;
+- the old web-shop database has no owner;
+- the bin locations exist only on paper.
+
+*Each one is now an action with a name against it. The mailbox shows what a documented exclusion looks like: a decision with a reason, not a gap.*
 
 ## Your Turn
 
-The exercises below are quick, on-the-page starting points. The full production version of this work belongs in the Flow7 templates or your own version— see *Now Go to the Full Template*, below.
+Two quick exercises to start on the page. Your real inventory goes in the template.
 
 ### Exercise 1.1 — Run a Five-Minute Source Brainstorm
 
-Before you organise anything, simply list every place data might live. Do not filter — write down everything, including the unofficial spreadsheets and the "we don't really use that any more" systems. Your initial Readiness assessment will have a few for starters, but you likely will find more, when speaking to your team.
+Before you organise anything, simply list every place data might live. Do not filter — write down everything, including the unofficial spreadsheets and the "we don't really use that any more" systems. Your readiness assessment will have given you a few to start with; you will find more when you talk to your team.
 
 | # | Where data might live | Department / who uses it |
 |:-:|:-:|:-:|
@@ -162,70 +140,37 @@ Before you organise anything, simply list every place data might live. Do not fi
 | 7 |   |   |
 | 8 |   |   |
 
-**Prompt to push past the obvious:** for each department — Sales, Finance, Operations, HR, Warehouse, Customer Service — ask *"what do you keep that isn't in the main system?"* The honest answers go in the table above.
+**Push past the obvious:** for each department — Sales, Finance, Operations, HR, Warehouse, Customer Service — ask *"what do you keep that isn't in the main system?"* The honest answers go in the table above.
 
-### Exercise 1.2 — Mini-Inventory for Your Top Three Sources
-
-Take the three highest-priority sources from Exercise 1.1 and capture the core inventory detail. This is a scaled-down version of the real Inventory sheet.
-
-| Source | System type | Version (be specific) | Data category | Owner (named person) | Priority (H/M/L) |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-|   |   |   |   |   |   |
-|   |   |   |   |   |   |
-|   |   |   |   |   |   |
-
-If you cannot fill the **Version** or **Owner** columns for any source, that is a finding, not a gap to ignore. Note who you need to ask, and add it to your actions.
-
-### Exercise 1.3 — One-Line Export Reality Check
+### Exercise 1.2 — One-Line Export Reality Check
 
 For your single most important source, answer one question honestly:
 
 **"If I had to export everything from this source today, how would I do it, how long would it take, and who has the login?"**
 
-Write the answer here:
-
 {{write-in}}
 
 If you cannot answer all three parts, you have just found the first job for your Export Assessment.
 
----
-
-### Now Go to the Full Template
-
-The exercises above are your warm-up. Your real source inventory belongs in the **Flow7 Step 1 source sheets** and the **Flow7 Data Migration Project Plan Checklist** — the Excel workbook that accompanies this book. Between them they give you:
-
-- The full **Data Sources Inventory** sheet (Step 1A)
-- The **Data Source Export Assessment** sheet (Step 1B)
-- The **Business Process List** sheet (Step 1C)
-- Status, owner, priority and validation columns for every row
-
-Download the templates at: **stuartparkins.com**
-
----
+> 📄 **Your template.** Flow7 Step 1 — *Data Sources Inventory* (1A), *Export Assessment* (1B) and *Business Process List* (1C), with progress tracked in the *Flow7 Data Migration Project Plan Checklist*. Download at **stuartparkins.com**.
 
 ## What you have achieved in this chapter
 
-You have a complete, named, prioritised inventory of every data source that matters. Each source has an owner, an export method, an estimated time and difficulty, and a place in the queue. Where the data lives is no longer guesswork — it is documented. The next chapter takes this inventory and works out the *condition* of what you have found.
-
----
+You have a complete, named, prioritised inventory of every data source that matters. Each source has an owner, an export method, an estimated time and difficulty, and a place in the queue. Where the data lives is no longer guesswork — it is documented.
 
 ## You're Ready to Move On When…
 
-You are ready to move from finding your sources to assessing their quality (Chapter 2) when all of the following are true. Be honest — a missed source here costs far more later.
-
 | Gate | ✓ |
 |:-|:-:|
-| Every system, spreadsheet, database and paper store that holds in-scope data has been listed | ☐ |
-| You have asked frontline staff — not just management — and chased down unofficial sources | ☐ |
-| Each source has an exact name and version recorded, not a generic description | ☐ |
-| Each source has a named owner, and each entry has been validated *with* that owner | ☐ |
-| Each source has a business priority assigned | ☐ |
-| You know, for each source, how the data will be exported, how long it takes and who has access | ☐ |
-| Your inventory is stored somewhere the whole team can see and add to | ☐ |
-| You have aligned core/critical business processes to the data sources that currently run or create the data. | ☐ |
+| Every in-scope source is on the list — including the unofficial ones you found by asking frontline staff | ☐ |
+| Each source has its exact name and version recorded, not a generic description | ☐ |
+| Each source has a named owner and a priority, and the owner has validated the entry | ☐ |
+| You know how each source will be exported, how long it takes and who has access | ☐ |
+| You have linked your critical business processes to the sources that run them | ☐ |
+| The inventory is stored where the whole team can see and add to it | ☐ |
 
-**If you cannot tick every box, do not start assessing or moving data yet.** An undiscovered source does not become less of a problem once the migration is under way — it becomes a more expensive one. Proper source investigation can feel like delay, but in practice it reduces overall project time, because it stops the surprises that force you to re-plan .
+**If you cannot tick every box, do not start assessing or moving data yet.** A source you have not found does not get smaller once the migration is under way — it gets more expensive.
 
-You know where the data lives and what makes up that data.In the next chapter, you check how good that data is?
+**Next:** Chapter 2 — how good is the data you have found?
 
 > ▶ **Know the business.** Before you move on, note what this step taught you about the business: the shadow systems, the undocumented processes, and the people who really hold the knowledge. You will pull these notes together in the closing chapter, *Know the Business*.

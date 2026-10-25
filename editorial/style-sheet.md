@@ -99,11 +99,16 @@ Note: *How to Use This Handbook* lists "In this chapter you will…" **before** 
 | `{{figure: id \| caption}}` | Where a figure goes; the id matches `editorial/figure-list.md` |
 | `> ▶ **…**` | A callout box (worked example, key idea) |
 | `> 💡`, `> 📋`, `> ⚠️` | Tip, worked-example placeholder and caution callouts |
+| `> ↩ **Tracking back.**` | Go back to an earlier step |
+| `> 📄 **Your template.**` | Which template to open and where to download it |
+| `{{progress: N}}` | The seven-step "you are here" strip in the chapter opener |
 
 ## 7. Sources and citation
 
 - Case-study extracts are attributed with the full URL on first citation in the book.
-- Checklist items are verbatim from the Flow7 Data Migration Project Plan Checklist.
+- **Checklists summarise (decided 25 Oct 2026):** the book shows the essential actions in plain words, tagged with their checklist reference (1A, 1B…). The full, word-for-word task list lives in the Excel Project Plan Checklist and the step templates — the book points readers to those resources. Simplicity is the rule.
+- **Worked examples:** real (anonymised) where available; otherwise an *illustrative scenario*, clearly labelled, that can be swapped for real client data later.
+- **Templates:** the step templates are separate files from the Project Plan Checklist. Each chapter's *Your template* box names the exact files.
 - Forbes/McKinsey migration statistics appear in the Introduction only, with a transparent editorial footnote; the McKinsey attribution is removed. Primary source still to be verified.
 - **References (decided 25 Oct 2026):** Stuart's own material (the Sage 50 → Sage X3 case study, Flow7 templates, checklists and workbooks) is covered once, in a single "About the sources" note in the front matter — no footnotes. External sources (e.g. the Forbes/McKinsey statistics) get a numbered note in the text and a full entry in a References appendix at the back.
 
