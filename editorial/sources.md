@@ -1,5 +1,7 @@
 # Source Register
 
+> **Rule (Stuart, 25 Oct 2026):** the Google Drive folder `1O1bBzfNh1AAwoR90PgjcJ_Ng34s14pGS` is the only source of current text. The Pass 2 master and older chats are not sources; anything not in the folder (Introduction, Flow7 Beyond Migration, Appendices A–D) is treated as not yet written.
+
 Where each manuscript file came from. Drive folder: `1O1bBzfNh1AAwoR90PgjcJ_Ng34s14pGS`. Consolidated on 25 October 2026.
 
 | Manuscript file | Google Doc | Doc ID | Last edited in Drive |
@@ -35,3 +37,8 @@ Where each manuscript file came from. Drive folder: `1O1bBzfNh1AAwoR90PgjcJ_Ng34
 ## Rule from here on
 
 The repository is now the working copy. If Stuart edits a chapter in Google Docs, the next session re-pulls that chapter and records the date here before any editorial pass touches it, so the two never silently diverge.
+
+## Salvaged from the Pass 2 master (25 Oct 2026)
+
+- **About the Sources** note → `manuscript/1-0a-about-the-sources.md`. Changes from the Pass 2 wording: "workbook" → "handbook" (decision D2); "carries a footnote and a link" → "carries a numbered note and a full entry in the References appendix" (decision D1).
+- The Pass 2 master confirms the **Introduction, the closing chapter *Flow7 Beyond Migration* and Appendices A–D were never written into Drive** ("to be added"). Its Before You Start chapter also says the Forbes/McKinsey statistics were moved to the Introduction.
