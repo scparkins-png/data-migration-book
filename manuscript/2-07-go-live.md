@@ -14,8 +14,6 @@ The gate into Step 7 is the confirmed go-live readiness sign-off you earned in S
 
 What you are doing now is the final move: taking your cleaned, mapped, tested, signed-off data and loading it into the production system. Then — immediately and methodically — verifying that what went in matches what should have gone in.
 
-In the cooking analogy that runs through Flow7: you have checked the recipe, sourced the ingredients, prepared your mise en place, and done a trial run. **This is the service.**
-
 ## In this chapter you will…
 
 - Complete the final pre-migration checks across data, system and team readiness

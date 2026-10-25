@@ -12,8 +12,6 @@ You have come a long way. In **Chapter 1** you found every data source. In **Cha
 
 That next step is this one. Step 6 is where you **prove the migration works — in a safe place, with real people, before anyone has to depend on it.**
 
-In the cooking analogy that runs through Flow7, Steps 1–5 were about ingredients, prep and recipe. **Step 6 is the tasting.** You make a small batch first. You let the people who actually eat it tell you whether it is right. You fix what is wrong. *Then* you serve it to the guests.
-
 ## In this chapter you will…
 
 - Build a UAT test script for every business process that must work in the new system

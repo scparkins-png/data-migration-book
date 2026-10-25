@@ -52,6 +52,10 @@ One line at the end of each step chapter (in Chapter 7, just before "Looking Fur
 | 6 Testing | where your understanding of a process differed from the way users actually run it |
 | 7 Go Live | the knowledge that now lives in documents and data rather than in one person's head (points to "the next chapter") |
 
+## 6. Cooking analogy dropped (added after review)
+
+Removed the three paragraphs that referred to it: Chapter 2 ("checking what you are working with"), Chapter 6 ("Step 6 is the tasting") and Chapter 7 ("This is the service"). Literal mentions of product recipes in the case study stay.
+
 ## Not in this pass
 
-Still open: D4 cooking analogy, D6 section order in How to Use, D7 third-person attributions, D5 (7,500+) — applied in the copy-edit pass — and all copy-edit items C1–C33.
+Still open: D6 section order in How to Use, D7 third-person attributions, D5 (7,500+) — applied in the copy-edit pass — and all copy-edit items C1–C33.

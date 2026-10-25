@@ -112,7 +112,7 @@ Note: *How to Use This Handbook* lists "In this chapter you will…" **before** 
 | D1 | **References.** | **Decided:** own sources → one "About the sources" note; external sources → numbered note + References appendix | Done — see §7 |
 | D2 | **Workbook or handbook?** | **Decided:** "handbook" for the book; "workbook" only for Excel files (the Project Plan Checklist, the Data Mapping workbook) | Done — structural pass 1 |
 | D3 | **Chapter numbering.** | **Decided:** three parts. Part One — Getting Started (Foreword, How to Use, Create Your Plan: named, not numbered). Part Two — The Flow7 Migration System (Chapters 1–7, chapter = step). Part Three — After the Move (Know the Business: named). Then appendices. | Done — structural pass 1 |
-| D4 | **Cooking analogy.** Chapters 2, 6 and 7 refer to "the cooking analogy that runs through Flow7", but it is never introduced. | introduce it in Create Your Plan or How to Use / remove the references | Introduce it briefly in How to Use (two or three sentences) |
+| D4 | **Cooking analogy.** | **Decided:** dropped — the three references removed | Done (pass 1) |
 | D5 | **Case-study product count.** | **Decided:** 7,500+ everywhere | Done — apply in copy-edit pass |
 | D6 | **Section order.** See §5 above. | Fix How to Use / fix every chapter | Fix How to Use (one edit instead of seven) |
 | D7 | **Third-person self-references.** Chapters 5 and 6 and *Know the Business* open From the Field with "documented by Stuart Parkins", and Chapter 5's opening quote is signed "— Stuart Parkins". | keep as source attribution / rewrite in first person | First person in the text; keep the formal attribution in the source note |

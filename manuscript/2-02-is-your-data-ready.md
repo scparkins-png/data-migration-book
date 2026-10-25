@@ -12,8 +12,6 @@
 
 You found your data in Chapter 1 — every system, every spreadsheet, every paper record. Step 2 of the Flow7 Migration System is where you take an honest look at the *condition* of that data, before you move any of it.
 
-In the cooking analogy, this is **checking what you are working with** — looking at each ingredient and deciding whether it is still good.
-
 ## In this chapter you will…
 
 - Assess each priority source across the seven Flow7 data-quality dimensions

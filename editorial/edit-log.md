@@ -28,7 +28,7 @@ Chapter numbers below use the new structure (Part Two: Chapters 1–7 = Steps 1�
 | X3 | Ch 1 | "those come in Chapter 2" — should be Chapter 5 (or Step 2). Depends on D3. | Done (pass 1) — correct as written under the new numbering |
 | X4 | Ch 6 | "not skimping on Chapters 1 and 4" — probably Chapters 4 and 7 (Steps 1 and 4). | Done (pass 1) — correct as written under the new numbering |
 | X5 | Create Your Plan, Ch 1 | Exercise numbering clash: both chapters use 1.1–1.3. | Done (pass 1) — Planning Exercise 1–4; Exercise 2.x and 7.x renumbered |
-| X6 | Ch 2, Ch 6, Ch 7 | Cooking analogy referred to but never introduced (D4). | Decision |
+| X6 | Ch 2, Ch 6, Ch 7 | Cooking analogy referred to but never introduced (D4). | Done (pass 1) — analogy dropped; three paragraphs removed (Ch 2, 6, 7) |
 | X7 | Ch 2, Ch 3 vs Ch 6 | 7,000 vs 7,500+ product records (D5). | Decided: 7,500+ — apply in copy-edit pass |
 | X8 | Ch 5 | Templates "available to download at spdata.co.uk" — every other chapter says stuartparkins.com. | Open |
 | X9 | Ch 6 | "the eight standard fields" — the list that follows has nine (twice in the chapter). | Open |
