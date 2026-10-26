@@ -43,3 +43,7 @@ Using the same invented business across chapters gives readers a thread to follo
 ## Question for you
 
 **Sheet or List?** Your Excel checklist calls 4A the "Summary Target **List**", but the book and your Step 4 template (checked in Canva) both say "Summary Target **Sheet**". I've kept "Sheet". If you'd rather use "List", I'll change it everywhere.
+
+## Outcome (26 Oct 2026)
+
+Approved by Stuart. Sheet or List: **Sheet** (matches the Step 4 template; keeps 4A distinct from the 4B List; fits the sheet/list pattern). The Excel checklist wording is added to the fix list (reference catalogue R7). Merged.

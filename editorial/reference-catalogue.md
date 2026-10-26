@@ -41,7 +41,7 @@ Checked against the Excel Project Plan Checklist V1 and the Step 3 and Step 6 he
 | R4 | Step 6 in the Excel checklist really has only one sub-task each under 6A and 6B. The book's extra items come from the help notes. | Ch 6 · Excel | Suggest adding the help-note items to the Excel checklist so book and checklist match |
 | R5 | Step 4: the Excel lists 4A4 (verify access) first, before 4A1–4A3. The odd order is in the source itself. | Ch 4 · Excel | Suggest renumbering in the Excel (access = 4A1); the book's explanatory note can then go |
 | R6 | Step 7A2 sub-tasks are misnumbered in the Excel: 7A2.1, then 7A1.2, 7A1.3, 7A1.4. The book already uses the correct 7A2.2–7A2.4. | Excel | Fix in the Excel |
-| R7 | The Excel names the Step 4A sheet "Summary Target **List**"; the book says "Summary Target **Sheet**". | Ch 4 | Pick one name |
+| R7 | The Excel names the Step 4A sheet "Summary Target **List**"; the book and the Step 4 template say "Summary Target **Sheet**". | Ch 4 · Excel | Decided: **Sheet** — change the Excel wording |
 | R8 | Excel 5C3 says "text cases" — should be "test cases". | Excel | Fix in the Excel |
 | R9 | Every template and help note links to **spdata.co.uk** and carries SP Data branding; the book points readers to **stuartparkins.com**. | All | Decision: rebrand templates before launch, or redirect the old links (see note) |
 | R10 | The key Excel checklist sits in the **ARCHIVE** subfolder. | — | Confirm it is still the current version readers get |
