@@ -1,16 +1,16 @@
 # Figure List
 
-One row per image in the book. Images will be gathered into one Canva folder; once Stuart names it, each design is matched to a row here, exported at print resolution (300 dpi PNG, or PDF for vector art) into `images/`, and the `{{figure: …}}` marker in the chapter is pointed at the file.
+One row per image in the book. Images are in Canva folder `FAHZGutBNJY` (see `editorial/reference-catalogue.md`); each design is matched to a row here, exported at print resolution (300 dpi PNG, or PDF for vector art) into `images/`, and the `{{figure: …}}` marker in the chapter is pointed at the file.
 
 | ID | Chapter | Caption / purpose | Source | Status |
 |:-|:-|:-|:-|:-|
-| fig-plan-01 | Create Your Plan | Flow7 flow diagram with the Foundation stage highlighted | Existing Flow7 diagram (likely in Canva) | Awaiting Canva folder |
-| fig-c3-01 | Ch 3 One Version of the Truth | Figure 3.1 — Sage 50 to Sage X3 Master Map: four agreed sources combining into the Master Set via SQL views | Flow7 Step 3 template, Help Notes Part B | Awaiting Canva folder |
-| fig-c6-01 | Ch 6 Test Before You Trust | Figure 6.1 — UAT-001 Login Functionality worked example | Flow7 Step 6 template, Help Notes Part A | Awaiting Canva folder |
+| fig-plan-01 | Create Your Plan (and front-of-book Flow7 map) | Flow7 road diagram, all seven steps | Canva: SPDATA -FLOW7-STEP-AL-STEPS, page 1 | Found — export once design decisions are made |
+| fig-c3-01 | Ch 3 One Version of the Truth | Figure 3.1 — Sage 50 to Sage X3 Master Map: four agreed sources combining into the Master Set via SQL views | Canva: SPDATA-FLOW7-STEP3-DATA-MASTER, page 4 | Found |
+| fig-c6-01 | Ch 6 Test Before You Trust | Figure 6.1 — UAT-001 Login Functionality worked example | Canva: SPDATA-FLOW7-STEP6-TESTING, page 2 (or Step 6 PDF) | Found — confirm filled example |
 
 ## Likely additions (to discuss)
 
-- A Flow7 "you are here" badge or strip for the top of each step chapter (Chapters 1–7), using the existing numbered Flow7 badges (red 1–5, amber 6, green 7).
+- Chapter openers: pages 2–8 of SPDATA -FLOW7-STEP-AL-STEPS show each step highlighted — ready-made "you are here" images (colour question still open: red 1–5).
 - The Master Map was numbered Figure 6.2 in the drafts, suggesting an earlier figure in that chapter was lost. Renumbered Figure 3.1 for now — check whether one is missing.
 - Cover art (front, spine, back) — sized once the format and page count are known.
 
