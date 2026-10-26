@@ -20,11 +20,12 @@ The step PDFs are true PDFs; their content was also read from the Canva source d
 | 6 | STEP6-A-B-TESTING-F.pdf · STEP6-TESTING-F.pdf · STEP6-A-B-TESTING-SHEET-SINGLE-F.pdf · STEP6-TESTING-LIST-SINGLE-F.pdf · SPDATA-7-STEP-SIMPLE-TESTING-TOOL.xlsx (archive) | STEP6-TESTING | Ch 6 |
 | 7 | STEP7-DATA-MIGRATION-GO-LIVE-PLAN-F.pdf · STEP7-MIGRATION-GO-LIVE-MONITORING-F.pdf · STEP7-…-DASHBOARD-SINGLE-F.pdf | STEP7-MIGRATION-GO-LIVE · STEP7-GO-LIVE-CHECKLIST | Ch 7 |
 | All | **SPDATA-FLOW7-EXCEL-DATA-MIGRATION-PROJECT-CHECKLIST-V1.xlsx** (archive, July 2025) · SPDATA-FLOW7-DATA-MIGRATION-PROJECT-CHECKLIST-F.pdf · SPDATA-7-STEP-MIGRATION-SUCCESS-PROJECT-CHECKLIST.xlsx (archive) · SPDATA-FLOW7-MIGRATION-TEMPLATE.xlsx (archive, 20 MB) | SPDATA-FLOW7-DATA-MIGRATION-PROJECT-CHECKLIST | All step chapters |
+| All (workbook) | **SPDATA-FLOW7-MIGRATION-TEMPLATE.xlsx** (archive, 20 MB): one combined Flow7 workbook — a START HERE sheet, team list, and step sheets beginning with the Step 1 Data Source Inventory. Its sample project is "Migrating X3 Product Data to Shopify". **Note:** the sample team uses real celebrities' names (e.g. Tom Cruise, Julia Roberts) — replace these with invented names before the file is shared with readers. | — | Possible basis for the worksheet pack |
 | Other | Flow7_Full_Local_Tool.zip · SPDATA-MIGRATION-ENVELOPE-PLAN-ONE-PAGE · one-pager-data-migration.jpg · NOTES-…-GO-MIGRATION-CHECKLIST.pdf (×2) · SPDATA-7-STEP-AI-PROJECT-CHECKLIST.xlsx (AI framework — not this book) | The-7-STEPS-FOR-ANY-DATA-PROJECT (stuartparkins.com branding) | Looking Further / marketing |
 
 ## Not in the folder yet
 
-- **Flow7 Data Mapping workbook** (DATA-MAPPING and DATA SOURCES sheets, source of the FULLNAME/OPTEDIN example in Appendix E). It may be SPDATA-FLOW7-MIGRATION-TEMPLATE.xlsx — to confirm.
+- ~~Flow7 Data Mapping workbook~~ — **dropped (26 Oct 2026).** Checked: SPDATA-FLOW7-MIGRATION-TEMPLATE.xlsx is not it (see below), and a Drive-wide search finds the FULLNAME/OPTEDIN example only in the book's own chapters. The example stays in the book as Stuart's own work, covered by *About the Sources*; the specific workbook citations in Appendix E and Create Your Plan are removed at the critical edit.
 - **The Sage 50 → Sage X3 case study:** the web version will be used (stuartparkins.com) unless a copy is added.
 - ***Are You Ready?* Data Migration Checker** — the web address is needed.
 
