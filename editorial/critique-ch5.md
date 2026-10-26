@@ -58,3 +58,7 @@ The vague-vs-good table gains a matching "Fix the dates" rule (illustrative).
 - The tool table.
 - "Let the job, not the anxiety, decide".
 - The three-layer SQL explanation.
+
+## Outcome (26 Oct 2026)
+
+Approved by Stuart, including P12 (dates and times). He will suggest further mismatch types during the copy-edit phase (edit log M12). Merged.
