@@ -41,6 +41,17 @@ The structural problem is that **every lesson is taught twice**. The subsections
 
 **P11 — Small fixes:** "SSMS" is spelled out as "SQL Server" in What you'll need; "10 %" → "10%"; "an artefact" → "a document".
 
+## Added after review (Stuart, 26 Oct)
+
+**P12 — Dates and times get their own entry** in "What you are looking for", rather than a passing mention under Format. It covers:
+- day-or-month-first;
+- dates held as text or Excel serial numbers;
+- two-digit years;
+- date versus date-and-time, including time-zone and British Summer Time shifts;
+- placeholder dates such as 01/01/1900.
+
+The vague-vs-good table gains a matching "Fix the dates" rule (illustrative).
+
 ## Not changed
 
 - The five-row worked example (only spacing tidied).

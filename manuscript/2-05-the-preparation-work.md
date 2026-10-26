@@ -72,7 +72,13 @@ The most common reasons data needs changing:
 
 - **Data type** — text in the source, a number field in the target.
 - **Field length** — a 500-character description going into a 100-character field.
-- **Format** — dates as DD/MM/YYYY when the target wants YYYY-MM-DD; "GB" when it wants "United Kingdom"; "GBP" when it stores the currency code "826".
+- **Format** — "GB" when the target wants "United Kingdom"; "GBP" when it stores the currency code "826".
+- **Dates and times** — one of the biggest mismatches of all, so check every date field on its own:
+  - *Day or month first?* Is 03/04/2025 the 3rd of April or the 4th of March? UK and US systems disagree, and a wrong guess changes the date silently rather than failing.
+  - *Dates stored as text*, or as numbers (Excel keeps dates as serial numbers, so 45,750 can turn up where a date should be).
+  - *Two-digit years* — is "25" 2025 or 1925?
+  - *Date versus date and time* — a date-only field in the source going into a date-and-time field in the target (or the reverse) can gain a midnight, lose the time, or shift by a day when time zones or British Summer Time are applied.
+  - *Placeholder dates* such as 01/01/1900 standing in for "unknown" — decide whether they become blanks.
 - **Number and decimal storage** — a discount stored as "10" when the target expects "0.1". Multiplied across a price list, that is a serious problem on day one.
 - **Picklists** — the target only accepts values from a fixed list, and your data holds values that are not on it.
 - **Free text where a code belongs** — someone used the product code field as a notes column.
@@ -98,6 +104,7 @@ A good cleaning rule is precise enough for a colleague to apply without asking y
 |:-|:-|
 | "Fix the country field" | Replace "GB" with "United Kingdom" and "USA" with "United States"; leave other values unchanged; flag anything that is not a known country for manual review. |
 | "Sort out the phone numbers" | Remove all spaces; make sure UK mobile numbers start "07"; flag any number with fewer than 10 digits for review before import. |
+| "Fix the dates" | Source order dates are text in DD/MM/YYYY; convert to the target's YYYY-MM-DD format. Order time is not held in the source, so set it to 12:00 to stop time-zone shifts moving the date. Treat 01/01/1900 as blank. Flag any day above 12 that would be read as a month for manual review. |
 
 Write the rules into the Clean and Transform Notes column, apply them in your mapping tool, and use the cleaned output for your sample test. Do not skip the test and go straight to a full load.
 
