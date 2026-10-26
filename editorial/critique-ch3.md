@@ -50,3 +50,7 @@ The useful "tracking back" paragraph is tucked away at the end of Your Turn, whe
 - The Master Map worked example, Figure 3.1 and the table that restates it.
 - The four disciplines and their examples, including "a fight waiting to happen".
 - Your list of how the master set was assembled.
+
+## Outcome (26 Oct 2026)
+
+Approved by Stuart ("looks okay"), including the illustrative stock example in P2. Merged.
