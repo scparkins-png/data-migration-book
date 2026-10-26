@@ -16,7 +16,7 @@ Decision (Stuart, 25 Oct 2026): **option 3, hybrid.** In the handbook, each *You
 | 2.1 | Ch 2 | 20-record spot-check — blanks, duplicates, formatting, accuracy, stale; what you found, rough % | PDF + Excel | Moved (critical edit Ch 2) |
 | 2.2 | Ch 2 | Whose head is it in? — two questions | PDF | Moved |
 | 3.1 | Ch 3 | One entity, four decisions — which sources, which wins, what you leave behind, who owns it | PDF | Moved (critical edit Ch 3) |
-| 4.1 | Ch 4 | One target area — access, mandatory fields, import tried, key user task | PDF | At critical edit |
+| 4.1 | Ch 4 | One target area, four questions — access, mandatory fields, import tried, key user task | PDF | Moved (critical edit Ch 4) |
 | 5.1 | Ch 5 | Five most problematic fields | PDF + Excel | At critical edit |
 | 5.2 | Ch 5 | Picklist gaps — values in source, accepted by target, gaps | PDF + Excel | At critical edit |
 | 6.1 | Ch 6 | Draft UAT script — Test ID to User Comments | PDF + Excel | At critical edit |
