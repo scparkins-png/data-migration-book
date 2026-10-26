@@ -35,7 +35,7 @@ Chapter numbers below use the new structure (Part Two: Chapters 1–7 = Steps 1�
 | X6 | Ch 2, Ch 6, Ch 7 | Cooking analogy referred to but never introduced (D4). | Done (pass 1) — analogy dropped; three paragraphs removed (Ch 2, 6, 7) |
 | X7 | Ch 2, Ch 3 vs Ch 6 | 7,000 vs 7,500+ product records (D5). | Decided: 7,500+ — apply in copy-edit pass |
 | X8 | Ch 5 | Templates "available to download at spdata.co.uk" — every other chapter says stuartparkins.com. | Open |
-| X9 | Ch 6 | "the eight standard fields" — the list that follows has nine (twice in the chapter). | Confirmed by Step 6 help notes (nine fields) — fix at Ch 6 critical edit |
+| X9 | Ch 6 | "the eight standard fields" — the list that follows has nine (twice in the chapter). | Done (critical edit Ch 6) — nine fields, numbered |
 | X10 | Ch 6 | Checklist 6A has one item and 6B one item — check against the source checklist; looks thin compared with other steps. | Confirmed: the Excel has only 6A1 and 6B1 — see reference-catalogue R4 |
 | X11 | Ch 7 | "Step 7 covers all five phases in detail" — the chapter describes four phases (the checklist has 7A–7E, five sections). Align the wording. | Open |
 | X12 | Ch 4 | Checklist order 4A4, 4A1, 4A2, 4A3 with an explanatory note — consider renumbering in the source checklist instead. | Order is in the Excel itself — see reference-catalogue R5 |
