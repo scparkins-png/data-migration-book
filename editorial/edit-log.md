@@ -20,6 +20,7 @@ Chapter numbers below use the new structure (Part Two: Chapters 1–7 = Steps 1�
 | M9 | How to Use, Foreword | "Write in it… fill the boxes in pen", "A blank handbook helped no one" and "on the page" — rewrite around the worksheet pack (option 3). | Open |
 | M10 | Book | Build the worksheet pack (15 worksheets — see `editorial/worksheet-pack.md`). | Open |
 | M11 | App E, Create Your Plan | Drop the "Source: Flow7 Data Mapping workbook (DATA-MAPPING sheet), SP Data Consultancy Ltd" citations (the workbook is not kept). Keep the FULLNAME/OPTEDIN example, introduced as coming from one of Stuart's own mapping projects; *About the Sources* covers it. | Open — at critical edit |
+| M12 | Ch 5 | Stuart to add further common mismatch types to "What you are looking for" during the copy-edit phase (dates and times added 26 Oct). | Open — copy-edit |
 | M8 | Book | Front matter not yet written: title page, copyright page (ISBN, edition, disclaimer, trademark note for Flow7 Migration System™), contents, About the Author, About the sources (if D1 = a). | Open |
 
 ## Cross-references and consistency

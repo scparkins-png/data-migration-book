@@ -17,8 +17,8 @@ Decision (Stuart, 25 Oct 2026): **option 3, hybrid.** In the handbook, each *You
 | 2.2 | Ch 2 | Whose head is it in? — two questions | PDF | Moved |
 | 3.1 | Ch 3 | One entity, four decisions — which sources, which wins, what you leave behind, who owns it | PDF | Moved (critical edit Ch 3) |
 | 4.1 | Ch 4 | One target area, four questions — access, mandatory fields, import tried, key user task | PDF | Moved (critical edit Ch 4) |
-| 5.1 | Ch 5 | Five most problematic fields | PDF + Excel | At critical edit |
-| 5.2 | Ch 5 | Picklist gaps — values in source, accepted by target, gaps | PDF + Excel | At critical edit |
+| 5.1 | Ch 5 | Five most problematic fields — field, suspected problem, type of issue, rule or decision, data exists?, on a document? | PDF + Excel | Moved (critical edit Ch 5) |
+| 5.2 | Ch 5 | Picklist gaps — values in source, accepted by target, gaps | PDF + Excel | Moved (critical edit Ch 5) |
 | 6.1 | Ch 6 | Draft UAT script — Test ID to User Comments | PDF + Excel | At critical edit |
 | 7.1 | Ch 7 | Loading plan — order, entity, depends on, expected count, responsible | PDF + Excel | At critical edit |
 | 7.2 | Ch 7 | Rollback trigger — trigger, decision-maker, steps | PDF | At critical edit |
