@@ -2,7 +2,7 @@
 
 # Know Your Data Sources
 
-### *Step 1 of the Flow7 Data Migration System — Identify Your Data Sources*
+### *Step 1 of the Flow7 Data Migration System — Know Your Data Sources*
 
 **"The migrations that succeed are the ones where the team knows exactly what they have, where it lives, and who owns it — before they touch a single record."**
 

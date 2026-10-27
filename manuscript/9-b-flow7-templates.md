@@ -21,7 +21,7 @@ The handbook tells you *what* to do and *why*. These files are where you do it. 
 | **Chapter 4 — Know Your Destination** | 4A Summary Target Sheet · 4B User Target Processing List | 4A and 4B |
 | **Chapter 5 — The Preparation Work** | 5 Simple Mapping Sheet | The Simple Mapping Sheet |
 | **Chapter 6 — Test Before You Trust** | 6A UAT Test Sheet · 6B UAT Testing List | 6A |
-| **Chapter 7 — Go Live** | Go-Live Plan · Go-Live Monitoring · Project Plan Checklist (7A–7E) | The Go-Live Plan |
+| **Chapter 7 — Go Live** | Data Migration Go-Live Plan · Migration Go-Live Monitoring · Migration Go-Live Dashboard · Project Plan Checklist (7A–7E) | The Data Migration Go-Live Plan |
 | **Know the Business** | *7 Steps for Any Data Project* reference sheet | Your project handover |
 | **Appendix A** | — | Your own translator (a simple five-column spreadsheet) |
 

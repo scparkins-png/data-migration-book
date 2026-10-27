@@ -149,7 +149,7 @@ Write out the order in which your data will be loaded. Even a simple migration w
 
 If you cannot fill in the "depends on" column, go back to your Step 4 notes — that is where the loading order was worked out.
 
-**Where to record it:** your Step 7 *Go-Live Plan*.
+**Where to record it:** your Step 7 *Data Migration Go-Live Plan*.
 
 ### Exercise 7.2 — Define Your Rollback Trigger
 
@@ -161,7 +161,7 @@ Agree the answers to three questions before the window opens, so the decision is
 
 **Where to record it:** the top of the same Go-Live Plan, so everyone in the migration window can see it.
 
-> 📄 **Your template.** Flow7 Step 7 — *Go-Live Plan* (your loading plan and rollback trigger) and *Go-Live Monitoring* (the stabilisation weeks). The *Flow7 Data Migration Project Plan Checklist* covers all five stages of Step 7 (7A to 7E) in full, with status, owner and date columns. For the issue log, keep using your Step 6 *UAT Testing List* — same columns, same severity scale — so that go-live issues sit alongside the ones you found in testing. Download at **stuartparkins.com**.
+> 📄 **Your template.** Flow7 Step 7 — *Data Migration Go-Live Plan* (your loading plan and rollback trigger), *Migration Go-Live Monitoring* (the stabilisation weeks) and the one-page *Migration Go-Live Dashboard*. The *Flow7 Data Migration Project Plan Checklist* covers all five stages of Step 7 (7A to 7E) in full, with status, owner and date columns. For the issue log, keep using your Step 6 *UAT Testing List* — same columns, same severity scale — so that go-live issues sit alongside the ones you found in testing. Download at **stuartparkins.com**.
 
 ## What you have achieved in this chapter
 
