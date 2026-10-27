@@ -17,7 +17,7 @@ Chapter numbers below use the new structure (Part Two: Chapters 1–7 = Steps 1�
 | M5 | Ch 1 | "See Chapter XXX" — placeholder cross-reference (should point to Create Your Plan's *Know the Business* section and/or Chapter 11). | Done (pass 1) — now points to Create Your Plan's *Know the Business — and Its Language* and the closing chapter |
 | M6 | Ch 4 | Sentence ends "Remember" with nothing after it. | Open |
 | M7 | Ch 6 | Exercise: Description, Test Steps, Test Data and Expected Result have no answer space in the Drive text (boxes probably lost). `{{write-in-box}}` markers added as placeholders. | Open |
-| M9 | How to Use, Foreword | "Write in it… fill the boxes in pen", "A blank handbook helped no one" and "on the page" — rewrite around the worksheet pack (option 3). | Open |
+| M9 | How to Use, Foreword | "Write in it… fill the boxes in pen", "A blank handbook helped no one" and "on the page" — rewrite around the worksheet pack (option 3). | How to Use done (critical edit). Foreword still open. |
 | M10 | Book | Build the worksheet pack (15 worksheets — see `editorial/worksheet-pack.md`). | Open |
 | M11 | App E, Create Your Plan | Drop the "Source: Flow7 Data Mapping workbook (DATA-MAPPING sheet), SP Data Consultancy Ltd" citations (the workbook is not kept). Keep the FULLNAME/OPTEDIN example, introduced as coming from one of Stuart's own mapping projects; *About the Sources* covers it. | Create Your Plan done (critical edit). Appendix E still open. |
 | M12 | Ch 5 | Stuart to add further common mismatch types to "What you are looking for" during the copy-edit phase (dates and times added 26 Oct). | Open — copy-edit |
@@ -39,9 +39,10 @@ Chapter numbers below use the new structure (Part Two: Chapters 1–7 = Steps 1�
 | X8 | Ch 5 | Templates "available to download at spdata.co.uk" — every other chapter says stuartparkins.com. | Open |
 | X9 | Ch 6 | "the eight standard fields" — the list that follows has nine (twice in the chapter). | Done (critical edit Ch 6) — nine fields, numbered |
 | X10 | Ch 6 | Checklist 6A has one item and 6B one item — check against the source checklist; looks thin compared with other steps. | Confirmed: the Excel has only 6A1 and 6B1 — see reference-catalogue R4 |
+| X14 | Ch 2, 3, 5, 6 | Boxes still using the generic ▶ marker: "Worked example" (→ 📋) and the titled boxes "Always use real sample data", "Completeness vs accuracy", "Where the UAT scripts come from" (→ 🔑 Key idea), to match the box key in How to Use. | Open — copy-edit |
 | X11 | Ch 7 | "Step 7 covers all five phases in detail" — the chapter describes four phases (the checklist has 7A–7E, five sections). Align the wording. | Done (critical edit Ch 7) — text now describes five stages, 7A–7E, including the go/no-go decision |
 | X12 | Ch 4 | Checklist order 4A4, 4A1, 4A2, 4A3 with an explanatory note — consider renumbering in the source checklist instead. | Order is in the Excel itself — see reference-catalogue R5 |
-| X13 | How to Use | Section order in "Every chapter follows the same rhythm" differs from the chapters (D6). | Decision |
+| X13 | How to Use | Section order in "Every chapter follows the same rhythm" differs from the chapters (D6). | Done (critical edit How to Use) — How to Use now matches the chapters (D6) |
 | X14 | Foreword | Heading in Drive file title is "Forward" — the chapter heading is correctly "Foreword"; just rename the Drive file. | Open |
 | X15 | Know the Business | References 1 and 2 cite the same case study — merge (or fold into About the sources, D1). | Open |
 | X16 | Book | Old long Chapter 11 asked for a one-line signpost at the end of every step chapter pointing forward to Chapter 11. Not yet done in Chapters 4–10. | Done (pass 1) — tailored one-line signpost at the end of each step chapter |
@@ -60,8 +61,8 @@ For the copy-edit pass. Listed now so nothing is lost; each will be shown in con
 | C5 | Foreword | "A migration can feel daunting, is worrying, but is more comfortable when managed systematically." | Rework |
 | C6 | Foreword | "smaller( it may be a huge migration!)" | "smaller (it may still be a huge migration!)" |
 | C7 | Foreword | "from small one to one system migrations to huge multi business, multi system migrations" | "one-to-one", "multi-business, multi-system" |
-| C8 | How to Use | "tests 50,000 thousand records" | "50,000 records" |
-| C9 | How to Use | "a clear STOP or GO  gate" | double space |
+| C8 | How to Use | "tests 50,000 thousand records" | "50,000 records" — *Done (critical edit How to Use)* |
+| C9 | How to Use | "a clear STOP or GO  gate" | double space — *Done (critical edit How to Use)* |
 | C10 | Create Your Plan | "whether in the business already or a new data specialist the involvement in the project will increase…" | comma after "specialist" — *Done (critical edit Create Your Plan) — sentence rewritten* |
 | C11 | Create Your Plan | "different people's  heads" | double space — *Done (critical edit Create Your Plan)* |
 | C12 | Create Your Plan | "Think through what could go wrong for your business and divert your resources" | unclear — "and could divert your resources"? — *Done (critical edit Create Your Plan) — "how would you respond?"* |
