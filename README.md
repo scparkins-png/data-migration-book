@@ -20,7 +20,8 @@ Working repository for compiling, editing and producing the book. Drafting still
 - Not yet in the manuscript: Appendices A–D, front matter (see `editorial/edit-log.md`). No Introduction (decided 27 Oct 2026).
 - Style sheet v0.1: four decisions settled (references, numbering, handbook, product count); three still open.
 - Structural pass 1 approved and merged. Signposting system approved.
-- Next: critical edit (chapter by chapter, together), starting with Chapter 1 as the pilot. Copy-edit follows.
+- Critical edit complete (27 Oct 2026): all chapters, Part One and Know the Business approved and merged. No Introduction. Book closes with *A Final Word*.
+- Next: copy-edit (see open items in `editorial/edit-log.md`).
 
 ## Working rules
 

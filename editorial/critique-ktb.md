@@ -42,3 +42,7 @@ A *Key idea* box follows: anything still in someone's head is your first job aft
 ## Question for you
 
 **Ending the book.** The book now ends on "Looking Further" and its template box. That's practical, but it's not a goodbye. Would you like a short closing sign-off — two or three sentences in your voice, signed like the Foreword? I can draft one, or you may prefer to write it yourself.
+
+## Outcome (27 Oct 2026)
+
+Approved by Stuart, including A Final Word. Merged. This completes the critical edit.
