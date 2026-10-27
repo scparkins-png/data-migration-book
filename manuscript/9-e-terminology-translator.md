@@ -16,9 +16,9 @@ This appendix is a **three-language dictionary**. For each business area it line
 | **What the system calls it** | The label you will typically meet on a screen, in an export header, or in an ERP/CRM/accounting field. |
 | **What it actually is** | The plain-English process or data meaning — the thing all the names are pointing at. |
 
-It is not a full glossary of every term in the book (that is Appendix C). It is a *translation layer* for the specific moment terminology bites hardest: when you are matching a source field to a target field and someone in the room insists they are two different things.
+It is not a glossary of every term in the book. It is a *translation layer* for the specific moment terminology bites hardest: when you are matching a source field to a target field and someone in the room insists they are two different things.
 
-**How to use it.** Keep it open beside you during **Step 1 (Business Process List)**, **Step 4 (target field review)** and **Step 5 (mapping)**. When a source column header and a target field name do not obviously match, check whether they are the same object wearing two names before you decide they are two different things. Most "extra" fields are not extra — they are duplicates in disguise.
+**How to use it.** Keep it open beside you from planning to go-live — above all during **Step 1** (the Business Process List), **Step 4** (reviewing the target's fields) and **Step 5** (mapping). When a source column header and a target field name do not obviously match, check whether they are the same object wearing two names before you decide they are two different things. Most "extra" fields are not extra — they are duplicates in disguise.
 
 **A note on scope.** Terminology varies by industry, by software vendor and even by company. The tables below cover the terms most migrations meet across sales, purchasing, manufacturing, logistics, finance, eCommerce and CRM. Treat them as a starting map, not gospel — always confirm the meaning with the process owner you identified in Step 1.
 
@@ -26,7 +26,7 @@ It is not a full glossary of every term in the book (that is Appendix C). It is 
 
 **Same object, three names.** Before you create a new target field for something that "isn't in the new system", prove it is genuinely new — not the same object your source called by a different name.
 
-The clearest real example of this comes straight from the Flow7 Data Mapping workbook. A single source system held a customer file where the everyday fields translated into the target like this:
+The clearest real example comes from one of my own mapping projects. A single source system held a customer file whose everyday fields translated into the target like this:
 
 | Source field (what the business exported) | Target field (what the new system wanted) | What it actually is |
 |:-|:-|:-|
@@ -34,8 +34,6 @@ The clearest real example of this comes straight from the Flow7 Data Mapping wor
 | POSTCODE | Mailing Postal Code | Same object, different label |
 | TEL | Phone | Same object, different label |
 | OPTEDIN ("Yes") | Email Opt Out ("False") | Same fact, **inverted logic** |
-
-*Source: Flow7 Data Mapping workbook (DATA-MAPPING sheet), SP Data Consultancy Ltd.*
 
 Notice the last row. OPTEDIN = Yes and Email Opt Out = False mean the identical thing, but a careless mapping flips every marketing consent in your database. That is what this appendix is here to catch.
 
@@ -89,7 +87,7 @@ The area where the everyday word and the system word diverge most — and where 
 | "Cost of making it" | Standard Cost / Product Costing | The costed value of the BOM plus routing |
 | "The quality cert" | Certificate of Analysis (**CoA**) | A quality document proving a batch meets spec |
 
-**Migration watch-out (real).** In the Sage 50 → Sage X3 migration, the target system *demanded data the source had never tracked*: there were no warehouse locations and **no BOMs at all** in Sage 50, yet X3 required them — and X3 recognised **four different types** of BOM plus separate work centres and operations. Much of the target's required data "did not exist anywhere and had to be created from scratch." Manufacturing targets are almost always richer than their sources; budget for *creating* structure, not just moving it. *Source: Stuart Parkins, "A Case Study from a Sage 50 to Sage X3 Migration," stuartparkins.com, 28 October 2025.*
+**Migration watch-out (real).** In the Sage 50 → Sage X3 migration, the target system *demanded data the source had never tracked*: there were no warehouse locations and **no BOMs at all** in Sage 50, yet X3 required them — and X3 recognised **four different types** of BOM plus separate work centres and operations. Much of the data the target required did not exist anywhere and had to be created from scratch. Manufacturing targets are almost always richer than their sources; budget for *creating* structure, not just moving it.
 
 **CoA is itself a false friend.** In manufacturing quality it means *Certificate of Analysis*; in finance it means *Chart of Accounts* (see Section 5). Same three letters, entirely different data. This is exactly the kind of clash this appendix exists to surface.
 
@@ -109,7 +107,7 @@ Where "stock" and "location" hide a surprising amount of structure.
 | "The courier note", "tracking" | Shipment / Consignment / Carrier Tracking | The outbound delivery record |
 | "Reorder level" | Reorder Point / Min-Max / Safety Stock | The trigger to buy or make more |
 
-**Migration watch-out (real).** In the same case study, "stock not matching the warehouse" and *random text where product codes should be* were live data-quality problems, and the source held **no recorded warehouse locations** for a target that needed them. If your source tracks stock as a single number with no location, expect to *invent* the location structure the new system assumes already exists. *Source: Sage 50 → Sage X3 case study, stuartparkins.com.*
+**Migration watch-out (real).** In the same case study, "stock not matching the warehouse" and *random text where product codes should be* were live data-quality problems, and the source held **no recorded warehouse locations** for a target that needed them. If your source tracks stock as a single number with no location, expect to *invent* the location structure the new system assumes already exists.
 
 ## 5. Finance & Accounting
 
@@ -166,7 +164,7 @@ Relationship language is fluid, and the same word ("lead", "contact", "campaign"
 | "Tags", "labels" | Tags / Segments / Lists | Ways of grouping contacts for targeting |
 | "Activity", "notes", "the history" | Activity / Interaction / Task | Logged touchpoints with a contact |
 
-**Migration watch-out (real).** Consent is where terminology errors become **legal** errors. In the Flow7 Data Mapping workbook, a source field OPTEDIN = "Yes" mapped to a target field Email Opt Out = "False" — the same fact expressed with **inverted logic**. Map a consent field carelessly and you can opt your entire database back in, breaching GDPR. Always confirm the *direction* of a consent field, not just its presence. *Source: Flow7 Data Mapping workbook (DATA-MAPPING sheet), SP Data Consultancy Ltd.*
+**Migration watch-out (real).** Consent is where terminology errors become **legal** errors — remember the OPTEDIN / Email Opt Out example at the start of this appendix. Map a consent field carelessly and you can opt your entire database back in, breaching GDPR. Always confirm the *direction* of a consent field, not just its presence.
 
 ## The false-friends quick list
 
@@ -184,25 +182,18 @@ The handful of words that cause the most trouble because they mean different thi
 
 ## Your Turn
 
-Before you start mapping (Step 5), build your **own** three-column translator for your business, because your terms will not be exactly these.
+### Exercise E.1 — Build your own translator
 
-1. Take the **Business Process List** you built in Step 1 (checklist item 1C).
+Your business's words will not be exactly these, so build your own three-language translator. Start it in Step 1 and have it complete before you map in Step 5.
+
+1. Take your **Business Process List** from Step 1 (checklist item 1C).
 2. For each process, write down the word your **team** uses, the label the **source system** shows, and the field name the **target system** expects.
-3. Flag every row where the three do not obviously match — those are your highest-risk mappings.
+3. Mark whether they are the **same object**, and flag every row where the three names do not obviously match — those are your highest-risk mappings.
 
-| Our word for it | Source system label | Target system field | Same object? (Y/N) | Notes |
-|:-:|:-:|:-:|:-:|:-:|
-|   |   |   |   |   |
-|   |   |   |   |   |
+{{worksheet: E.1 | Terminology Translator}}
 
 Pin the finished sheet up where the mapping happens. It will save more arguments than any other single page in this book.
 
-## Sources & conventions
+## Conventions
 
-This appendix draws on the author's Flow7 source materials and one published case study:
-
-- **Sage 50 → Sage X3 case study:** Stuart Parkins, *"A Case Study from a Sage 50 to Sage X3 Migration,"* stuartparkins.com, 28 October 2025 (originally published on the SPDATA website). Quoted extracts (four BOM types, missing warehouse locations, "stock not matching the warehouse", loading order) are drawn from this article.
-- **Flow7 Data Mapping workbook** (DATA-MAPPING and DATA SOURCES sheets), SP Data Consultancy Ltd — source of the FULLNAME/OPTEDIN translation examples.
-- **Flow7 Data Migration Project Plan Checklist** (Step 1C Business Process List; Step 5 Mapping), SP Data Consultancy Ltd.
-
-The three-column definitions describe terminology as it is *commonly* used across ERP, CRM, accounting and eCommerce systems; they are a general guide, not a specification for any one product. Rows drawn from the author's own project artefacts or the case study are cited above; all other examples are labelled *illustrative scenario*. UK English is used throughout.
+The three-column definitions describe terminology as it is *commonly* used across ERP, CRM, accounting and eCommerce systems. They are a general guide, not a specification for any one product. Watch-outs marked *(real)* come from the Sage 50 → Sage X3 case study or my own projects (see *About the Sources*); all others are labelled *illustrative scenario*.
