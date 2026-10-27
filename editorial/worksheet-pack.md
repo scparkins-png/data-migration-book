@@ -19,10 +19,10 @@ Decision (Stuart, 25 Oct 2026): **option 3, hybrid.** In the handbook, each *You
 | 4.1 | Ch 4 | One target area, four questions — access, mandatory fields, import tried, key user task | PDF | Moved (critical edit Ch 4) |
 | 5.1 | Ch 5 | Five most problematic fields — field, suspected problem, type of issue, rule or decision, data exists?, on a document? | PDF + Excel | Moved (critical edit Ch 5) |
 | 5.2 | Ch 5 | Picklist gaps — values in source, accepted by target, gaps | PDF + Excel | Moved (critical edit Ch 5) |
-| 6.1 | Ch 6 | Draft UAT script — Test ID to User Comments | PDF + Excel | At critical edit |
-| 7.1 | Ch 7 | Loading plan — order, entity, depends on, expected count, responsible | PDF + Excel | At critical edit |
-| 7.2 | Ch 7 | Rollback trigger — trigger, decision-maker, steps | PDF | At critical edit |
-| 7.3 | Ch 7 | Issue log — issue #, raised by, date, description, severity, status, owner, resolved | Excel | At critical edit |
+| 6.1 | Ch 6 | Draft UAT script — the nine fields (tester fields left blank) | PDF + Excel | Moved (critical edit Ch 6) |
+| 7.1 | Ch 7 | Loading plan — order, what is loaded, depends on, expected count, loaded count, who checks it | PDF + Excel | Moved (critical edit Ch 7) |
+| 7.2 | Ch 7 | Rollback trigger — trigger, decision-maker, where the steps are | PDF | Moved (critical edit Ch 7) |
+| ~~7.3~~ | Ch 7 | ~~Issue log~~ — dropped; the Step 6 UAT Testing List carries on as the go-live issue log (agreed 27 Oct 2026) | — | Dropped |
 | E.1 | Appendix E | Your own Terminology Translator — our word, source label, target field, same object?, notes | PDF + Excel | At critical edit |
 
 Knock-on edits for later in the critical edit:

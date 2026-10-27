@@ -54,6 +54,12 @@ By the end, that knowledge existed *outside* one person for the first time: in t
 
 You have turned a migration into a record of how the business actually works — its processes, its exceptions, and the shared language that keeps its systems talking to each other. The data moved; the knowledge stayed. That is the difference between a business that survives a system change and one that quietly loses a piece of itself in the move.
 
+## Looking Further
+
+The seven Flow7 steps were built for data migration, but they are not limited to it. The same sequence — sources, quality, master, target, mapping, testing, go-live — applies to any data project: reporting and analytics builds, workflow automation, and AI implementations. The questions at each step change to fit the work; the order and the discipline do not.
+
+> 📄 **Your template.** The *7 Steps for Any Data Project* reference sheet shows how Flow7 applies across all four project types. Download at **stuartparkins.com**.
+
 ## References
 
 1. Stuart Parkins, *"A Case Study from a Sage 50 to Sage X3 Migration,"* stuartparkins.com, 28 October 2025 (originally published on the SPDATA website). https://www.stuartparkins.com/resources/post/a-case-study-from-a-sage-50-to-sage-x3-migration
