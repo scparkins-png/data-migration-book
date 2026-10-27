@@ -35,6 +35,6 @@ This is the one chapter that grows: about 870 → 1,150 words. The extra length 
 - The opening and closing lines (apart from "work *in*" → "work *through*").
 - "Bring your people with you" (the "particular person in the room" line slightly tightened).
 
-## For the copy-edit (logged as X14)
+## For the copy-edit (logged as X16)
 
 Four boxes in the approved chapters still use the old generic ▶ marker rather than the key: "Worked example" in Chapters 2, 3, 5 and 6 (should be 📋), and three titled boxes — "Always use real sample data" (Ch 5), "Completeness vs accuracy" (Ch 2) and "Where the UAT scripts come from" (Ch 6). They should become Key idea boxes. That's a mechanical change, so I've left it for the copy-edit rather than reopening approved chapters.

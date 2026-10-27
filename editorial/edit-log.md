@@ -39,7 +39,7 @@ Chapter numbers below use the new structure (Part Two: Chapters 1–7 = Steps 1�
 | X8 | Ch 5 | Templates "available to download at spdata.co.uk" — every other chapter says stuartparkins.com. | Open |
 | X9 | Ch 6 | "the eight standard fields" — the list that follows has nine (twice in the chapter). | Done (critical edit Ch 6) — nine fields, numbered |
 | X10 | Ch 6 | Checklist 6A has one item and 6B one item — check against the source checklist; looks thin compared with other steps. | Confirmed: the Excel has only 6A1 and 6B1 — see reference-catalogue R4 |
-| X14 | Ch 2, 3, 5, 6 | Boxes still using the generic ▶ marker: "Worked example" (→ 📋) and the titled boxes "Always use real sample data", "Completeness vs accuracy", "Where the UAT scripts come from" (→ 🔑 Key idea), to match the box key in How to Use. | Open — copy-edit |
+| X16 | Ch 2, 3, 5, 6 | Boxes still using the generic ▶ marker: "Worked example" (→ 📋) and the titled boxes "Always use real sample data", "Completeness vs accuracy", "Where the UAT scripts come from" (→ 🔑 Key idea), to match the box key in How to Use. | Open — copy-edit |
 | X11 | Ch 7 | "Step 7 covers all five phases in detail" — the chapter describes four phases (the checklist has 7A–7E, five sections). Align the wording. | Done (critical edit Ch 7) — text now describes five stages, 7A–7E, including the go/no-go decision |
 | X12 | Ch 4 | Checklist order 4A4, 4A1, 4A2, 4A3 with an explanatory note — consider renumbering in the source checklist instead. | Order is in the Excel itself — see reference-catalogue R5 |
 | X13 | How to Use | Section order in "Every chapter follows the same rhythm" differs from the chapters (D6). | Done (critical edit How to Use) — How to Use now matches the chapters (D6) |
