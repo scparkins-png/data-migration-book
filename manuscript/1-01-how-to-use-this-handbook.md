@@ -10,7 +10,7 @@ The book is in three parts:
 - **Part Two — The Flow7 Migration System.** Seven ordered steps, one chapter each, taking you from "where does our data actually live?" to a confirmed go-live. Chapter 1 is Step 1, Chapter 7 is Step 7.
 - **Part Three — After the Move.** **Know the Business**, where you pull together what the project taught you about how the business works and the words it uses.
 
-At the back, **Appendix A — The Terminology Translator** is the reference to keep open from planning to go-live.
+At the back, **Appendix A — The Terminology Translator** is the reference to keep open from planning to go-live, and **Appendix B** lists every Flow7 download, step by step.
 
 Work the steps in order. Each one builds on the one before: you can't decide on your single version of the truth (Step 3) until you know what data you have and what condition it's in (Steps 1 and 2). That said, a real migration is rarely a tidy straight line. You'll often reach a later step and realise you need to nip back and fix something earlier — a source you missed, a process nobody mentioned. That's not a failure; it's the method doing its job. Whenever it happens, a **Tracking back** box tells you which step to return to. Move forward when you're ready, back when you need to.
 

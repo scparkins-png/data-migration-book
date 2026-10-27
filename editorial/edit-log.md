@@ -26,6 +26,7 @@ Chapter numbers below use the new structure (Part Two: Chapters 1–7 = Steps 1�
 | M15 | Book | Rename "Flow7 Migration System" → "Flow7 Data Migration System" throughout (11 uses) and apply the downloads naming from the style sheet. | Open — copy-edit |
 | M16 | Downloads | The combined Excel file (SPDATA-FLOW7-MIGRATION-TEMPLATE.xlsx) will go to readers as the Flow7 Migration Workbook. Replace the real celebrity names in its sample team with invented ones before release. | Open — Stuart / worksheet-pack stage |
 | M17 | Ch 5 | Add one line in "What you are looking for" pointing to the Terminology Translator (Appendix A, Worksheet A.1). | Open — copy-edit |
+| M18 | App B, Ch 7 | Step 7 template names in Appendix B ("Go-Live Plan", "Go-Live Monitoring") are taken from the PDF file names — Stuart to confirm. Chapter 7's template box names only the Project Plan Checklist; add the Step 7 PDFs once confirmed. | Open — Stuart |
 | M8 | Book | Front matter not yet written: title page, copyright page (ISBN, edition, disclaimer, trademark note for Flow7 Migration System™), contents, About the Author, About the sources (if D1 = a). | Open |
 
 ## Cross-references and consistency
