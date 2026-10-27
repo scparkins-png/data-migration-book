@@ -23,6 +23,8 @@ Chapter numbers below use the new structure (Part Two: Chapters 1–7 = Steps 1�
 | M12 | Ch 5 | Stuart to add further common mismatch types to "What you are looking for" during the copy-edit phase (dates and times added 26 Oct). | Open — copy-edit |
 | M13 | Ch 7 | Worked example uses invented, labelled numbers for now. Stuart's project plan template could supply a real-based loading plan later — revisit at copy-edit or design. | Open — later |
 | M14 | Create Your Plan, How to Use | Web address for the *Are You Ready?* Data Migration Checker — Zoho-hosted, may move to its own domain. Stuart to supply; "at stuartparkins.com" until then. | Open — later edit |
+| M15 | Book | Rename "Flow7 Migration System" → "Flow7 Data Migration System" throughout (11 uses) and apply the downloads naming from the style sheet. | Open — copy-edit |
+| M16 | Downloads | The combined Excel file (SPDATA-FLOW7-MIGRATION-TEMPLATE.xlsx) will go to readers as the Flow7 Migration Workbook. Replace the real celebrity names in its sample team with invented ones before release. | Open — Stuart / worksheet-pack stage |
 | M8 | Book | Front matter not yet written: title page, copyright page (ISBN, edition, disclaimer, trademark note for Flow7 Migration System™), contents, About the Author, About the sources (if D1 = a). | Open |
 
 ## Cross-references and consistency

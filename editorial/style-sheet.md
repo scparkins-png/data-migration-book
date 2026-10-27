@@ -22,7 +22,7 @@ Version 0.1 · 25 October 2026
 
 | Term | Use | Avoid |
 |:-|:-|:-|
-| Flow7 | Flow7 (one word, no space). "the Flow7 Migration System" on first use in a chapter. | Flow 7, FLOW7, F7 (except in figure labels) |
+| Flow7 | Flow7 (one word, no space). The method's full name is **the Flow7 Data Migration System** (decided 27 Oct 2026) — use it on first use in a chapter, then "Flow7". "Framework" is acceptable in marketing copy, not in the book. | Flow 7, FLOW7, F7 (except in figure labels); "Flow7 Migration System" (old name) |
 | Sage products | Sage 50, Sage X3 (X3 alone after first use in a section) | Sage50, SageX3 |
 | Arrow in case-study name | Sage 50 → Sage X3 in headings and captions; "Sage 50 to Sage X3" in running text | mixing both in one sentence |
 | The planning chapter | **Create Your Plan** | Before You Start (old name) |
@@ -34,6 +34,7 @@ Version 0.1 · 25 October 2026
 | UAT, ETL, BOM, SKU, GRN | Spell out on first use in each chapter, then abbreviation | plural with apostrophe (BOM's) |
 | Bills of Materials | Bill of Materials (singular), Bills of Materials (plural) | Boms, BOMS |
 | Websites | stuartparkins.com | spdata.co.uk (still in Ch 5), www. prefix |
+| The downloads (decided 27 Oct 2026) | Named by part, never as a bundle: **the Project Plan Checklist** (Excel and PDF, the master tracker) · **the step templates** (STEP1–STEP7 PDFs, the real work) · **the Flow7 Migration Workbook** (the combined Excel file — all step sheets in one) · **the worksheet pack** (practice sheets for *Your Turn*, built from the same Canva designs). Collectively: "the Flow7 downloads at stuartparkins.com". | Foundation pack, Management bundle, Gumroad names (sales packaging — not in the book); "workbook" for anything that isn't the combined Excel file |
 | Company | SP Data Consultancy Ltd | SPDATA (except when citing the original publication) |
 
 ## 3. Numbers, dates and units
