@@ -50,3 +50,7 @@ Two passages already taught in Chapter 4 are cut: "test the import templates fir
 - The UAT-001 worked example (field labels changed to sentence case only).
 - Figure 6.1.
 - The UAT Testing List status and severity values (they match the template exactly).
+
+## Outcome (27 Oct 2026)
+
+Approved by Stuart. Merged together with Chapter 7.

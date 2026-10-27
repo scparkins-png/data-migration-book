@@ -59,3 +59,7 @@ Words: about 3,810 → 2,500 (the worked example adds about 200).
 
 1. Exercise 7.3 dropped — the Step 6 UAT Testing List carries on as the go-live issue log. Agreed.
 2. Invented, labelled numbers are fine for now. Stuart has a real project plan among his templates that could replace or support the worked example later (edit log M13).
+
+## Outcome (27 Oct 2026)
+
+Approved by Stuart, with the answers above. Merged.
