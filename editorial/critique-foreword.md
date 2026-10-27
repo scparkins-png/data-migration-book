@@ -12,7 +12,7 @@ What does need fixing:
 - **The examples paragraph** repeats How to Use almost word for word ("composite characters", "the people may be part-fiction"). Readers meet it twice within three pages.
 - **"Honest answers can increase both time and resources"** says the right thing a slightly confusing way.
 
-Words: about 1,000 → 960. The cuts are small; the point is to make every sentence read cleanly.
+Words: about 1,060 → 990. The cuts are small; the point is to make every sentence read cleanly.
 
 ## Proposals
 
