@@ -21,7 +21,7 @@ Working repository for compiling, editing and producing the book. Drafting still
 - Style sheet v0.1: four decisions settled (references, numbering, handbook, product count); three still open.
 - Structural pass 1 approved and merged. Signposting system approved.
 - Critical edit complete (27 Oct 2026): all chapters, Part One and Know the Business approved and merged. No Introduction. Book closes with *A Final Word*.
-- Appendices settled (27 Oct 2026): A — Terminology Translator; B — Templates and Worksheets.
+- Appendices settled (27 Oct 2026): A — Terminology Translator; B — The Flow7 Templates.
 - Copy-edit pass 1 done on branch `copyedit-1` (27 Oct 2026); awaiting Stuart's approval. Remaining open items are listed in `editorial/edit-log.md`.
 - Worksheet pack dropped (27 Oct 2026): exercises point to the real Flow7 templates.
 - Next: front matter, then design.
