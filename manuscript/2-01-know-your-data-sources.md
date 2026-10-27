@@ -123,7 +123,7 @@ The essentials for Step 1. The full task list, with status, owner and date colum
 
 ## Your Turn
 
-Two quick exercises to get you thinking. Jot your answers on Worksheets 1.1 and 1.2 in your worksheet pack, then build the real inventory in the template.
+Two quick exercises to get you started. Both go straight into your Step 1 templates — you are not practising, you are beginning the real inventory.
 
 ### Exercise 1.1 — Five-Minute Source Brainstorm
 
@@ -131,7 +131,7 @@ Before you organise anything, simply list every place data might live, and who u
 
 **Push past the obvious:** ask each department — Sales, Finance, Operations, HR, Warehouse, Customer Service — *"What do you keep that isn't in the main system?"*
 
-{{worksheet: 1.1 | Source brainstorm}}
+**Where to record it:** your Step 1A *Data Sources Inventory*, one row per source. Fill in just the source and who uses it for now; the other columns come as you work through the step.
 
 ### Exercise 1.2 — One-Line Export Reality Check
 
@@ -141,9 +141,9 @@ For your single most important source, answer one question honestly:
 
 If you cannot answer all three parts, you have just found the first job for your Export Assessment.
 
-{{worksheet: 1.2 | Export reality check}}
+**Where to record it:** that source's row in your Step 1B *Export Assessment*.
 
-> 📄 **Your template.** Flow7 Step 1 — *Data Sources Inventory* (1A), *Export Assessment* (1B) and *Business Process List* (1C), with progress tracked in the *Flow7 Data Migration Project Plan Checklist*. Worksheets 1.1 and 1.2 are in the worksheet pack. Download at **stuartparkins.com**.
+> 📄 **Your template.** Flow7 Step 1 — *Data Sources Inventory* (1A), *Export Assessment* (1B) and *Business Process List* (1C), with progress tracked in the *Flow7 Data Migration Project Plan Checklist*. Download at **stuartparkins.com**.
 
 ## What you have achieved in this chapter
 

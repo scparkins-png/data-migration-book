@@ -10,7 +10,7 @@ The book is in three parts:
 - **Part Two — The Flow7 Data Migration System.** Seven ordered steps, one chapter each, taking you from "where does our data actually live?" to a confirmed go-live. Chapter 1 is Step 1, Chapter 7 is Step 7.
 - **Part Three — After the Move.** **Know the Business**, where you pull together what the project taught you about how the business works and the words it uses.
 
-At the back, **Appendix A — The Terminology Translator** is the reference to keep open from planning to go-live, and **Appendix B** lists every Flow7 download, step by step.
+At the back, **Appendix A — The Terminology Translator** is the reference to keep open from planning to go-live, and **Appendix B** lists every Flow7 template, step by step.
 
 Work the steps in order. Each one builds on the one before: you can't decide on your single version of the truth (Step 3) until you know what data you have and what condition it's in (Steps 1 and 2). That said, a real migration is rarely a tidy straight line. You'll often reach a later step and realise you need to nip back and fix something earlier — a source you missed, a process nobody mentioned. That's not a failure; it's the method doing its job. Whenever it happens, a **Tracking back** box tells you which step to return to. Move forward when you're ready, back when you need to.
 
@@ -53,15 +53,14 @@ Six kinds of box appear throughout the book. Each one has one job:
 
 You'll do plenty of thinking with this book open — short exercises and decision prompts in every chapter. But much of the real work is far too big for a page. Nobody maps four hundred fields or tests 50,000 records on a printed line. So wherever a job needs a proper tool, I point you to one, in a **Your template** box.
 
-There are three kinds of companion file, all at **stuartparkins.com**:
+There are two kinds of companion file, both at **stuartparkins.com**:
 
-- **The worksheet pack** — the answer space for every *Your turn* exercise, numbered to match (Exercise 2.1 → Worksheet 2.1). Print it, or fill it in on screen.
-- **The Flow7 step templates** — one per step, for the real work: source inventories, mapping sheets, test scripts.
+- **The Flow7 step templates** — one set per step, for the real work: source inventories, mapping sheets, test scripts. Each *Your turn* exercise tells you which template to put your answers in, so the practice becomes the first part of the real job.
 - **The Flow7 Data Migration Project Plan Checklist** — the Excel file that tracks every task, owner and date across all seven steps.
 
 If you prefer to work in a spreadsheet, **the Flow7 Migration Workbook** puts all the step templates into one Excel file.
 
-This is a handbook, not a technical manual. It tells you *what* to do and *why*, and hands you to the right tool for the *how*. Keep a folder — digital or physical — for your worksheets and working files. By the end, that folder *is* your migration.
+This is a handbook, not a technical manual. It tells you *what* to do and *why*, and hands you to the right tool for the *how*. Keep a folder — digital or physical — for your templates, notes and working files. By the end, that folder *is* your migration.
 
 ## Bring your people with you
 
@@ -77,7 +76,7 @@ Alongside it, a smaller **illustrative scenario** — a kitchenware wholesaler m
 
 If you take nothing else from this page, take this:
 
-- **Work it, don't just read it.** Do the exercises, fill in the worksheets, argue in the margins.
+- **Work it, don't just read it.** Do the exercises, fill in the templates, argue in the margins.
 - **Go in order, but don't be a slave to it.** Forward by default; back when the work tells you to.
 - **Be honest at the STOP/GO gates.** They only protect you if you tell them the truth.
 - **Don't rush the early steps.** The temptation is always to start moving data. The discipline is to understand it first. That discipline is the whole game.

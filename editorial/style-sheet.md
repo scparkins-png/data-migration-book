@@ -34,7 +34,7 @@ Version 0.2 · 27 October 2026 (updated after the critical edit)
 | UAT, ETL, BOM, SKU, GRN | Spell out on first use in each chapter, then abbreviation | plural with apostrophe (BOM's) |
 | Bills of Materials | Bill of Materials (singular), Bills of Materials (plural) | Boms, BOMS |
 | Websites | stuartparkins.com | spdata.co.uk, www. prefix |
-| The downloads (decided 27 Oct 2026) | Named by part, never as a bundle: **the Project Plan Checklist** (Excel and PDF, the master tracker) · **the step templates** (STEP1–STEP7 PDFs, the real work) · **the Flow7 Migration Workbook** (the combined Excel file — all step sheets in one) · **the worksheet pack** (practice sheets for *Your Turn*, built from the same Canva designs). Collectively: "the Flow7 downloads at stuartparkins.com". | Foundation pack, Management bundle, Gumroad names (sales packaging — not in the book); "workbook" for anything that isn't the combined Excel file |
+| The downloads (decided 27 Oct 2026) | Named by part, never as a bundle: **the Project Plan Checklist** (Excel and PDF, the master tracker) · **the step templates** (STEP1–STEP7 PDFs, the real work) · **the Flow7 Migration Workbook** (the combined Excel file — all step sheets in one) Collectively: "the Flow7 downloads at stuartparkins.com". | Foundation pack, Management bundle, Gumroad names (sales packaging — not in the book); "workbook" for anything that isn't the combined Excel file |
 | Company | SP Data Consultancy Ltd | SPDATA (except when citing the original publication) |
 
 ## 3. Numbers, dates and units
@@ -56,7 +56,7 @@ Version 0.2 · 27 October 2026 (updated after the critical edit)
 
 ## 5. Chapter structure
 
-**Book structure (settled):** Part One — Getting Started (Foreword, How to Use, Create Your Plan) · Part Two — The Flow7 Data Migration System (Chapters 1–7) · Part Three — After the Move (Know the Business, ending with *A Final Word*) · Appendix A — The Terminology Translator · Appendix B — Templates and Worksheets. No Introduction; no glossary.
+**Book structure (settled):** Part One — Getting Started (Foreword, How to Use, Create Your Plan) · Part Two — The Flow7 Data Migration System (Chapters 1–7) · Part Three — After the Move (Know the Business, ending with *A Final Word*) · Appendix A — The Terminology Translator · Appendix B — The Flow7 Templates. No Introduction; no glossary.
 
 **Settled pattern for step chapters (Chapters 1–7)**, in this order:
 
@@ -71,7 +71,7 @@ Version 0.2 · 27 October 2026 (updated after the critical edit)
 9. From the Field (with an italic headline: *Sage 50 → Sage X3: …*)
 10. Your Checklist (the essentials, tagged with checklist refs; the full list is in the Excel)
 11. Worked example (📋 box)
-12. Your Turn (numbered exercises with worksheet pointers), then the 📄 Your template box
+12. Your Turn (numbered exercises, each ending **Where to record it:** naming the step template), then the 📄 Your template box
 13. What you have achieved in this chapter
 14. You're Ready to Move On When… (the STOP/GO gate, no more than six items), then **Next:**
 15. ▶ Know the business signpost
@@ -84,9 +84,9 @@ Version 0.2 · 27 October 2026 (updated after the critical edit)
 
 **Checklist and gate format**: *Proposed* — every checklist as a three-column table (Ref · Task · ☐) and every gate as a two-column table (Gate · ☐), so the printed book has boxes to tick. Done in the critical edit.
 
-**Exercises and the worksheet pack (decided 25 Oct 2026 — option 3, hybrid):** each *Your Turn* in the book is a few short questions. All answer space (tables, boxes, lines) lives in the downloadable worksheet pack, numbered to match the exercise (see `editorial/worksheet-pack.md`). There is no write-in space in the book itself.
+**Exercises (decided 27 Oct 2026 — replaces the worksheet pack):** each *Your Turn* is a few short questions, answered straight into the matching Flow7 step template (or, where none fits, the reader's project folder). Each exercise ends with a **Where to record it:** line. There is no worksheet pack and no write-in space in the book.
 
-**Exercises**: numbered by chapter — Exercise 1.1, 1.2…; Planning Exercise 1–3 in *Create Your Plan*; Exercise KB.1 in *Know the Business*; Exercise A.1 in Appendix A. Worksheet numbers match.
+**Exercises**: numbered by chapter — Exercise 1.1, 1.2…; Planning Exercise 1–3 in *Create Your Plan*; Exercise KB.1 in *Know the Business*; Exercise A.1 in Appendix A.
 
 **Figures**: numbered by chapter in Part Two (Figure 3.1); unnumbered in named chapters.
 
@@ -104,7 +104,6 @@ Version 0.2 · 27 October 2026 (updated after the critical edit)
 | `> ▶ **Know the business.**` | End-of-chapter signpost |
 | `> ↩ **Tracking back.**` | Go back to an earlier step |
 | `> 📄 **Your template.**` | Which template to open and where to download it |
-| `{{worksheet: N \| title}}` | Pointer to Worksheet N in the worksheet pack (replaces write-in space) |
 | `{{progress: N}}` | The seven-step "you are here" strip in the chapter opener. `{{progress: foundation}}` (Create Your Plan) shows the strip with no step filled and the Foundation marked. |
 
 ## 7. Sources and citation

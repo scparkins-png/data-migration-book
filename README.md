@@ -23,7 +23,8 @@ Working repository for compiling, editing and producing the book. Drafting still
 - Critical edit complete (27 Oct 2026): all chapters, Part One and Know the Business approved and merged. No Introduction. Book closes with *A Final Word*.
 - Appendices settled (27 Oct 2026): A — Terminology Translator; B — Templates and Worksheets.
 - Copy-edit pass 1 done on branch `copyedit-1` (27 Oct 2026); awaiting Stuart's approval. Remaining open items are listed in `editorial/edit-log.md`.
-- Next: front matter, worksheet pack, then design.
+- Worksheet pack dropped (27 Oct 2026): exercises point to the real Flow7 templates.
+- Next: front matter, then design.
 
 ## Working rules
 

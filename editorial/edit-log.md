@@ -18,7 +18,7 @@ Chapter numbers below use the new structure (Part Two: Chapters 1–7 = Steps 1�
 | M6 | Ch 4 | Sentence ends "Remember" with nothing after it. | Done (critical edit Ch 4) |
 | M7 | Ch 6 | Exercise: Description, Test Steps, Test Data and Expected Result have no answer space in the Drive text (boxes probably lost). `{{write-in-box}}` markers added as placeholders. | Done (critical edit Ch 6) — worksheet 6.1 |
 | M9 | How to Use, Foreword | "Write in it… fill the boxes in pen", "A blank handbook helped no one" and "on the page" — rewrite around the worksheet pack (option 3). | Done — How to Use and Foreword (critical edits). |
-| M10 | Book | Build the worksheet pack (15 worksheets — see `editorial/worksheet-pack.md`). | Open |
+| M10 | Book | Build the worksheet pack (15 worksheets — see `editorial/worksheet-pack.md`). | Dropped 27 Oct — Stuart chose to use the real templates instead; exercises now say where to record answers. |
 | M11 | App E, Create Your Plan | Drop the "Source: Flow7 Data Mapping workbook (DATA-MAPPING sheet), SP Data Consultancy Ltd" citations (the workbook is not kept). Keep the FULLNAME/OPTEDIN example, introduced as coming from one of Stuart's own mapping projects; *About the Sources* covers it. | Done — Create Your Plan and Appendix E (critical edits). |
 | M12 | Ch 5 | Stuart to add further common mismatch types to "What you are looking for" during the copy-edit phase (dates and times added 26 Oct). | Open — copy-edit |
 | M13 | Ch 7 | Worked example uses invented, labelled numbers for now. Stuart's project plan template could supply a real-based loading plan later — revisit at copy-edit or design. | Open — later |
@@ -28,6 +28,7 @@ Chapter numbers below use the new structure (Part Two: Chapters 1–7 = Steps 1�
 | M17 | Ch 5 | Add one line in "What you are looking for" pointing to the Terminology Translator (Appendix A, Worksheet A.1). | Done (copy-edit 1) — "Different names for the same thing" added to Ch 5 mismatch list |
 | M18 | App B, Ch 7 | Step 7 template names in Appendix B ("Go-Live Plan", "Go-Live Monitoring") are taken from the PDF file names — Stuart to confirm. Chapter 7's template box names only the Project Plan Checklist; add the Step 7 PDFs once confirmed. | Open — Stuart |
 | M19 | Ch 1 | Step 1 subtitle now reads "Identify Your Data Sources" to match the other chapters' step names — Stuart to confirm the official Flow7 Step 1 name. | Open — Stuart |
+| M20 | Appendix A, templates | No Flow7 template exists for the Terminology Translator; Exercise A.1 tells readers to use a simple five-column spreadsheet. Option: add a Translator sheet to the Flow7 Migration Workbook. | Open — Stuart, optional |
 | M8 | Book | Front matter not yet written: title page, copyright page (ISBN, edition, disclaimer, trademark note for Flow7 Migration System™), contents, About the Author, About the sources (if D1 = a). | Open |
 
 ## Cross-references and consistency

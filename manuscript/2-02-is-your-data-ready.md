@@ -128,7 +128,7 @@ The essentials for Step 2, for **every** priority source — not just one. The f
 
 ## Your Turn
 
-You do not assess every record by hand — nobody does. The practical technique is **sampling**: pull a small set of records, check them carefully, and use what you find as an indicator of the whole. Record your findings on Worksheets 2.1 and 2.2 in your worksheet pack.
+You do not assess every record by hand — nobody does. The practical technique is **sampling**: pull a small set of records, check them carefully, and use what you find as an indicator of the whole.
 
 ### Exercise 2.1 — The 20-Record Spot-Check
 
@@ -142,7 +142,7 @@ Pick **one** important source from your Step 1 inventory — start with your hig
 
 A rough percentage for each is enough at this stage.
 
-{{worksheet: 2.1 | 20-record spot-check}}
+**Where to record it:** one row of your Step 2A *Data Quality Assessment*, with each count under its matching dimension. When you assess the full source later, this row is your starting point.
 
 ### Exercise 2.2 — The "Whose Head Is It In?" Test
 
@@ -153,9 +153,9 @@ For your priority source, answer two questions honestly:
 
 If the answer to the second is "no" and the first produced a long list, you have found one of the most common — and most dangerous — findings in any migration: **critical knowledge that exists only in people's heads.** Flag it now. In the case study, exactly this gap is what turned a three-month estimate into a five-month project.
 
-{{worksheet: 2.2 | Whose head is it in?}}
+**Where to record it:** your project folder, as the first of your *Know the business* notes. If the answer worries you, add it to the risks in your Outline Migration Statement too.
 
-> 📄 **Your template.** Flow7 Step 2 — *Data Quality Assessment* sheet (one row per process, the seven dimensions across the columns), with progress tracked in the *Flow7 Data Migration Project Plan Checklist*. Worksheets 2.1 and 2.2 are in the worksheet pack. Download at **stuartparkins.com**.
+> 📄 **Your template.** Flow7 Step 2 — *Data Quality Assessment* sheet (one row per process, the seven dimensions across the columns), with progress tracked in the *Flow7 Data Migration Project Plan Checklist*. Download at **stuartparkins.com**.
 
 ## What you have achieved in this chapter
 

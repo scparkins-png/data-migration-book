@@ -83,7 +83,7 @@ The most common reasons data needs changing:
 - **Picklists** — the target only accepts values from a fixed list, and your data holds values that are not on it.
 - **Free text where a code belongs** — someone used the product code field as a notes column.
 - **Missing mandatory values** — the target insists on a value your source simply does not have.
-- **Different names for the same thing** — the source says TEL, the target says Phone; or one word, such as "Order", hides two different things. Check each one against the Terminology Translator (Appendix A) and record it on Worksheet A.1.
+- **Different names for the same thing** — the source says TEL, the target says Phone; or one word, such as "Order", hides two different things. Check each one against the Terminology Translator (Appendix A) and add it to your own translator.
 
 And one that is consistently overlooked: **documents.** Purchase orders, sales orders, invoices and statements all pull data fields. If a field appears on a printed or emailed document, it is in scope for the mapping.
 
@@ -162,7 +162,7 @@ The essentials for Step 5. The full task list, with status, owner and date colum
 
 ## Your Turn
 
-Two quick exercises before you open your mapping tool. Pick the one area that matters most — for most businesses, customers or products.
+Two quick exercises to start your mapping. Pick the one area that matters most — for most businesses, customers or products.
 
 ### Exercise 5.1 — Your Five Most Problematic Fields
 
@@ -173,15 +173,15 @@ List the five fields in that area where you already suspect trouble, with your b
 - Is the source data actually there — or does it need to be created?
 - Does this field appear on any document (invoice, purchase order, statement)?
 
-{{worksheet: 5.1 | Five most problematic fields}}
+**Where to record it:** the first five rows of your Step 5 *Simple Mapping Sheet* for that area, with your suspected problem noted against each. You will firm up the rules as you map.
 
 ### Exercise 5.2 — Your Picklist Gaps
 
 Name every field in that area where the target only accepts values from a fixed list. For each one, pull the accepted values from the target, compare them with what your data actually holds, and note the gaps. Each gap is a conversation to start now.
 
-{{worksheet: 5.2 | Picklist gaps}}
+**Where to record it:** the same Simple Mapping Sheet. Each gap becomes a picklist rule once it is decided.
 
-> 📄 **Your template.** Flow7 Step 5 — *Simple Mapping Sheet* (one sheet per area, five columns, real samples from both sides), with progress tracked in the *Flow7 Data Migration Project Plan Checklist*. Complete the full mapping for your first area before moving to the next. Worksheets 5.1 and 5.2 are in the worksheet pack. Download at **stuartparkins.com**.
+> 📄 **Your template.** Flow7 Step 5 — *Simple Mapping Sheet* (one sheet per area, five columns, real samples from both sides), with progress tracked in the *Flow7 Data Migration Project Plan Checklist*. Complete the full mapping for your first area before moving to the next. Download at **stuartparkins.com**.
 
 ## What you have achieved in this chapter
 

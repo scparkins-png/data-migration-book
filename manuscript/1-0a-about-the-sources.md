@@ -4,4 +4,4 @@ Unless cited otherwise, the framework, templates, help notes, project plan check
 
 The case study running through every chapter is drawn from my published article *A Case Study from a Sage 50 to Sage X3 Migration* (stuartparkins.com). Where the chapters quote directly from real notes or settings from that project, the source is named inline rather than footnoted.
 
-The downloadable templates that accompany this handbook — the Project Plan Checklist, the Flow7 step templates, the worksheet pack and the supporting reference cards — are available at stuartparkins.com.
+The downloadable templates that accompany this handbook — the Project Plan Checklist, the Flow7 step templates, the Flow7 Migration Workbook and the supporting reference cards — are available at stuartparkins.com.

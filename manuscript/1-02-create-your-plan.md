@@ -95,15 +95,15 @@ A five-minute exercise. Do it now, before you move on. Answer five questions:
 
 Questions 1 and 2 together are your one-sentence aim.
 
-{{worksheet: P.2 | Outline Migration Statement}}
+**Where to record it:** one page in your project folder. That page is your Outline Migration Statement — share it with the person who signs it off.
 
 ### Planning Exercise 3 — Note Your First Three Risks
 
 Using what the readiness assessment brought out, write down the first three things that could go wrong. Don't overthink it. For each one, note how likely it is, how much it would hurt, and who owns it.
 
-{{worksheet: P.3 | First three risks}}
+**Where to record it:** the same page, under your Outline Migration Statement.
 
-> 📄 **Your template.** The *Flow7 Data Migration Project Plan Checklist* (Excel) holds every task for Steps 1 to 7, with status, owner and date columns. Open it now and scan the milestones — you don't need to fill it in yet, just to know what is ahead. The *Are You Ready?* checker and Worksheets P.2 and P.3 are at **stuartparkins.com**.
+> 📄 **Your template.** The *Flow7 Data Migration Project Plan Checklist* (Excel) holds every task for Steps 1 to 7, with status, owner and date columns. Open it now and scan the milestones — you don't need to fill it in yet, just to know what is ahead. The checklist and the *Are You Ready?* checker are at **stuartparkins.com**.
 
 ## What you have achieved in this chapter
 

@@ -190,7 +190,7 @@ Your business's words will not be exactly these, so build your own three-languag
 2. For each process, write down the word your **team** uses, the label the **source system** shows, and the field name the **target system** expects.
 3. Mark whether they are the **same object**, and flag every row where the three names do not obviously match — those are your highest-risk mappings.
 
-{{worksheet: A.1 | Terminology Translator}}
+**Where to record it:** a simple spreadsheet with five columns — our word, source label, target field, same object?, notes — kept in your project folder.
 
 Pin the finished sheet up where the mapping happens. It will save more arguments than any other single page in this book.
 

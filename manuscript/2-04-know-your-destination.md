@@ -121,9 +121,9 @@ Pick **one** important target area — products, customers, orders, whichever ma
 
 If you cannot answer question 2 or 3, you have found exactly the work Step 4 exists to do — and found it now, which is the whole point.
 
-{{worksheet: 4.1 | One target area, four questions}}
+**Where to record it:** one row of your Step 4A *Summary Target Sheet* for questions 1 to 3, and the first line of your Step 4B *User Target Processing List* for question 4.
 
-> 📄 **Your template.** Flow7 Step 4 — *Summary Target Sheet* (4A) and *User Target Processing List* (4B), with progress tracked in the *Flow7 Data Migration Project Plan Checklist*. When you export each target area, keep the field and column titles — you will map against them in Chapter 5. Worksheet 4.1 is in the worksheet pack. Download at **stuartparkins.com**.
+> 📄 **Your template.** Flow7 Step 4 — *Summary Target Sheet* (4A) and *User Target Processing List* (4B), with progress tracked in the *Flow7 Data Migration Project Plan Checklist*. When you export each target area, keep the field and column titles — you will map against them in Chapter 5. Download at **stuartparkins.com**.
 
 ## What you have achieved in this chapter
 

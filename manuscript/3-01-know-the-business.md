@@ -61,15 +61,13 @@ Gather the *Know the business* notes you made at the end of each step chapter. T
 3. **Who owns the Terminology Translator** from here on, and where is it kept?
 4. **Who needs to know about all this?** The people who will run, support or change the new system after the project team steps back.
 
-{{worksheet: KB.1 | Business knowledge handover}}
+**Where to record it:** your project handover — the document or folder the business keeps when the project team steps back.
 
 > 🔑 **Key idea.** Anything you answered with "still in someone's head" is your first job after the migration. It is the same risk you set out to remove at Step 1 — and now you know exactly where it is.
 
 ## What you have achieved
 
 You have turned a migration into a record of how the business actually works — its processes, its exceptions, and the shared language that keeps its systems talking to each other. The data moved; the knowledge stayed. That is the difference between a business that comes through a system change stronger and one that quietly loses a piece of itself in the move.
-
-> 📄 **Your template.** Worksheet KB.1 is in the worksheet pack. Download at **stuartparkins.com**.
 
 ## A Final Word
 

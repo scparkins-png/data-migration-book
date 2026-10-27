@@ -128,7 +128,7 @@ The diagram restated in table form:
 
 ## Your Turn
 
-You do not need a database to make the core Step 3 decisions. Make them on paper first, then move the real work into the template.
+You do not need a database to make the core Step 3 decisions. Make them for one entity first, straight into the template.
 
 ### Exercise 3.1 — One Entity, Four Decisions
 
@@ -141,9 +141,9 @@ Pick **one** important data entity — your customers, your products, your suppl
 
 If you cannot answer question 2 yet, that is a finding, not a failure — it tells you exactly which conversation to have next.
 
-{{worksheet: 3.1 | One entity, four decisions}}
+**Where to record it:** your Step 3 *Define Your Data Master* template. Your answers to questions 2 and 4 become the change-control rule at the top of the Master List.
 
-> 📄 **Your template.** Flow7 Step 3 — *Define Your Data Master* (Master List, with your change-control rule written at the top), plus your Master Map in whichever drawing tool you prefer. Progress is tracked in the *Flow7 Data Migration Project Plan Checklist*. Worksheet 3.1 is in the worksheet pack. Download at **stuartparkins.com**.
+> 📄 **Your template.** Flow7 Step 3 — *Define Your Data Master* (Master List, with your change-control rule written at the top), plus your Master Map in whichever drawing tool you prefer. Progress is tracked in the *Flow7 Data Migration Project Plan Checklist*. Download at **stuartparkins.com**.
 
 ## What you have achieved in this chapter
 

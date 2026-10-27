@@ -151,9 +151,9 @@ Leave the actual result, pass/fail and comments blank — they are for the teste
 
 If you struggled to write the test steps, that is a useful finding: the process was not yet documented in enough detail in Step 4. Go back, fix it there, and the script will almost write itself.
 
-{{worksheet: 6.1 | Draft UAT script}}
+**Where to record it:** a Step 6A *UAT Test Sheet*, which already has all nine fields.
 
-> 📄 **Your template.** Flow7 Step 6 — *UAT Test Sheet* (one per process) and *UAT Testing List* (your single issue log — consider the Excel version if issues grow), with progress tracked in the *Flow7 Data Migration Project Plan Checklist*. Worksheet 6.1 is in the worksheet pack. Download at **stuartparkins.com**.
+> 📄 **Your template.** Flow7 Step 6 — *UAT Test Sheet* (one per process) and *UAT Testing List* (your single issue log — consider the Excel version if issues grow), with progress tracked in the *Flow7 Data Migration Project Plan Checklist*. Download at **stuartparkins.com**.
 
 ## What you have achieved in this chapter
 

@@ -1,3 +1,9 @@
+# Worksheet Pack — DROPPED (27 Oct 2026)
+
+**Decision (Stuart, 27 Oct 2026):** the worksheet pack is dropped. Every *Your Turn* exercise now points to the matching Flow7 step template ("Where to record it:"), or to the reader's project folder where no template fits. Kept for the record only.
+
+---
+
 # Worksheet Pack — contents list
 
 Decision (Stuart, 25 Oct 2026): **option 3, hybrid.** In the handbook, each *Your Turn* is a few short questions. The answer space — tables, boxes and lines — lives in a downloadable worksheet pack that accompanies the handbook and the Flow7 templates. This works the same way in print, PDF and ebook.
