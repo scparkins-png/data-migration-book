@@ -13,7 +13,7 @@ Chapter numbers below use the new structure (Part Two: Chapters 1–7 = Steps 1�
 | M1 | Book | **Introduction** (Pass 3) is not in Drive — confirmed 25 Oct: the Pass 2 master lists it as "to be added". Not in the source folder, so to be written (after the step chapters). Planned content: the Forbes/McKinsey overrun statistics (source still to verify). | Open |
 | M2 | Book | **Appendices A–D** are not in Drive. Appendix E refers to "Appendix C" as the full glossary. Planned set from Pass 3: full checklist, template index, glossary. | Open |
 | M3 | Book | **Flow7 Beyond Migration** closing chapter. A short "Looking Further" section already ends Chapter 10 — decide whether it grows into its own chapter or stays there. | Decision |
-| M4 | Ch 1, Ch 4, Ch 7 | Three **worked-example placeholders** await real (anonymised) client data. | Ch 1 done (illustrative scenario, critical edit). Ch 4 and Ch 7 still open. |
+| M4 | Ch 1, Ch 4, Ch 7 | Three **worked-example placeholders** await real (anonymised) client data. | Done — Ch 1, Ch 4 and Ch 7 all use the illustrative kitchenware wholesaler (critical edits). |
 | M5 | Ch 1 | "See Chapter XXX" — placeholder cross-reference (should point to Create Your Plan's *Know the Business* section and/or Chapter 11). | Done (pass 1) — now points to Create Your Plan's *Know the Business — and Its Language* and the closing chapter |
 | M6 | Ch 4 | Sentence ends "Remember" with nothing after it. | Open |
 | M7 | Ch 6 | Exercise: Description, Test Steps, Test Data and Expected Result have no answer space in the Drive text (boxes probably lost). `{{write-in-box}}` markers added as placeholders. | Open |
@@ -37,7 +37,7 @@ Chapter numbers below use the new structure (Part Two: Chapters 1–7 = Steps 1�
 | X8 | Ch 5 | Templates "available to download at spdata.co.uk" — every other chapter says stuartparkins.com. | Open |
 | X9 | Ch 6 | "the eight standard fields" — the list that follows has nine (twice in the chapter). | Done (critical edit Ch 6) — nine fields, numbered |
 | X10 | Ch 6 | Checklist 6A has one item and 6B one item — check against the source checklist; looks thin compared with other steps. | Confirmed: the Excel has only 6A1 and 6B1 — see reference-catalogue R4 |
-| X11 | Ch 7 | "Step 7 covers all five phases in detail" — the chapter describes four phases (the checklist has 7A–7E, five sections). Align the wording. | Open |
+| X11 | Ch 7 | "Step 7 covers all five phases in detail" — the chapter describes four phases (the checklist has 7A–7E, five sections). Align the wording. | Done (critical edit Ch 7) — text now describes five stages, 7A–7E, including the go/no-go decision |
 | X12 | Ch 4 | Checklist order 4A4, 4A1, 4A2, 4A3 with an explanatory note — consider renumbering in the source checklist instead. | Order is in the Excel itself — see reference-catalogue R5 |
 | X13 | How to Use | Section order in "Every chapter follows the same rhythm" differs from the chapters (D6). | Decision |
 | X14 | Foreword | Heading in Drive file title is "Forward" — the chapter heading is correctly "Foreword"; just rename the Drive file. | Open |
