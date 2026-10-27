@@ -55,3 +55,7 @@ Three options:
 3. Keep a one-page Introduction (I draft it, with verified statistics).
 
 Whichever you choose, I'll update *About the Sources*, which currently mentions "the Introduction".
+
+## Outcome (27 Oct 2026)
+
+Approved by Stuart. Introduction: **option 1 — no Introduction, no statistics** (closes M1). *About the Sources* updated to drop the Introduction and Forbes/McKinsey mention, and to list the step templates and worksheet pack. Merged.
