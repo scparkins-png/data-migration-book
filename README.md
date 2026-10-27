@@ -2,7 +2,7 @@
 
 *The 7-Step System* — Stuart Parkins, SP Data Consultancy Ltd
 
-Working title, chosen 27 Oct 2026 (formerly *Don't Let a Data Migration Panic You*, which stays as a cover strapline option).
+Title confirmed by Stuart, 27 Oct 2026 (formerly *Don't Let a Data Migration Panic You*, which stays as a cover strapline option).
 
 Working repository for compiling, editing and producing the book. Drafting still happens in Google Docs; this repository holds the consolidated manuscript that editorial passes and builds run against.
 
