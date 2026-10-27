@@ -19,9 +19,10 @@ Chapter numbers below use the new structure (Part Two: Chapters 1–7 = Steps 1�
 | M7 | Ch 6 | Exercise: Description, Test Steps, Test Data and Expected Result have no answer space in the Drive text (boxes probably lost). `{{write-in-box}}` markers added as placeholders. | Open |
 | M9 | How to Use, Foreword | "Write in it… fill the boxes in pen", "A blank handbook helped no one" and "on the page" — rewrite around the worksheet pack (option 3). | Open |
 | M10 | Book | Build the worksheet pack (15 worksheets — see `editorial/worksheet-pack.md`). | Open |
-| M11 | App E, Create Your Plan | Drop the "Source: Flow7 Data Mapping workbook (DATA-MAPPING sheet), SP Data Consultancy Ltd" citations (the workbook is not kept). Keep the FULLNAME/OPTEDIN example, introduced as coming from one of Stuart's own mapping projects; *About the Sources* covers it. | Open — at critical edit |
+| M11 | App E, Create Your Plan | Drop the "Source: Flow7 Data Mapping workbook (DATA-MAPPING sheet), SP Data Consultancy Ltd" citations (the workbook is not kept). Keep the FULLNAME/OPTEDIN example, introduced as coming from one of Stuart's own mapping projects; *About the Sources* covers it. | Create Your Plan done (critical edit). Appendix E still open. |
 | M12 | Ch 5 | Stuart to add further common mismatch types to "What you are looking for" during the copy-edit phase (dates and times added 26 Oct). | Open — copy-edit |
 | M13 | Ch 7 | Worked example uses invented, labelled numbers for now. Stuart's project plan template could supply a real-based loading plan later — revisit at copy-edit or design. | Open — later |
+| M14 | Create Your Plan, How to Use | Web address for the *Are You Ready?* Data Migration Checker — Zoho-hosted, may move to its own domain. Stuart to supply; "at stuartparkins.com" until then. | Open — later edit |
 | M8 | Book | Front matter not yet written: title page, copyright page (ISBN, edition, disclaimer, trademark note for Flow7 Migration System™), contents, About the Author, About the sources (if D1 = a). | Open |
 
 ## Cross-references and consistency
@@ -61,10 +62,10 @@ For the copy-edit pass. Listed now so nothing is lost; each will be shown in con
 | C7 | Foreword | "from small one to one system migrations to huge multi business, multi system migrations" | "one-to-one", "multi-business, multi-system" |
 | C8 | How to Use | "tests 50,000 thousand records" | "50,000 records" |
 | C9 | How to Use | "a clear STOP or GO  gate" | double space |
-| C10 | Create Your Plan | "whether in the business already or a new data specialist the involvement in the project will increase…" | comma after "specialist" |
-| C11 | Create Your Plan | "different people's  heads" | double space |
-| C12 | Create Your Plan | "Think through what could go wrong for your business and divert your resources" | unclear — "and could divert your resources"? |
-| C13 | Create Your Plan | "**Know the Business — and Its Language**" is bold text, not a heading | make it a heading |
+| C10 | Create Your Plan | "whether in the business already or a new data specialist the involvement in the project will increase…" | comma after "specialist" — *Done (critical edit Create Your Plan) — sentence rewritten* |
+| C11 | Create Your Plan | "different people's  heads" | double space — *Done (critical edit Create Your Plan)* |
+| C12 | Create Your Plan | "Think through what could go wrong for your business and divert your resources" | unclear — "and could divert your resources"? — *Done (critical edit Create Your Plan) — "how would you respond?"* |
+| C13 | Create Your Plan | "**Know the Business — and Its Language**" is bold text, not a heading | make it a heading — *Done (critical edit Create Your Plan) — proper heading* |
 | C14 | Ch 1 | "three layers of information:" followed by four items | "four layers" — *resolved in Ch 1 critical edit* |
 | C15 | Ch 1 | "Now if later extra sources materialise and this can occur, then update the Data Source Inventory." | "If extra sources turn up later — and they can — update the Data Source Inventory." — *resolved in Ch 1 critical edit* |
 | C16 | Ch 1 | "your own version— see" | space before dash — *resolved in Ch 1 critical edit* |

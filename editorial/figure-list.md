@@ -4,7 +4,7 @@ One row per image in the book. Images are in Canva folder `FAHZGutBNJY` (see `ed
 
 | ID | Chapter | Caption / purpose | Source | Status |
 |:-|:-|:-|:-|:-|
-| fig-plan-01 | Create Your Plan (and front-of-book Flow7 map) | Flow7 road diagram, all seven steps | Canva: SPDATA -FLOW7-STEP-AL-STEPS, page 1 | Found — export once design decisions are made |
+| fig-plan-01 | Front-of-book Flow7 map (moved from Create Your Plan, which now uses the progress strip) | Flow7 road diagram, all seven steps | Canva: SPDATA -FLOW7-STEP-AL-STEPS, page 1 | Found — export once design decisions are made |
 | fig-c3-01 | Ch 3 One Version of the Truth | Figure 3.1 — Sage 50 to Sage X3 Master Map: four agreed sources combining into the Master Set via SQL views | Canva: SPDATA-FLOW7-STEP3-DATA-MASTER, page 4 | Found |
 | fig-c6-01 | Ch 6 Test Before You Trust | Figure 6.1 — UAT-001 Login Functionality worked example | Canva: SPDATA-FLOW7-STEP6-TESTING, page 2 (or Step 6 PDF) | Found — confirm filled example |
 
