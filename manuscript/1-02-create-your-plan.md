@@ -63,7 +63,7 @@ Terminology is where trouble usually shows. The same thing often has three names
 
 > 👁 **Watch out.** The worst version is inverted logic. On one of my own mapping projects, a source field *OPTEDIN = "Yes"* had to map to a target field *Email Opt Out = "False"* — the same fact, reversed. Map that carelessly and you opt an entire database back in to marketing, in breach of GDPR. Terminology is not cosmetic; it is where a small misunderstanding becomes an expensive one.
 
-So from Step 1 onwards, keep a running note — your **Terminology Translator**: *our word / the system's word / what it really is*. Add a row every time a name does not obviously match, and hand it to whoever runs the system next. The full reference, including the "false friends" that cause the most trouble, is in **Appendix E**.
+So from Step 1 onwards, keep a running note — your **Terminology Translator**: *our word / the system's word / what it really is*. Add a row every time a name does not obviously match, and hand it to whoever runs the system next. The full reference, including the "false friends" that cause the most trouble, is in **Appendix A**.
 
 > 🔑 **Key idea.** Carry this as a lens, not a step. You will not learn the business in one sitting. Each step will teach you something about it — note what you learn as you go, and you will pull it together in the closing chapter, *Know the Business*.
 

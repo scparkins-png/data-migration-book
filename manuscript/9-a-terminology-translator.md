@@ -1,4 +1,4 @@
-# Appendix E — The Terminology Translator
+# Appendix A — The Terminology Translator
 
 *Speaking business, system and process — so nothing gets lost in the move*
 
@@ -182,7 +182,7 @@ The handful of words that cause the most trouble because they mean different thi
 
 ## Your Turn
 
-### Exercise E.1 — Build your own translator
+### Exercise A.1 — Build your own translator
 
 Your business's words will not be exactly these, so build your own three-language translator. Start it in Step 1 and have it complete before you map in Step 5.
 
@@ -190,7 +190,7 @@ Your business's words will not be exactly these, so build your own three-languag
 2. For each process, write down the word your **team** uses, the label the **source system** shows, and the field name the **target system** expects.
 3. Mark whether they are the **same object**, and flag every row where the three names do not obviously match — those are your highest-risk mappings.
 
-{{worksheet: E.1 | Terminology Translator}}
+{{worksheet: A.1 | Terminology Translator}}
 
 Pin the finished sheet up where the mapping happens. It will save more arguments than any other single page in this book.
 

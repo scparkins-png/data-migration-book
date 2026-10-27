@@ -11,21 +11,21 @@ Chapter numbers below use the new structure (Part Two: Chapters 1–7 = Steps 1�
 | # | Where | Item | Status |
 |:-|:-|:-|:-|
 | M1 | Book | **Introduction** (Pass 3) is not in Drive — confirmed 25 Oct: the Pass 2 master lists it as "to be added". Not in the source folder, so to be written (after the step chapters). Planned content: the Forbes/McKinsey overrun statistics (source still to verify). | Closed 27 Oct — Stuart decided: no Introduction, no statistics. About the Sources updated. |
-| M2 | Book | **Appendices A–D** are not in Drive. Appendix E refers to "Appendix C" as the full glossary. Planned set from Pass 3: full checklist, template index, glossary. | Open |
+| M2 | Book | **Appendices A–D** are not in Drive. Appendix E refers to "Appendix C" as the full glossary. Planned set from Pass 3: full checklist, template index, glossary. | Decided 27 Oct — Appendix A: Terminology Translator (relettered from E); Appendix B: templates and worksheets index; no glossary; References only if external sources are added. |
 | M3 | Book | **Flow7 Beyond Migration** closing chapter. A short "Looking Further" section already ends Chapter 10 — decide whether it grows into its own chapter or stays there. | Decision |
 | M4 | Ch 1, Ch 4, Ch 7 | Three **worked-example placeholders** await real (anonymised) client data. | Done — Ch 1, Ch 4 and Ch 7 all use the illustrative kitchenware wholesaler (critical edits). |
 | M5 | Ch 1 | "See Chapter XXX" — placeholder cross-reference (should point to Create Your Plan's *Know the Business* section and/or Chapter 11). | Done (pass 1) — now points to Create Your Plan's *Know the Business — and Its Language* and the closing chapter |
 | M6 | Ch 4 | Sentence ends "Remember" with nothing after it. | Open |
 | M7 | Ch 6 | Exercise: Description, Test Steps, Test Data and Expected Result have no answer space in the Drive text (boxes probably lost). `{{write-in-box}}` markers added as placeholders. | Open |
 | M9 | How to Use, Foreword | "Write in it… fill the boxes in pen", "A blank handbook helped no one" and "on the page" — rewrite around the worksheet pack (option 3). | Done — How to Use and Foreword (critical edits). |
-| M10 | Book | Build the worksheet pack (16 worksheets — see `editorial/worksheet-pack.md`). | Open |
+| M10 | Book | Build the worksheet pack (15 worksheets — see `editorial/worksheet-pack.md`). | Open |
 | M11 | App E, Create Your Plan | Drop the "Source: Flow7 Data Mapping workbook (DATA-MAPPING sheet), SP Data Consultancy Ltd" citations (the workbook is not kept). Keep the FULLNAME/OPTEDIN example, introduced as coming from one of Stuart's own mapping projects; *About the Sources* covers it. | Done — Create Your Plan and Appendix E (critical edits). |
 | M12 | Ch 5 | Stuart to add further common mismatch types to "What you are looking for" during the copy-edit phase (dates and times added 26 Oct). | Open — copy-edit |
 | M13 | Ch 7 | Worked example uses invented, labelled numbers for now. Stuart's project plan template could supply a real-based loading plan later — revisit at copy-edit or design. | Open — later |
 | M14 | Create Your Plan, How to Use | Web address for the *Are You Ready?* Data Migration Checker — Zoho-hosted, may move to its own domain. Stuart to supply; "at stuartparkins.com" until then. | Open — later edit |
 | M15 | Book | Rename "Flow7 Migration System" → "Flow7 Data Migration System" throughout (11 uses) and apply the downloads naming from the style sheet. | Open — copy-edit |
 | M16 | Downloads | The combined Excel file (SPDATA-FLOW7-MIGRATION-TEMPLATE.xlsx) will go to readers as the Flow7 Migration Workbook. Replace the real celebrity names in its sample team with invented ones before release. | Open — Stuart / worksheet-pack stage |
-| M17 | Ch 5 | Add one line in "What you are looking for" pointing to the Terminology Translator (Appendix E, Worksheet E.1). | Open — copy-edit |
+| M17 | Ch 5 | Add one line in "What you are looking for" pointing to the Terminology Translator (Appendix A, Worksheet A.1). | Open — copy-edit |
 | M8 | Book | Front matter not yet written: title page, copyright page (ISBN, edition, disclaimer, trademark note for Flow7 Migration System™), contents, About the Author, About the sources (if D1 = a). | Open |
 
 ## Cross-references and consistency

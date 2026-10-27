@@ -24,10 +24,6 @@ Decision (Stuart, 25 Oct 2026): **option 3, hybrid.** In the handbook, each *You
 | 7.2 | Ch 7 | Rollback trigger — trigger, decision-maker, where the steps are | PDF | Moved (critical edit Ch 7) |
 | ~~7.3~~ | Ch 7 | ~~Issue log~~ — dropped; the Step 6 UAT Testing List carries on as the go-live issue log (agreed 27 Oct 2026) | — | Dropped |
 | KB.1 | Know the Business | Business knowledge handover — what each step taught, where it lives now, translator owner, who needs to know | PDF + Excel | New (critical edit Know the Business) |
-| E.1 | Appendix E | Terminology Translator — our word, source label, target field, same object?, notes | PDF + Excel | New (critical edit Appendix E) |
-| E.1 | Appendix E | Your own Terminology Translator — our word, source label, target field, same object?, notes | PDF + Excel | At critical edit |
+| A.1 | Appendix A | Terminology Translator — our word, source label, target field, same object?, notes | PDF + Excel | New (critical edit Appendix A, formerly E) |
 
-Knock-on edits for later in the critical edit:
-- *How to Use This Handbook*: "Write in it… fill the boxes in pen" and "A blank handbook helped no one" need rewriting around the worksheet pack.
-- *Foreword*: "a short exercise to do right on the page" and "on the page" need the same treatment.
-- The *Your template* box in every chapter names that chapter's worksheets.
+**Total: 15 worksheets** — P.2, P.3, 1.1, 1.2, 2.1, 2.2, 3.1, 4.1, 5.1, 5.2, 6.1, 7.1, 7.2, KB.1, A.1. (The knock-on edits to How to Use, the Foreword and the template boxes were done in the critical edit.)

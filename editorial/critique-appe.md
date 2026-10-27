@@ -31,7 +31,7 @@ Words: about 3,160 → 2,990.
 
 **P5 — "How to use it"** now says to keep the appendix open "from planning to go-live", matching *Create Your Plan* and *Know the Business*.
 
-**P6 — Your Turn → Exercise E.1 and Worksheet E.1.** The three steps stay, the blank table moves to the worksheet, and the timing is fixed: start in Step 1, complete before Step 5. The worksheet pack grows to 16. Worksheet E.1 is the Terminology Translator that *Know the Business* asks readers to hand over.
+**P6 — Your Turn → Exercise E.1 and Worksheet E.1.** The three steps stay, the blank table moves to the worksheet, and the timing is fixed: start in Step 1, complete before Step 5. The worksheet pack stays at 15 (an E.1 row was already planned). Worksheet E.1 is the Terminology Translator that *Know the Business* asks readers to hand over.
 
 **P7 — "Sources & conventions" → "Conventions".** It's now two sentences: the definitions are a general guide, and watch-outs marked *(real)* come from the case study or your own projects; the rest are labelled illustrative.
 

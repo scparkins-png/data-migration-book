@@ -38,7 +38,7 @@ This is the map to keep. Read it as *what the project was teaching you about the
 
 The practical tool for the second kind of knowledge is the **Terminology Translator** you have been keeping since the start — *our word / the system's word / what it really is*. By now it is not a reference table copied from a book. It is a record of how *your* business actually talks, and where its language collides with the new system.
 
-Keep it with the project handover, and give it an owner. It is the cheapest insurance a business will ever buy against knowledge walking out of the door. The full reference — all seven business areas, plus the "false friends" that cause the most trouble — is in **Appendix E**.
+Keep it with the project handover, and give it an owner. It is the cheapest insurance a business will ever buy against knowledge walking out of the door. The full reference — all seven business areas, plus the "false friends" that cause the most trouble — is in **Appendix A**.
 
 ## From the Field
 
