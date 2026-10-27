@@ -44,7 +44,7 @@ Chapter numbers below use the new structure (Part Two: Chapters 1–7 = Steps 1�
 | X12 | Ch 4 | Checklist order 4A4, 4A1, 4A2, 4A3 with an explanatory note — consider renumbering in the source checklist instead. | Order is in the Excel itself — see reference-catalogue R5 |
 | X13 | How to Use | Section order in "Every chapter follows the same rhythm" differs from the chapters (D6). | Done (critical edit How to Use) — How to Use now matches the chapters (D6) |
 | X14 | Foreword | Heading in Drive file title is "Forward" — the chapter heading is correctly "Foreword"; just rename the Drive file. | Open |
-| X15 | Know the Business | References 1 and 2 cite the same case study — merge (or fold into About the sources, D1). | Open |
+| X15 | Know the Business | References 1 and 2 cite the same case study — merge (or fold into About the sources, D1). | Done (critical edit Know the Business) — both references removed; covered by About the Sources (D1) |
 | X16 | Book | Old long Chapter 11 asked for a one-line signpost at the end of every step chapter pointing forward to Chapter 11. Not yet done in Chapters 4–10. | Done (pass 1) — tailored one-line signpost at the end of each step chapter |
 | X17 | Book | Heading case and checklist/gate formats vary between chapters (style sheet §5). | Decision |
 
