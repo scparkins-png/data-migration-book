@@ -69,8 +69,19 @@ Gather the *Know the business* notes you made at the end of each step chapter. T
 
 You have turned a migration into a record of how the business actually works — its processes, its exceptions, and the shared language that keeps its systems talking to each other. The data moved; the knowledge stayed. That is the difference between a business that comes through a system change stronger and one that quietly loses a piece of itself in the move.
 
-## Looking Further
+> 📄 **Your template.** Worksheet KB.1 is in the worksheet pack. Download at **stuartparkins.com**.
 
-The seven Flow7 steps were built for data migration, but they are not limited to it. The same sequence — sources, quality, master, target, mapping, testing, go-live — applies to any data project: reporting and analytics builds, workflow automation, and AI implementations. The questions at each step change to fit the work; the order and the discipline do not.
+## A Final Word
 
-> 📄 **Your template.** The *7 Steps for Any Data Project* reference sheet shows how Flow7 applies across all four project types. Worksheet KB.1 is in the worksheet pack. Download at **stuartparkins.com**.
+If you have worked through this handbook, you have done more than move data. You have found where it really lived, faced up to its condition, decided what was true, and proved it worked before anyone had to depend on it. And along the way you have learned how your business actually runs — and written it down.
+
+Here is the part I most want you to take with you: none of that was really about migration. Flow7 is a way of handling data whenever it is used to produce something. A new set of management reports, a dashboard the board will trust, an automated workflow, an AI tool answering questions from your own records — every one of them depends on the same seven questions. Where does the data live? What condition is it in? Which version is true? What will the destination accept? How does one fit the other? Does it actually work? And can the business rely on it from day one?
+
+Get those right, and the technology looks after itself. Skip them, and no tool — however clever — will rescue the result. AI makes that more true, not less: it will produce an answer from whatever data you give it, confidently, whether that data is right or not.
+
+So keep the method. Keep the folder. Keep asking what the business calls things and how it really works. The next time someone says *"It's fine — the data's all in there, we'll just plug it in"*, you'll know exactly where to start.
+
+*Stuart Parkins*
+*SP Data Consultancy Ltd · stuartparkins.com*
+
+> 📄 **Your template.** The *7 Steps for Any Data Project* reference sheet shows how the seven steps apply to reporting and analytics, workflow automation and AI projects as well as migrations. Download at **stuartparkins.com**.

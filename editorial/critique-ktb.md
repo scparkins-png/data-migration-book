@@ -32,11 +32,12 @@ A *Key idea* box follows: anything still in someone's head is your first job aft
 
 **P6 — Small wording.** "Quietly tolerated" becomes "quietly put up with". "Survives a system change" becomes "comes through a system change stronger". "Fall out of alignment" becomes "fall out of step". "As-is" becomes "as they stand".
 
+**P7 — A Final Word (added at Stuart's request, 27 Oct).** A signed closing piece replaces "Looking Further". It recaps what the reader has done, then makes Stuart's point that Flow7 applies wherever data is used to produce something — reporting, dashboards, automation and AI — as the same seven questions. It echoes the Foreword's opening line ("we'll just plug it in"). The *7 Steps for Any Data Project* box follows the sign-off.
+
 ## Not changed
 
 - The walk-back table (shortened wording only).
 - The two kinds of knowledge.
-- "Looking Further", moved here in the Chapter 7 edit, still closes the book.
 
 ## Question for you
 
