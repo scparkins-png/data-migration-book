@@ -53,3 +53,7 @@ With no Appendices A–D written yet, this one is "Appendix E" on its own. I'd s
 - **References:** only if external sources are added later. At the moment the book has none, because every source is your own.
 
 A separate glossary isn't needed: the translator, plus the plain-English boxes in the chapters, cover it. Does that work for you?
+
+## Outcome (27 Oct 2026)
+
+Approved by Stuart. Appendices agreed: **Appendix A — The Terminology Translator** (this one, relettered); **Appendix B — Templates and worksheets** index; no glossary; References only if external sources are added (closes M2). Merged.
