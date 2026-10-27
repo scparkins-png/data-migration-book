@@ -22,7 +22,7 @@ Decision (Stuart, 25 Oct 2026): **option 3, hybrid.** In the handbook, each *You
 | 6.1 | Ch 6 | Draft UAT script — the nine fields (tester fields left blank) | PDF + Excel | Moved (critical edit Ch 6) |
 | 7.1 | Ch 7 | Loading plan — order, what is loaded, depends on, expected count, loaded count, who checks it | PDF + Excel | Moved (critical edit Ch 7) |
 | 7.2 | Ch 7 | Rollback trigger — trigger, decision-maker, where the steps are | PDF | Moved (critical edit Ch 7) |
-| ~~7.3~~ | Ch 7 | ~~Issue log~~ — dropped; the Step 6 UAT Testing List carries on as the go-live issue log (proposal P9, awaiting Stuart) | — | Dropped (pending approval) |
+| ~~7.3~~ | Ch 7 | ~~Issue log~~ — dropped; the Step 6 UAT Testing List carries on as the go-live issue log (agreed 27 Oct 2026) | — | Dropped |
 | E.1 | Appendix E | Your own Terminology Translator — our word, source label, target field, same object?, notes | PDF + Excel | At critical edit |
 
 Knock-on edits for later in the critical edit:

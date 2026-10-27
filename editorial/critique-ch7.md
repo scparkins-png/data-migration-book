@@ -54,3 +54,8 @@ Words: about 3,810 → 2,500 (the worked example adds about 200).
 
 1. **Drop Exercise 7.3?** I've folded it into the Step 6 UAT Testing List. If you'd rather keep a separate go-live log, I'll restore it using the Step 6 severity scale, not H/M/L.
 2. **Worked-example numbers.** The wholesaler's counts are invented, and the example is labelled as an illustrative scenario. Happy with that, or would you rather use an anonymised loading plan from a real engagement?
+
+## Answers (27 Oct 2026)
+
+1. Exercise 7.3 dropped — the Step 6 UAT Testing List carries on as the go-live issue log. Agreed.
+2. Invented, labelled numbers are fine for now. Stuart has a real project plan among his templates that could replace or support the worked example later (edit log M13).
