@@ -10,14 +10,14 @@ Chapter numbers below use the new structure (Part Two: Chapters 1–7 = Steps 1�
 
 | # | Where | Item | Status |
 |:-|:-|:-|:-|
-| M1 | Book | **Introduction** (Pass 3) is not in Drive — confirmed 25 Oct: the Pass 2 master lists it as "to be added". Not in the source folder, so to be written (after the step chapters). Planned content: the Forbes/McKinsey overrun statistics (source still to verify). | Open |
+| M1 | Book | **Introduction** (Pass 3) is not in Drive — confirmed 25 Oct: the Pass 2 master lists it as "to be added". Not in the source folder, so to be written (after the step chapters). Planned content: the Forbes/McKinsey overrun statistics (source still to verify). | Closed 27 Oct — Stuart decided: no Introduction, no statistics. About the Sources updated. |
 | M2 | Book | **Appendices A–D** are not in Drive. Appendix E refers to "Appendix C" as the full glossary. Planned set from Pass 3: full checklist, template index, glossary. | Open |
 | M3 | Book | **Flow7 Beyond Migration** closing chapter. A short "Looking Further" section already ends Chapter 10 — decide whether it grows into its own chapter or stays there. | Decision |
 | M4 | Ch 1, Ch 4, Ch 7 | Three **worked-example placeholders** await real (anonymised) client data. | Done — Ch 1, Ch 4 and Ch 7 all use the illustrative kitchenware wholesaler (critical edits). |
 | M5 | Ch 1 | "See Chapter XXX" — placeholder cross-reference (should point to Create Your Plan's *Know the Business* section and/or Chapter 11). | Done (pass 1) — now points to Create Your Plan's *Know the Business — and Its Language* and the closing chapter |
 | M6 | Ch 4 | Sentence ends "Remember" with nothing after it. | Open |
 | M7 | Ch 6 | Exercise: Description, Test Steps, Test Data and Expected Result have no answer space in the Drive text (boxes probably lost). `{{write-in-box}}` markers added as placeholders. | Open |
-| M9 | How to Use, Foreword | "Write in it… fill the boxes in pen", "A blank handbook helped no one" and "on the page" — rewrite around the worksheet pack (option 3). | How to Use done (critical edit). Foreword still open. |
+| M9 | How to Use, Foreword | "Write in it… fill the boxes in pen", "A blank handbook helped no one" and "on the page" — rewrite around the worksheet pack (option 3). | Done — How to Use and Foreword (critical edits). |
 | M10 | Book | Build the worksheet pack (15 worksheets — see `editorial/worksheet-pack.md`). | Open |
 | M11 | App E, Create Your Plan | Drop the "Source: Flow7 Data Mapping workbook (DATA-MAPPING sheet), SP Data Consultancy Ltd" citations (the workbook is not kept). Keep the FULLNAME/OPTEDIN example, introduced as coming from one of Stuart's own mapping projects; *About the Sources* covers it. | Create Your Plan done (critical edit). Appendix E still open. |
 | M12 | Ch 5 | Stuart to add further common mismatch types to "What you are looking for" during the copy-edit phase (dates and times added 26 Oct). | Open — copy-edit |
@@ -54,13 +54,13 @@ For the copy-edit pass. Listed now so nothing is lost; each will be shown in con
 
 | # | Where | Text | Suggested |
 |:-|:-|:-|:-|
-| C1 | Foreword | "I've both run the migrations and been a part of a team where they went smoothly and, more usefully for you, I've seen the ones that didn't and my experience has saved a few." | Restructure — long and the "both… and" doesn't resolve |
-| C2 | Foreword | "Because here is what I've learned, data migrations…" | colon after "learned" |
-| C3 | Foreword | "Making sure those three factors are key, means the technical migration becomes much easier" | e.g. "Get those three right, and the technical migration becomes much easier" |
-| C4 | Foreword | "you may get kick back" | "push-back" |
-| C5 | Foreword | "A migration can feel daunting, is worrying, but is more comfortable when managed systematically." | Rework |
-| C6 | Foreword | "smaller( it may be a huge migration!)" | "smaller (it may still be a huge migration!)" |
-| C7 | Foreword | "from small one to one system migrations to huge multi business, multi system migrations" | "one-to-one", "multi-business, multi-system" |
+| C1 | Foreword | "I've both run the migrations and been a part of a team where they went smoothly and, more usefully for you, I've seen the ones that didn't and my experience has saved a few." | Restructure — long and the "both… and" doesn't resolve — *Done (critical edit Foreword)* |
+| C2 | Foreword | "Because here is what I've learned, data migrations…" | colon after "learned" — *Done (critical edit Foreword)* |
+| C3 | Foreword | "Making sure those three factors are key, means the technical migration becomes much easier" | e.g. "Get those three right, and the technical migration becomes much easier" — *Done (critical edit Foreword)* |
+| C4 | Foreword | "you may get kick back" | "push-back" — *Done (critical edit Foreword)* |
+| C5 | Foreword | "A migration can feel daunting, is worrying, but is more comfortable when managed systematically." | Rework — *Done (critical edit Foreword)* |
+| C6 | Foreword | "smaller( it may be a huge migration!)" | "smaller (it may still be a huge migration!)" — *Done (critical edit Foreword)* |
+| C7 | Foreword | "from small one to one system migrations to huge multi business, multi system migrations" | "one-to-one", "multi-business, multi-system" — *Done (critical edit Foreword)* |
 | C8 | How to Use | "tests 50,000 thousand records" | "50,000 records" — *Done (critical edit How to Use)* |
 | C9 | How to Use | "a clear STOP or GO  gate" | double space — *Done (critical edit How to Use)* |
 | C10 | Create Your Plan | "whether in the business already or a new data specialist the involvement in the project will increase…" | comma after "specialist" — *Done (critical edit Create Your Plan) — sentence rewritten* |
