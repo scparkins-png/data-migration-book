@@ -9,8 +9,8 @@ Decision (Stuart, 25 Oct 2026): **option 3, hybrid.** In the handbook, each *You
 
 | Worksheet | Chapter | Content | Format | Status |
 |:-|:-|:-|:-|:-|
-| P.2 | Create Your Plan | Outline Migration Statement — moving / reason / success / out of scope / sign-off | PDF | Content exists in chapter; moves at critical edit |
-| P.3 | Create Your Plan | First three risks — risk, likelihood, impact, owner | PDF + Excel | Content exists in chapter; moves at critical edit |
+| P.2 | Create Your Plan | Outline Migration Statement — moving / reason / success / out of scope / sign-off | PDF | Moved (critical edit Create Your Plan) |
+| P.3 | Create Your Plan | First three risks — risk, likelihood, impact, owner | PDF + Excel | Moved (critical edit Create Your Plan) |
 | 1.1 | Ch 1 | Source brainstorm — where data might live, department / who uses it (8 rows) | PDF + Excel | Moved (critical edit Ch 1) |
 | 1.2 | Ch 1 | Export reality check — how, how long, who has the login | PDF | Moved |
 | 2.1 | Ch 2 | 20-record spot-check — blanks, duplicates, formatting, accuracy, stale; what you found, rough % | PDF + Excel | Moved (critical edit Ch 2) |

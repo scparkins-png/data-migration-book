@@ -104,7 +104,7 @@ Note: *How to Use This Handbook* lists "In this chapter you will…" **before** 
 | `> ↩ **Tracking back.**` | Go back to an earlier step |
 | `> 📄 **Your template.**` | Which template to open and where to download it |
 | `{{worksheet: N \| title}}` | Pointer to Worksheet N in the worksheet pack (replaces write-in space) |
-| `{{progress: N}}` | The seven-step "you are here" strip in the chapter opener |
+| `{{progress: N}}` | The seven-step "you are here" strip in the chapter opener. `{{progress: foundation}}` (Create Your Plan) shows the strip with no step filled and the Foundation marked. |
 
 ## 7. Sources and citation
 
