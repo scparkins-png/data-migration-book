@@ -1,6 +1,6 @@
 # Create Your Plan
 
-### *The Foundation — before the seven steps of the Flow7 Migration System*
+### *The Foundation — before the seven steps of the Flow7 Data Migration System*
 
 **Every successful migration needs a clear plan — written down and agreed by the people who will do and manage the work — before a single record is moved.**
 
@@ -79,11 +79,11 @@ So set your *own* timeline. Don't take the dates suggested by system vendors or 
 
 ## Your Turn
 
-### Planning Exercise 1 — Run your readiness assessment
+### Planning Exercise 1 — Run Your Readiness Assessment
 
 Work through the *Are You Ready?* Data Migration Checker and keep the result. It flags the high-level factors — reasons, timeline, budget, data quality — and you will use it for the next two exercises.
 
-### Planning Exercise 2 — Write your Outline Migration Statement
+### Planning Exercise 2 — Write Your Outline Migration Statement
 
 A five-minute exercise. Do it now, before you move on. Answer five questions:
 
@@ -97,7 +97,7 @@ Questions 1 and 2 together are your one-sentence aim.
 
 {{worksheet: P.2 | Outline Migration Statement}}
 
-### Planning Exercise 3 — Note your first three risks
+### Planning Exercise 3 — Note Your First Three Risks
 
 Using what the readiness assessment brought out, write down the first three things that could go wrong. Don't overthink it. For each one, note how likely it is, how much it would hurt, and who owns it.
 

@@ -2,7 +2,7 @@
 
 # Is Your Data Ready?
 
-### *Step 2 of the Flow7 Migration System — Assess Source Data Quality*
+### *Step 2 of the Flow7 Data Migration System — Assess Source Data Quality*
 
 **"A migration does not improve your data. It relocates it."**
 
@@ -59,7 +59,7 @@ A few notes on using them:
 
 The sheet also records the **department**, the **owner or expert** (their initials) and the **total data size** (TB / GB / MB) for each process.
 
-> ▶ **Completeness vs accuracy — the distinction that saves you**
+> 🔑 **Key idea — completeness vs accuracy, the distinction that saves you**
 >
 > These two get confused constantly, so fix the difference in your mind now:
 >
@@ -107,7 +107,7 @@ The essentials for Step 2, for **every** priority source — not just one. The f
 | 2A | Where sources disagree, note which one is correct | ☐ |
 | 2A | List what needs cleaning — and any process knowledge that lives only in people's heads | ☐ |
 
-> ▶ **Worked example — Sage 50 → Sage X3, Product Master assessment**
+> 📋 **Worked example — Sage 50 → Sage X3, Product Master assessment**
 >
 > *Drawn from the case study. One row of the Step 2 Data Quality Assessment sheet, showing how the seven dimensions look once measured against real data.*
 

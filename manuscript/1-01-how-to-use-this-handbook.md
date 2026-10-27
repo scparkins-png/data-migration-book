@@ -7,7 +7,7 @@ This is a handbook you work *through*, not just a book you read. It's built to s
 The book is in three parts:
 
 - **Part One — Getting Started.** This page, then **Create Your Plan**: the planning that makes everything else possible.
-- **Part Two — The Flow7 Migration System.** Seven ordered steps, one chapter each, taking you from "where does our data actually live?" to a confirmed go-live. Chapter 1 is Step 1, Chapter 7 is Step 7.
+- **Part Two — The Flow7 Data Migration System.** Seven ordered steps, one chapter each, taking you from "where does our data actually live?" to a confirmed go-live. Chapter 1 is Step 1, Chapter 7 is Step 7.
 - **Part Three — After the Move.** **Know the Business**, where you pull together what the project taught you about how the business works and the words it uses.
 
 At the back, **Appendix A — The Terminology Translator** is the reference to keep open from planning to go-live, and **Appendix B** lists every Flow7 download, step by step.
@@ -57,7 +57,9 @@ There are three kinds of companion file, all at **stuartparkins.com**:
 
 - **The worksheet pack** — the answer space for every *Your turn* exercise, numbered to match (Exercise 2.1 → Worksheet 2.1). Print it, or fill it in on screen.
 - **The Flow7 step templates** — one per step, for the real work: source inventories, mapping sheets, test scripts.
-- **The Flow7 Data Migration Project Plan Checklist** — the Excel workbook that tracks every task, owner and date across all seven steps.
+- **The Flow7 Data Migration Project Plan Checklist** — the Excel file that tracks every task, owner and date across all seven steps.
+
+If you prefer to work in a spreadsheet, **the Flow7 Migration Workbook** puts all the step templates into one Excel file.
 
 This is a handbook, not a technical manual. It tells you *what* to do and *why*, and hands you to the right tool for the *how*. Keep a folder — digital or physical — for your worksheets and working files. By the end, that folder *is* your migration.
 

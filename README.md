@@ -15,13 +15,15 @@ Working repository for compiling, editing and producing the book. Drafting still
 
 ## Current state (25 October 2026)
 
-- Consolidated from Google Drive: about 30,400 words, organised in three parts — Part One (Foreword, How to Use, Create Your Plan), Part Two (Chapters 1–7, one per Flow7 step), Part Three (Know the Business) — plus Appendix E.
+- Consolidated from Google Drive: about 30,400 words, organised in three parts — Part One (Foreword, How to Use, Create Your Plan), Part Two (Chapters 1–7, one per Flow7 step), Part Three (Know the Business) — plus Appendices A and B.
 - File names give reading order: `1-` Part One, `2-` Part Two, `3-` Part Three, `9-` appendices.
 - Not yet in the manuscript: Appendices A–D, front matter (see `editorial/edit-log.md`). No Introduction (decided 27 Oct 2026).
 - Style sheet v0.1: four decisions settled (references, numbering, handbook, product count); three still open.
 - Structural pass 1 approved and merged. Signposting system approved.
 - Critical edit complete (27 Oct 2026): all chapters, Part One and Know the Business approved and merged. No Introduction. Book closes with *A Final Word*.
-- Next: copy-edit (see open items in `editorial/edit-log.md`).
+- Appendices settled (27 Oct 2026): A — Terminology Translator; B — Templates and Worksheets.
+- Copy-edit pass 1 done on branch `copyedit-1` (27 Oct 2026); awaiting Stuart's approval. Remaining open items are listed in `editorial/edit-log.md`.
+- Next: front matter, worksheet pack, then design.
 
 ## Working rules
 

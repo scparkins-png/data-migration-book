@@ -2,7 +2,7 @@
 
 # Go Live
 
-### *Step 7 of the Flow7 Migration System — Migration Go Live*
+### *Step 7 of the Flow7 Data Migration System — Migration Go Live*
 
 **A go-live that follows a written plan, runs in a rehearsed order and is checked by named people is a calm event, not a dramatic one. That is what this chapter sets up.**
 

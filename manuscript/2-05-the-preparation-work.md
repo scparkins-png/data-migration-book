@@ -2,7 +2,7 @@
 
 # The Preparation Work
 
-### *Step 5 of the Flow7 Migration System — Data Mapping and Cleaning*
+### *Step 5 of the Flow7 Data Migration System — Data Mapping and Cleaning*
 
 **"This is my favourite bit: taking messy, scattered data and making it work properly."**
 
@@ -58,13 +58,13 @@ For most non-technical teams, **start in Excel**. It handles a full source-to-ta
 
 ### The five-column mapping sheet
 
-The Flow7 Step 5 Simple Mapping Sheet has five columns, and every row fills all five. Use one sheet per area — customers, products, suppliers and so on — and keep them together in one workbook.
+The Flow7 Step 5 Simple Mapping Sheet has five columns, and every row fills all five. Use one sheet per area — customers, products, suppliers and so on — and keep them together in one Excel file.
 
 | Source field | Sample (source) | Target field | Sample (target) | Clean and transform notes |
 |:-:|:-:|:-:|:-:|:-:|
 | The field name in your master set | A real value from your data | The field name in the target system | A real value from the target | What needs to change, and the rule for changing it |
 
-> ▶ **Always use real sample data.** Fill the sample columns with actual values from your master set and your Step 4 target export — never invented examples. Real samples show up problems that made-up data hides: a truncated address, an odd character, a number stored as text. If a field has no sample yet, load one before you map it. Mapping on field names alone is guessing.
+> 🔑 **Key idea — always use real sample data.** Fill the sample columns with actual values from your master set and your Step 4 target export — never invented examples. Real samples show up problems that made-up data hides: a truncated address, an odd character, a number stored as text. If a field has no sample yet, load one before you map it. Mapping on field names alone is guessing.
 
 ### What you are looking for
 
@@ -83,6 +83,7 @@ The most common reasons data needs changing:
 - **Picklists** — the target only accepts values from a fixed list, and your data holds values that are not on it.
 - **Free text where a code belongs** — someone used the product code field as a notes column.
 - **Missing mandatory values** — the target insists on a value your source simply does not have.
+- **Different names for the same thing** — the source says TEL, the target says Phone; or one word, such as "Order", hides two different things. Check each one against the Terminology Translator (Appendix A) and record it on Worksheet A.1.
 
 And one that is consistently overlooked: **documents.** Purchase orders, sales orders, invoices and statements all pull data fields. If a field appears on a printed or emailed document, it is in scope for the mapping.
 
@@ -145,7 +146,7 @@ The essentials for Step 5. The full task list, with status, owner and date colum
 | 5C | Load cleaned samples into the target, check them on screen, and update your rules | ☐ |
 | 5C | Define the sample test data set you will use in Step 6 | ☐ |
 
-> ▶ **Worked example — Sage 50 → Sage X3, five mapping rows**
+> 📋 **Worked example — Sage 50 → Sage X3, five mapping rows**
 >
 > *Drawn from the case study. Five real mismatch types from the Sage 50 → X3 mapping, written as they would appear in the Step 5 Simple Mapping Sheet.*
 

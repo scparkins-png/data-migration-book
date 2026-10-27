@@ -2,7 +2,7 @@
 
 # Know Your Destination
 
-### *Step 4 of the Flow7 Migration System — Know Your Target System(s)*
+### *Step 4 of the Flow7 Data Migration System — Know Your Target System(s)*
 
 **A migration that respects what the target system actually expects — its mandatory fields, its formats, its loading order — imports cleanly first time. That is what this step builds for you.**
 

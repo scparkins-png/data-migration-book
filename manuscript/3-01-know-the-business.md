@@ -6,7 +6,7 @@
 
 ## Where You Are
 
-You have finished the seven steps. The data has moved, the counts reconcile, and people are working in the new system. So why is there a chapter *after* Go Live?
+You have finished the seven steps. The data has moved, the counts reconcile, and people are working in the new system. So why is there a chapter *after* the last step?
 
 Because of the lens you picked up in *Create Your Plan* — *Know the Business — and Its Language* — and have carried through every step since. You could not have written this chapter on day one. Knowing a business — really knowing how it works and the words it uses — is not something you learn up front and then apply. It surfaces as the project moves, right through to go-live. Now you have the whole picture, this chapter helps you pull it together and hand it on.
 
@@ -52,7 +52,7 @@ By the end, that knowledge existed *outside* those heads for the first time: in 
 
 ## Your Turn
 
-### Exercise KB.1 — Hand the knowledge on
+### Exercise KB.1 — Hand the Knowledge On
 
 Gather the *Know the business* notes you made at the end of each step chapter. Then answer four questions:
 

@@ -12,21 +12,22 @@ Chapter numbers below use the new structure (Part Two: Chapters 1–7 = Steps 1�
 |:-|:-|:-|:-|
 | M1 | Book | **Introduction** (Pass 3) is not in Drive — confirmed 25 Oct: the Pass 2 master lists it as "to be added". Not in the source folder, so to be written (after the step chapters). Planned content: the Forbes/McKinsey overrun statistics (source still to verify). | Closed 27 Oct — Stuart decided: no Introduction, no statistics. About the Sources updated. |
 | M2 | Book | **Appendices A–D** are not in Drive. Appendix E refers to "Appendix C" as the full glossary. Planned set from Pass 3: full checklist, template index, glossary. | Decided 27 Oct — Appendix A: Terminology Translator (relettered from E); Appendix B: templates and worksheets index; no glossary; References only if external sources are added. |
-| M3 | Book | **Flow7 Beyond Migration** closing chapter. A short "Looking Further" section already ends Chapter 10 — decide whether it grows into its own chapter or stays there. | Decision |
+| M3 | Book | **Flow7 Beyond Migration** closing chapter. A short "Looking Further" section already ends Chapter 10 — decide whether it grows into its own chapter or stays there. | Done — covered by *A Final Word* and the 7 Steps for Any Data Project box at the end of Know the Business (27 Oct). |
 | M4 | Ch 1, Ch 4, Ch 7 | Three **worked-example placeholders** await real (anonymised) client data. | Done — Ch 1, Ch 4 and Ch 7 all use the illustrative kitchenware wholesaler (critical edits). |
 | M5 | Ch 1 | "See Chapter XXX" — placeholder cross-reference (should point to Create Your Plan's *Know the Business* section and/or Chapter 11). | Done (pass 1) — now points to Create Your Plan's *Know the Business — and Its Language* and the closing chapter |
-| M6 | Ch 4 | Sentence ends "Remember" with nothing after it. | Open |
-| M7 | Ch 6 | Exercise: Description, Test Steps, Test Data and Expected Result have no answer space in the Drive text (boxes probably lost). `{{write-in-box}}` markers added as placeholders. | Open |
+| M6 | Ch 4 | Sentence ends "Remember" with nothing after it. | Done (critical edit Ch 4) |
+| M7 | Ch 6 | Exercise: Description, Test Steps, Test Data and Expected Result have no answer space in the Drive text (boxes probably lost). `{{write-in-box}}` markers added as placeholders. | Done (critical edit Ch 6) — worksheet 6.1 |
 | M9 | How to Use, Foreword | "Write in it… fill the boxes in pen", "A blank handbook helped no one" and "on the page" — rewrite around the worksheet pack (option 3). | Done — How to Use and Foreword (critical edits). |
 | M10 | Book | Build the worksheet pack (15 worksheets — see `editorial/worksheet-pack.md`). | Open |
 | M11 | App E, Create Your Plan | Drop the "Source: Flow7 Data Mapping workbook (DATA-MAPPING sheet), SP Data Consultancy Ltd" citations (the workbook is not kept). Keep the FULLNAME/OPTEDIN example, introduced as coming from one of Stuart's own mapping projects; *About the Sources* covers it. | Done — Create Your Plan and Appendix E (critical edits). |
 | M12 | Ch 5 | Stuart to add further common mismatch types to "What you are looking for" during the copy-edit phase (dates and times added 26 Oct). | Open — copy-edit |
 | M13 | Ch 7 | Worked example uses invented, labelled numbers for now. Stuart's project plan template could supply a real-based loading plan later — revisit at copy-edit or design. | Open — later |
 | M14 | Create Your Plan, How to Use | Web address for the *Are You Ready?* Data Migration Checker — Zoho-hosted, may move to its own domain. Stuart to supply; "at stuartparkins.com" until then. | Open — later edit |
-| M15 | Book | Rename "Flow7 Migration System" → "Flow7 Data Migration System" throughout (11 uses) and apply the downloads naming from the style sheet. | Open — copy-edit |
+| M15 | Book | Rename "Flow7 Migration System" → "Flow7 Data Migration System" throughout (11 uses) and apply the downloads naming from the style sheet. | Done (copy-edit 1) — 11 uses renamed |
 | M16 | Downloads | The combined Excel file (SPDATA-FLOW7-MIGRATION-TEMPLATE.xlsx) will go to readers as the Flow7 Migration Workbook. Replace the real celebrity names in its sample team with invented ones before release. | Open — Stuart / worksheet-pack stage |
-| M17 | Ch 5 | Add one line in "What you are looking for" pointing to the Terminology Translator (Appendix A, Worksheet A.1). | Open — copy-edit |
+| M17 | Ch 5 | Add one line in "What you are looking for" pointing to the Terminology Translator (Appendix A, Worksheet A.1). | Done (copy-edit 1) — "Different names for the same thing" added to Ch 5 mismatch list |
 | M18 | App B, Ch 7 | Step 7 template names in Appendix B ("Go-Live Plan", "Go-Live Monitoring") are taken from the PDF file names — Stuart to confirm. Chapter 7's template box names only the Project Plan Checklist; add the Step 7 PDFs once confirmed. | Open — Stuart |
+| M19 | Ch 1 | Step 1 subtitle now reads "Identify Your Data Sources" to match the other chapters' step names — Stuart to confirm the official Flow7 Step 1 name. | Open — Stuart |
 | M8 | Book | Front matter not yet written: title page, copyright page (ISBN, edition, disclaimer, trademark note for Flow7 Migration System™), contents, About the Author, About the sources (if D1 = a). | Open |
 
 ## Cross-references and consistency
@@ -40,17 +41,17 @@ Chapter numbers below use the new structure (Part Two: Chapters 1–7 = Steps 1�
 | X5 | Create Your Plan, Ch 1 | Exercise numbering clash: both chapters use 1.1–1.3. | Done (pass 1) — Planning Exercise 1–4; Exercise 2.x and 7.x renumbered |
 | X6 | Ch 2, Ch 6, Ch 7 | Cooking analogy referred to but never introduced (D4). | Done (pass 1) — analogy dropped; three paragraphs removed (Ch 2, 6, 7) |
 | X7 | Ch 2, Ch 3 vs Ch 6 | 7,000 vs 7,500+ product records (D5). | Decided: 7,500+ — apply in copy-edit pass |
-| X8 | Ch 5 | Templates "available to download at spdata.co.uk" — every other chapter says stuartparkins.com. | Open |
+| X8 | Ch 5 | Templates "available to download at spdata.co.uk" — every other chapter says stuartparkins.com. | Done (critical edit Ch 5) — stuartparkins.com |
 | X9 | Ch 6 | "the eight standard fields" — the list that follows has nine (twice in the chapter). | Done (critical edit Ch 6) — nine fields, numbered |
 | X10 | Ch 6 | Checklist 6A has one item and 6B one item — check against the source checklist; looks thin compared with other steps. | Confirmed: the Excel has only 6A1 and 6B1 — see reference-catalogue R4 |
-| X18 | Ch 2, 3, 5, 6 | Boxes still using the generic ▶ marker: "Worked example" (→ 📋) and the titled boxes "Always use real sample data", "Completeness vs accuracy", "Where the UAT scripts come from" (→ 🔑 Key idea), to match the box key in How to Use. | Open — copy-edit |
+| X18 | Ch 2, 3, 5, 6 | Boxes still using the generic ▶ marker: "Worked example" (→ 📋) and the titled boxes "Always use real sample data", "Completeness vs accuracy", "Where the UAT scripts come from" (→ 🔑 Key idea), to match the box key in How to Use. | Done (copy-edit 1) |
 | X11 | Ch 7 | "Step 7 covers all five phases in detail" — the chapter describes four phases (the checklist has 7A–7E, five sections). Align the wording. | Done (critical edit Ch 7) — text now describes five stages, 7A–7E, including the go/no-go decision |
 | X12 | Ch 4 | Checklist order 4A4, 4A1, 4A2, 4A3 with an explanatory note — consider renumbering in the source checklist instead. | Order is in the Excel itself — see reference-catalogue R5 |
 | X13 | How to Use | Section order in "Every chapter follows the same rhythm" differs from the chapters (D6). | Done (critical edit How to Use) — How to Use now matches the chapters (D6) |
 | X14 | Foreword | Heading in Drive file title is "Forward" — the chapter heading is correctly "Foreword"; just rename the Drive file. | Open |
 | X15 | Know the Business | References 1 and 2 cite the same case study — merge (or fold into About the sources, D1). | Done (critical edit Know the Business) — both references removed; covered by About the Sources (D1) |
 | X16 | Book | Old long Chapter 11 asked for a one-line signpost at the end of every step chapter pointing forward to Chapter 11. Not yet done in Chapters 4–10. | Done (pass 1) — tailored one-line signpost at the end of each step chapter |
-| X17 | Book | Heading case and checklist/gate formats vary between chapters (style sheet §5). | Decision |
+| X17 | Book | Heading case and checklist/gate formats vary between chapters (style sheet §5). | Done (copy-edit 1) — fixed section names kept as written; exercise headings Title Case (style sheet §5) |
 
 ## Copy-edit candidates (typos and grammar)
 
@@ -77,20 +78,20 @@ For the copy-edit pass. Listed now so nothing is lost; each will be shown in con
 | C17 | Ch 1 | "budgeted for so we needed to replicate live data" | comma before "so" — *resolved in Ch 1 critical edit* |
 | C18 | Ch 1 | "re-plan ." / "that data.In the next chapter" | spacing — *resolved in Ch 1 critical edit* |
 | C19 | Ch 1 | 💡 box items run together with " - " | make it a proper list — *resolved in Ch 1 critical edit* |
-| C20 | Ch 2 | "nothing was lost. NB.This is very likely a moving target requiring recounts at  key stages" | "lost. Note that this is…"; double space |
-| C21 | Ch 2 | "business.E.g you cannot email" | "business. For example, you cannot email" |
-| C22 | Ch 2 | "a large percentageof the 7000" / "No product assembly instructions required for…" | "percentage of the 7,000"; reword sentence |
-| C23 | Ch 2 | "not linked to any Boms." | "Bills of Materials (BOMs)" |
-| C24 | Ch 2 | "wrong or  incomplete, e.g. missing a leading '0' ," | spacing |
-| C25 | Ch 3 | "*B*y the time" | italics artefact on the B |
-| C26 | Ch 3 | "discovered it.This often happens" / "complete task.This in my experience" / "process,  only" | spacing; "complete the task" |
-| C27 | Ch 3 | "Flow 7 is the path" | Flow7 |
-| C28 | Ch 4 | "the new shinny system at the start, it's demo data sets will work a charm, it's workflows" | "shiny", "its", "its" |
-| C29 | Ch 4 | "data,  processes" | double space |
-| C30 | Ch 4 | "I suggest, always tests the import templates first" | "Always test the import templates first" |
-| C31 | Ch 4 | "A CLASSIC EXAMPLE OF TRACKING BACK!!" | style as a callout, sentence case |
-| C32 | Ch 4 | "Get access to the front end." bullet quotes the same sentence as the heading | trim |
-| C33 | Ch 4 | "rather than being discovered on migration" | "during the migration" |
+| C20 | Ch 2 | "nothing was lost. NB.This is very likely a moving target requiring recounts at  key stages" | "lost. Note that this is…"; double space — *resolved in the critical edit (verified absent, copy-edit 1)* |
+| C21 | Ch 2 | "business.E.g you cannot email" | "business. For example, you cannot email" — *resolved in the critical edit (verified absent, copy-edit 1)* |
+| C22 | Ch 2 | "a large percentageof the 7000" / "No product assembly instructions required for…" | "percentage of the 7,000"; reword sentence — *resolved in the critical edit (verified absent, copy-edit 1)* |
+| C23 | Ch 2 | "not linked to any Boms." | "Bills of Materials (BOMs)" — *resolved in the critical edit (verified absent, copy-edit 1)* |
+| C24 | Ch 2 | "wrong or  incomplete, e.g. missing a leading '0' ," | spacing — *resolved in the critical edit (verified absent, copy-edit 1)* |
+| C25 | Ch 3 | "*B*y the time" | italics artefact on the B — *resolved in the critical edit (verified absent, copy-edit 1)* |
+| C26 | Ch 3 | "discovered it.This often happens" / "complete task.This in my experience" / "process,  only" | spacing; "complete the task" — *resolved in the critical edit (verified absent, copy-edit 1)* |
+| C27 | Ch 3 | "Flow 7 is the path" | Flow7 — *resolved in the critical edit (verified absent, copy-edit 1)* |
+| C28 | Ch 4 | "the new shinny system at the start, it's demo data sets will work a charm, it's workflows" | "shiny", "its", "its" — *resolved in the critical edit (verified absent, copy-edit 1)* |
+| C29 | Ch 4 | "data,  processes" | double space — *resolved in the critical edit (verified absent, copy-edit 1)* |
+| C30 | Ch 4 | "I suggest, always tests the import templates first" | "Always test the import templates first" — *resolved in the critical edit (verified absent, copy-edit 1)* |
+| C31 | Ch 4 | "A CLASSIC EXAMPLE OF TRACKING BACK!!" | style as a callout, sentence case — *resolved in the critical edit (verified absent, copy-edit 1)* |
+| C32 | Ch 4 | "Get access to the front end." bullet quotes the same sentence as the heading | trim — *resolved in the critical edit (verified absent, copy-edit 1)* |
+| C33 | Ch 4 | "rather than being discovered on migration" | "during the migration" — *resolved in the critical edit (verified absent, copy-edit 1)* |
 
 ## Markup-only changes made during consolidation
 

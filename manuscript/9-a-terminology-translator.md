@@ -182,7 +182,7 @@ The handful of words that cause the most trouble because they mean different thi
 
 ## Your Turn
 
-### Exercise A.1 — Build your own translator
+### Exercise A.1 — Build Your Own Translator
 
 Your business's words will not be exactly these, so build your own three-language translator. Start it in Step 1 and have it complete before you map in Step 5.
 

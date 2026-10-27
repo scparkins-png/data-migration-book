@@ -2,7 +2,7 @@
 
 # Test Before You Trust
 
-### *Step 6 of the Flow7 Migration System — Testing in the Target System(s)*
+### *Step 6 of the Flow7 Data Migration System — Testing in the Target System(s)*
 
 **Structured testing in a safe environment is what turns a migration plan into a migration result. Every issue you find here is one you have time to fix calmly — before go-live depends on it.**
 
@@ -62,7 +62,7 @@ The point of this structure is that *anyone* can follow it. A finance user runs 
 
 Status tells you whether an issue is moving; severity tells you whether you can live with it. Manage this list diligently — at any moment, it is what tells you whether you are ready to go live.
 
-> ▶ **Where the UAT scripts come from.** You do not start from scratch. You listed the processes back in Step 4, in the User Target Processing List. Have it to hand, and check it against your Step 1 Business Process List — in the help notes' words, *"just to cross check nothing has been missed that is important."*
+> 🔑 **Key idea — where the UAT scripts come from.** You do not start from scratch. You listed the processes back in Step 4, in the User Target Processing List. Have it to hand, and check it against your Step 1 Business Process List — in the help notes' words, *"just to cross check nothing has been missed that is important."*
 >
 > **Step 1C** (what the business actually does) → **Step 4B** (how it will work in the new system) → **Step 6A** (a UAT script for each process).
 >
@@ -109,7 +109,7 @@ The essentials for Step 6. The full task list, with status, owner and date colum
 | 6B | Log every issue in the UAT Testing List with status, due date, resolution and severity — and review it daily with the team | ☐ |
 | 6B | Close every critical and serious issue, or agree a dated plan for it, before any go-live decision | ☐ |
 
-> ▶ **Worked example — UAT-001 Login Functionality**
+> 📋 **Worked example — UAT-001 Login Functionality**
 >
 > *The UAT Test Sheet page from the Step 6 template, drawn from a real test run. It uses the same nine fields as every UAT script, so results can be compared across scripts and testers.*
 

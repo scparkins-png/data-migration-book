@@ -2,7 +2,7 @@
 
 # One Version of the Truth
 
-### *Step 3 of the Flow7 Migration System — Define Your Data Master*
+### *Step 3 of the Flow7 Data Migration System — Define Your Data Master*
 
 **"You're not keeping everything — you're keeping the right things."**
 
@@ -49,7 +49,7 @@ Two decisions sit underneath all four:
 - **The golden record.** Where a customer, product or supplier exists in several sources, you decide the rules for which version becomes the single authoritative record, and how the others are merged into it or discarded.
 - **The exclusion list.** Just as important as what you keep is what you deliberately leave behind — stale records, test data, archives that do not need to come across. Write each one down *with the reason*, so the decision is on record rather than rediscovered as an argument later.
 
-> ▶ **Your master can be a spreadsheet**
+> 🔑 **Key idea — your master can be a spreadsheet**
 >
 > If the word "database" just made you nervous — stop. **A master set is defined by structure and process, not by software.** What makes it a master is a clear structure (one row per record, consistent columns, and a unique ID you have created yourself) and a process around it (one named owner, change control, version control and backups). An Excel file with all of that is a far better master than a database without it.
 >
@@ -102,7 +102,7 @@ The essentials for Step 3. The full task list, with status, owner and date colum
 | 3C | Record your golden-record rules and your exclusion list (with reasons), then produce sample outputs | ☐ |
 | 3D | Back up the sources and put the master set under version control | ☐ |
 
-> ▶ **Worked example — Sage 50 → Sage X3, Master Map**
+> 📋 **Worked example — Sage 50 → Sage X3, Master Map**
 >
 > *The Master Map page from the Step 3 template, drawn from the case study. Four agreed data sources feed the central Master Set through SQL views; the red boxes are sources identified but not yet defined or agreed.*
 
