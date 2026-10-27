@@ -51,3 +51,7 @@ The list of false friends and domains is left to Appendix E. The step-by-step "w
 ## Question for you
 
 **The *Are You Ready?* checker's web address.** The book and the template box send readers to it, but I don't have its address. I've put "at stuartparkins.com" for now. If it lives at its own page, send me the link (reference catalogue already lists this as needed).
+
+## Outcome (27 Oct 2026)
+
+Approved by Stuart. The checker's web address is to come at a later editing stage — it is Zoho-hosted and may move to its own domain (edit log M14). Merged.
