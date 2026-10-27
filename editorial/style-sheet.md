@@ -1,4 +1,4 @@
-# House Style Sheet — *Don't Let a Data Migration Panic You*
+# House Style Sheet — *Data Migration the Right Way: The 7-Step System*
 
 Every editorial pass checks the manuscript against this sheet. Rules marked **Settled** come from standards Stuart has already set for the book. Rules marked **Proposed** are drawn from how the manuscript is mostly written now and need Stuart's confirmation before they are enforced. Open decisions are listed at the end.
 
@@ -30,6 +30,7 @@ Version 0.2 · 27 October 2026 (updated after the critical edit)
 | go-live | "go-live" as a noun or adjective ("the go-live window"); "go live" as a verb ("when you go live") | Go Live mid-sentence (keep capitals only for the Step 7 name) |
 | Step references | Step 1 … Step 7; sub-steps 1A, 4B, 5C3 etc. | step one, Step One |
 | Chapter references | Numbered chapters: Chapter 1 … Chapter 7 (= Step 1 … Step 7). Named chapters by title in italics: *Create Your Plan*, *Know the Business*. | chapter four, Ch. 4, "Chapter 11" |
+| Book title | *Data Migration the Right Way: The 7-Step System* (working title, 27 Oct 2026). "7-Step" uses the numeral in the title and on the cover, to echo Flow7; in running text it stays "seven steps". | *Don't Let a Data Migration Panic You* (former title) |
 | The book | handbook | workbook (reserved for Excel files) |
 | UAT, ETL, BOM, SKU, GRN | Spell out on first use in each chapter, then abbreviation | plural with apostrophe (BOM's) |
 | Bills of Materials | Bill of Materials (singular), Bills of Materials (plural) | Boms, BOMS |
