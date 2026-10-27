@@ -38,3 +38,7 @@ This is the one chapter that grows: about 870 → 1,150 words. The extra length 
 ## For the copy-edit (logged as X18)
 
 Four boxes in the approved chapters still use the old generic ▶ marker rather than the key: "Worked example" in Chapters 2, 3, 5 and 6 (should be 📋), and three titled boxes — "Always use real sample data" (Ch 5), "Completeness vs accuracy" (Ch 2) and "Where the UAT scripts come from" (Ch 6). They should become Key idea boxes. That's a mechanical change, so I've left it for the copy-edit rather than reopening approved chapters.
+
+## Outcome (27 Oct 2026)
+
+Approved by Stuart ("approved for now"). Merged.
